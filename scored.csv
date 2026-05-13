@@ -1,0 +1,717 @@
+index,track_id,album_id,artist_id,track,artist,album_name,played_at,duration_ms,plays,dt,unique_days_score,track_score
+0,73RVbX3YhvDYTSyrzKguSi,2U4JHXMiBxsKH4dnYEQg2g,7AC976RDJzL2asmZuz7qil,Parallels - 2003 Remaster,Yes,Going for the One (Deluxe Edition),2026-05-01T21:58:27,353906,4,2026-05-01,6.0,14.8
+1,2cTfzU2iNMI9aZSPOL3mYx,6ELt0QaMOwPGPzfdEXE839,7M1FPw29m5FbicYzS2xdpi,Larks' Tongues In Aspic (Part I),King Crimson,Larks' Tongues In Aspic (Expanded & Remastered Original Album Mix),2026-05-01T21:50:30,815675,1,2026-05-01,1.5,6.52
+2,43IYZ1zQpbXXWhGQEgjAjb,7isYifHXAT7wbuxbJziBG3,2LIdnZDzySb04oH40be1fR,Who Knows Where The Time Goes?,Fairport Convention,Unhalfbricking,2026-05-01T21:32:42,310173,1,2026-05-01,1.5,5.23
+3,5qmlexKxaI31MvFhObUCZm,68W3ppXWhsOLOURmxzRkyA,7M1FPw29m5FbicYzS2xdpi,The Devils Triangle,King Crimson,In The Wake Of Poseidon,2026-05-01T21:27:27,697023,4,2026-05-01,6.0,15.79
+4,6yhGgwT0IxUt5yG19GDKn0,4tPuH2J8xL4JU91QFTWDUJ,0sihhSAp2JQBQ2oqapkVxV,In Principio,Logos,L'enigma Della Vita,2026-05-01T21:12:15,687373,4,2026-05-01,4.5,14.28
+5,4UhB17vQsTP0qM9grc4ZUi,6wDCNTOXnKI8E4WrsdeJH9,1CD77o9fbdyQFrHnUPUEsF,Empty Pages - Remastered 2010,Traffic,John Barleycorn Must Die Deluxe Edition,2026-05-01T21:09:30,274680,2,2026-05-01,3.0,8.48
+6,4SoykGLnLQPgQUkrKQxNYq,5UI2X5VAmgu9xrlXDd5U7B,1PCZpxHJz7WAMF8EEq8bfc,Change Is Now - Single Version,The Byrds,The Notorious Byrd Brothers,2026-05-01T21:05:01,201266,1,2026-05-01,1.5,4.71
+7,1rw12PalmC8IDoygHT3fm1,1VHLlFuKZYLVhnLanVzJxF,0nCiidE5GgDrc5kWN3NZgZ,From the Beginning,"Emerson, Lake & Palmer",Trilogy,2026-05-01T20:55:01,256333,1,2026-05-01,1.5,4.99
+8,4ZCK0R2BRtXxHH8Fb1vq2n,2WO6VIu5x3rMXWcMzH36jl,3Uz6jx81OY2J5K8Z4wmy2P,Never Let Go - Single Version / Remastered 2023,Camel,Camel (Expanded Edition),2026-05-01T20:48:30,216733,1,2026-05-01,1.5,4.79
+9,4NAP1NmknfmMkKuDi4fhxI,1uXol4dKqzMsUiqvHpwhZh,7AC976RDJzL2asmZuz7qil,Siberian Khatru - 2025 Remaster,Yes,Close to the Edge (Super Deluxe Edition),2026-05-01T19:13:32,537373,3,2026-05-01,4.5,12.5
+10,0RymZK3n4wILiqOfQzzMsS,2fwr3utdlIdPX9cMjZ1QYW,1MD5pgVzlusqGyuSTcTxvu,Impressioni di Settembre,Premiata Forneria Marconi,Celebration 1972-2012,2026-05-01T18:41:46,344400,1,2026-05-01,1.5,5.37
+11,2ln1kC2KAxzr8d6pRkxWbq,093JGCJ5YMNGFnmsvR9WHt,7AC976RDJzL2asmZuz7qil,I Get Up I Get Down - Remix,Yes,The Steven Wilson Remixes,2026-05-01T18:36:16,344925,1,2026-05-01,1.5,5.37
+12,092Do4luuSxuhhdCAlH0vo,093JGCJ5YMNGFnmsvR9WHt,7AC976RDJzL2asmZuz7qil,Total Mass Retain - Remix,Yes,The Steven Wilson Remixes,2026-05-01T17:54:38,144171,1,2026-05-01,1.5,4.33
+13,5z0a7b6MXxCa2TAFrfCKNW,093JGCJ5YMNGFnmsvR9WHt,7AC976RDJzL2asmZuz7qil,The Solid Time of Change - Remix,Yes,The Steven Wilson Remixes,2026-05-01T17:52:09,364302,1,2026-05-01,1.5,5.44
+14,6mAQOxxt839lfifqME35Pe,1dbVSQR5jcw5rdngMyA3d8,7M1FPw29m5FbicYzS2xdpi,Discipline,King Crimson,The Condensed 21st Century Guide To King Crimson (1969 - 2003),2026-05-01T17:33:52,302613,1,2026-05-01,1.5,5.2
+15,0pVx93u0NdATyRJcqkKaqP,5mhHyVk0zf9jvqvx9w77c5,4lianjyuR1tqf6oUX8kjrZ,Il Ballo Del Potere,Franco Battiato,Gommalacca,2026-05-01T11:37:25,265413,1,2026-05-01,1.5,5.04
+16,50eMzYSsS35VhHAerXt2Wu,6vUUBFECAo0oLUWfjqmXtZ,1MD5pgVzlusqGyuSTcTxvu,Il Banchetto - Live In Japan 2002,Premiata Forneria Marconi,Live In Japan 2002,2026-05-01T10:37:02,187053,1,2026-05-01,1.5,4.63
+17,6rbLGESJIt0IdCWcrXtrFK,1Apj3GZ0D7l94CFA5qInjr,4RuYtHjAKBufQRqBUMiOfK,L'Evoluzione,Banco Del Mutuo Soccorso,Darwin (1991 Edition),2026-05-01T10:37:02,1006400,5,2026-05-01,6.0,17.66
+18,2rWEbA4iZyJ0jMthYmKkSs,1WeTsUeoyJBDYiqdoCtO8I,4RuYtHjAKBufQRqBUMiOfK,Fino Alla Mia Porta,Banco Del Mutuo Soccorso,Come in un'ultima cena,2026-05-01T10:37:02,276333,1,2026-05-01,1.5,5.08
+19,176RyR4Ac2kU0bEI4uycWs,0V7yj1nGYDsBjlMrsI5w5C,4RuYtHjAKBufQRqBUMiOfK,Traccia II,Banco Del Mutuo Soccorso,Io Sono Nato Libero,2026-05-01T10:37:02,159226,1,2026-05-01,1.5,4.45
+20,3UidBOm9Cl9N7tfLAtHHpo,1Apj3GZ0D7l94CFA5qInjr,4RuYtHjAKBufQRqBUMiOfK,La Conquista Della Posizione Eretta,Banco Del Mutuo Soccorso,Darwin (1991 Edition),2026-05-01T10:37:02,599293,1,2026-05-01,1.5,6.1
+21,5TjLHZ8tPECmCgR2LvlFWd,6JHd5ZgLC06c0Id5e2Vbz3,1MD5pgVzlusqGyuSTcTxvu,La grande Pasqua russa,Premiata Forneria Marconi,PFM in Classic - Da Mozart a Celebration,2026-05-01T10:37:02,437943,1,2026-05-01,1.5,5.68
+22,6wNZa5e5DVBwMbqB4uYuXp,0Ft1jEOyGY74ZgHb1FYO4U,4RuYtHjAKBufQRqBUMiOfK,750.000 anni fa... l'amore?,Banco Del Mutuo Soccorso,Darwin!,2026-05-01T10:37:02,338093,2,2026-05-01,3.0,8.77
+23,7l2Gh3fSaknNtzOxFuadeC,3gISC18IyM5W4fd3bVz9hk,1MD5pgVzlusqGyuSTcTxvu,Nuvole Nere,Premiata Forneria Marconi,Serendipity,2026-05-01T10:37:01,247133,3,2026-05-01,4.5,11.38
+24,3yllEGh0om4VrFThDlFXXY,7cLNFRklt2EupipdILxJc7,7nQZVqkaUxa3A62UJSisSB,Il giro del cappio,La coscienza di Zeno,La notte anche di giorno,2026-05-01T10:37:01,323053,1,2026-05-01,1.5,5.28
+25,2sG6kG8mEDaiv7AN0TJ310,0b33cACjsSPVBchGgsFGMu,4lianjyuR1tqf6oUX8kjrZ,Apparenza e realtà,Franco Battiato,Universi paralleli di Franco Battiato,2026-05-01T10:37:01,218880,3,2026-05-01,4.5,11.22
+26,0dkkRsEy6Td8ocFG1ACLsT,0V7yj1nGYDsBjlMrsI5w5C,4RuYtHjAKBufQRqBUMiOfK,Non mi rompete,Banco Del Mutuo Soccorso,Io Sono Nato Libero,2026-05-01T07:03:36,307106,1,2026-05-01,1.5,5.21
+27,5sR0z233pgvP2D7w39qCZe,7m6StTtrbnkaC6FkDVNnTe,2CqEOngQOOMstJupNn6Hmf,Drive (Grundfunken),NEU!,NEU!,2026-05-02T19:28:28,313626,1,2026-05-02,1.5,5.25
+28,4RMMYBTQ35CCRNx4nlAANq,7m6StTtrbnkaC6FkDVNnTe,2CqEOngQOOMstJupNn6Hmf,Crazy,NEU!,NEU!,2026-05-02T19:23:01,194226,1,2026-05-02,1.5,4.66
+29,3776wlNwK1mLH4ycuBNuWn,7m6StTtrbnkaC6FkDVNnTe,2CqEOngQOOMstJupNn6Hmf,Dänzing,NEU!,NEU!,2026-05-02T19:19:37,305946,1,2026-05-02,1.5,5.21
+30,2BqHy0cZJnERHLaDpX2jdy,7m6StTtrbnkaC6FkDVNnTe,2CqEOngQOOMstJupNn6Hmf,Intro,NEU!,NEU!,2026-05-02T19:16:53,33826,1,2026-05-02,1.5,3.17
+31,6eUnY12Nd9TVWlbBnFQRCw,6wI2sLcBmYzYQd9LFfkbhy,2CqEOngQOOMstJupNn6Hmf,Hallogallo,NEU!,NEU!,2026-05-02T19:16:34,607426,5,2026-05-02,4.5,15.41
+32,0Rumj64tAP1jhImDkzple6,3oUXNITVgUpdN2cUwH3hmS,0ifzzRKdmtgaHy9cfnnyCR,Focus II,Focus,Moving Waves,2026-05-02T19:06:35,243666,2,2026-05-02,3.0,8.31
+33,3FNgaN6nlCk8o3viucsVIL,0BOPrAV0Lk52MXS2d52uOO,0ifzzRKdmtgaHy9cfnnyCR,Janis - Remastered,Focus,Moving Waves (2020 Remastered Edition),2026-05-02T19:02:04,188893,1,2026-05-02,1.5,4.63
+34,1d6WoMWzq2YTfGxUP94Rgy,6vUUBFECAo0oLUWfjqmXtZ,1MD5pgVzlusqGyuSTcTxvu,Bandiera Bianca,Premiata Forneria Marconi,Live In Japan 2002,2026-05-02T18:59:04,241826,5,2026-05-02,4.5,14.07
+35,0lUBWPZWiGQEKNzayTCpxT,4RD4REp6RE2kVZ96Uf1TgB,4lianjyuR1tqf6oUX8kjrZ,Sequenze E Frequenze - Live 1988 / Remastered 2020,Franco Battiato,Giubbe Rosse (Deluxe 30th Anniversary Live & Remastered Edition / Remastered 2020),2026-05-02T18:53:03,425120,5,2026-05-02,7.5,17.9
+36,5FvRkKujcquFV4wma9QAfj,20dTbQRkxuOTkf3SFyaT2m,7M1FPw29m5FbicYzS2xdpi,Indiscipline,King Crimson,Discipline,2026-05-02T18:45:34,273000,1,2026-05-02,1.5,5.06
+37,2gK9dAy6TgeOYvdlspWbdU,0HoF3Ir1IYbIkvrxXrLGOB,7AC976RDJzL2asmZuz7qil,Into the Lens,Yes,Drama (Deluxe Edition),2026-05-02T18:40:37,512333,3,2026-05-02,4.5,12.42
+38,0TMKja08JBRFwkdpl9IpI3,1n6mujGDmusUYHfuFtZZvJ,02frazNrWgZCxUEf4UTfHt,Killer - Remastered 2021,Van Der Graaf Generator,"H To He, Who Am The Only One (Deluxe)",2026-05-02T18:13:59,498040,3,2026-05-02,4.5,12.38
+39,46dxvP1IF5TdcKG42GkDF4,4ttC4XUinZXn3GMIQNrjFZ,7M1FPw29m5FbicYzS2xdpi,The Night Watch,King Crimson,Starless And Bible Black,2026-05-02T18:05:28,281611,2,2026-05-02,3.0,8.51
+40,1JrNAxiq1o57wxuI9aX6KJ,1meW8yyx76RPZebO32VwrB,6w6z8m4WXX7Tub4Rb6Lu7R,Teacher - Single Mix; 2001 Remaster,Jethro Tull,Benefit,2026-05-02T18:00:02,227520,1,2026-05-02,1.5,4.86
+41,0KvGvUJAPTHtiyCtEnfXCm,6KUBy7zjq9mkKRR7CJSGBM,7K2LDhsZ8A4LKlLPPpcKFS,Nymphenburger,East Of Eden,Snafu,2026-05-02T17:33:15,375693,1,2026-05-02,1.5,5.47
+42,5TQ2pztJIwLEPrzuSIsBmF,2zYEcirgirihBtUr9ninD6,1SQRv42e4PjEYfPhS0Tk9E,Animal Farm - 2018 Stereo Remaster,The Kinks,The Kinks Are the Village Green Preservation Society,2026-05-02T17:26:45,181533,1,2026-05-02,1.5,4.58
+43,4JvjCMPpXVldRhM0mxheub,6DMU0YvLjgcpHddObNP8A6,7AC976RDJzL2asmZuz7qil,Don't Kill the Whale,Yes,Tormato (Deluxe Edition),2026-05-02T17:23:45,235866,2,2026-05-02,3.0,8.27
+44,7oITpghqeYM0RfRK17efLY,7F6dgfm0QnJvDAXux6spJq,1MD5pgVzlusqGyuSTcTxvu,Cyber Alpha,Premiata Forneria Marconi,Stati Di Immaginazione,2026-05-02T17:19:45,268146,2,2026-05-02,3.0,8.45
+45,5cpKDL7ArW8F2JtUk0wuQM,4YsXD5Zmj8wjmPzPzUEDZh,1iTlOqIrZy8DlvCPJY2sjS,The Vanilla Queen,Golden Earring,Moontan,2026-05-02T17:11:47,556293,1,2026-05-02,1.5,6.0
+46,2A3WfAbX9KHMQhewdpUiok,3OQX2EwYNN3FVKuUVLkVOL,5hlBb5u8K5D8yrL8jwZ7N9,Tu frialdad,Triana,Un Encuentro,2026-05-02T16:23:21,263506,1,2026-05-02,1.5,5.02
+47,7HDv9WfmLNinEJx8iZIE1m,659kn6tY6zC9jy56kzIW51,1CD77o9fbdyQFrHnUPUEsF,Dream Gerrard,Traffic,When The Eagle Flies,2026-05-02T15:56:13,662173,2,2026-05-02,3.0,9.71
+48,6K3q2FCBIIKcoKkmT6M6NL,3tYOO1SUShFTDag2iNbzlu,0ifzzRKdmtgaHy9cfnnyCR,Eruption - Live,Focus,vol huis (Live),2026-05-02T15:45:13,556495,1,2026-05-02,1.5,6.0
+49,4CRWWNAnZVmzyghvlFIGQm,0BD0bKRAFt8Z5q2NqCTPsN,3Uz6jx81OY2J5K8Z4wmy2P,Rhayader Goes To Town - Remastered 2023,Camel,The Snow Goose (2023 Remastered & Expanded Edition),2026-05-02T15:35:13,320133,1,2026-05-02,1.5,5.28
+50,7m6T2wUj2CWjKkMbv42ZEo,2bG4ZJ2X6pUwOqPgk7Mgrg,1SQRv42e4PjEYfPhS0Tk9E,Shangri-La (2019 Remaster),The Kinks,Arthur or the Decline and Fall of the British Empire (Deluxe),2026-05-02T15:30:13,320527,3,2026-05-02,4.5,11.75
+51,47sJPdCkjVfLJWBFhwJiuE,20dTbQRkxuOTkf3SFyaT2m,7M1FPw29m5FbicYzS2xdpi,The Sheltering Sky,King Crimson,Discipline,2026-05-02T15:24:43,502480,4,2026-05-02,6.0,15.31
+52,3RpQJrHPISBYkIYaoL4leS,4ttC4XUinZXn3GMIQNrjFZ,7M1FPw29m5FbicYzS2xdpi,Lament,King Crimson,Starless And Bible Black,2026-05-02T15:16:13,245318,3,2026-05-02,4.5,11.38
+53,5LP10C87Y5YnToBtwsxojk,7bJytEOVzTT0TIYfL18hU9,5A0MH7JfEBEMySevsmauds,Moon In June,Soft Machine,Third,2026-05-02T15:12:13,1147200,1,2026-05-02,1.5,7.0
+54,1650LUcd7pCPN6oLjUs3s7,2vqzKJO8HeMffaSHxg74ln,1BGN1IdyiSR0ZYrkoKNchl,Ricochet (Part One) - Live From Europe/1975 / 1995 Digital Remaster,Tangerine Dream,The Virgin Years: 1974-1978,2026-05-02T14:53:14,1017720,1,2026-05-02,1.5,6.83
+55,0GRBFjza23Im7Xb16c9AaK,0GqpoHJREPp0iuXK3HzrHk,36QJpDe2go2KgaRleHCDTp,No Quarter - Remaster,Led Zeppelin,Houses of the Holy (Remaster),2026-05-02T13:24:26,422517,2,2026-05-02,3.0,9.06
+56,2sG6kG8mEDaiv7AN0TJ310,0b33cACjsSPVBchGgsFGMu,4lianjyuR1tqf6oUX8kjrZ,Apparenza e realtà,Franco Battiato,Universi paralleli di Franco Battiato,2026-05-02T12:40:23,218880,3,2026-05-02,4.5,11.22
+57,702IsRAE5re0e7eBwf0LXl,1NeJ0QqKv002iYDiOCaUOA,1MD5pgVzlusqGyuSTcTxvu,Geranio,Premiata Forneria Marconi,Per Un Amico,2026-05-02T12:36:23,484000,3,2026-05-02,4.5,12.34
+58,54VkF8s3BevKAX0JSwuf0O,30OBaYcCeQ71rdVWSpbTgC,7B9i94mmRUGH35kAyuUEDD,Starship Trooper/ Wurm,"Anderson, Squire, Howe",Tales Of Future And Past,2026-05-02T12:27:53,741960,6,2026-05-02,4.5,16.98
+59,1qkp9OvCk8FjeDdEd2bKQ6,7M2EhhKnJYcmluPNzmB35N,4P70aqttdpJ9vuYFDmf7f6,Alpha,Vangelis,Albedo 0.39,2026-05-02T12:15:23,344293,3,2026-05-02,4.5,11.85
+60,6yhGgwT0IxUt5yG19GDKn0,4tPuH2J8xL4JU91QFTWDUJ,0sihhSAp2JQBQ2oqapkVxV,In Principio,Logos,L'enigma Della Vita,2026-05-02T12:09:04,687373,4,2026-05-02,4.5,14.28
+61,6aJpPH5jhRicPvPkoHkcuF,4Q7cPyiP8cMIlUEHAqeYfd,36QJpDe2go2KgaRleHCDTp,In the Light - Remaster,Led Zeppelin,Physical Graffiti (Remaster),2026-05-02T12:00:20,527947,1,2026-05-02,1.5,5.92
+62,7nmtVN5HhcdBPfi3oA3437,6C22QvOc4ombgUjY1M1ASN,55wOEGTc3QKwBJ9gntcOxT,Light Flight,Pentangle,Basket of Light,2026-05-02T11:55:42,194333,1,2026-05-02,1.5,4.66
+63,5CGpPUcUahMuLzkNK9ZgPP,0tAMTTxU0e84QFhrNhQNIT,1CD77o9fbdyQFrHnUPUEsF,Dear Mr. Fantasy,Traffic,Mr. Fantasy,2026-05-02T11:47:47,334000,1,2026-05-02,1.5,5.32
+64,6nl0oUn7TlqoUc59BOG0XS,1dbVSQR5jcw5rdngMyA3d8,7M1FPw29m5FbicYzS2xdpi,Neurotica,King Crimson,The Condensed 21st Century Guide To King Crimson (1969 - 2003),2026-05-02T11:42:16,290026,2,2026-05-02,3.0,8.55
+65,6vXIkR2kEsGFPm82hWweNI,1OBtRar4d9lrRTVOdrPOMI,3UtSTTCQ0EMUQxmsfZ3Px1,Back Street Luv,Curved Air,Second Album,2026-05-02T11:37:16,216906,2,2026-05-02,3.0,8.16
+66,6PnG9i1lpihdIBHHFg0M6Y,6RjHOFz283XfJ7o7RwqaIT,5U16QlMnlSAhkQxBZpLyLO,Mr Evasion,The Pretty Things,S.F. Sorrow,2026-05-02T11:33:46,210333,2,2026-05-02,3.0,8.12
+67,0VLETiR8ft4wZHlCQf3UAf,2DZEwt8Lhz6PuqxsJWF7Ap,3Uz6jx81OY2J5K8Z4wmy2P,Freefall,Camel,Mirage,2026-05-02T11:30:16,352853,3,2026-05-02,3.0,10.39
+68,26oHuX40kl6CbJOE2fYzp2,5KlxVQrxfXom4ttbE6trkc,3UtSTTCQ0EMUQxmsfZ3Px1,Vivaldi,Curved Air,Air Conditioning,2026-05-02T11:24:16,450560,4,2026-05-02,6.0,15.16
+69,75gb1H0F5IumlnwhjnB08B,2JyNDhGhp0hiizSPuUs0i9,67ea9eGLXYMsO2eYQRui3w,Rael - Pt.1 & Pt.2,The Who,The Who Sell Out (Super Deluxe),2026-05-02T11:16:47,338826,3,2026-05-02,4.5,11.84
+70,3aPHB4pU4fPbPqcoSng1K0,4RD4REp6RE2kVZ96Uf1TgB,4lianjyuR1tqf6oUX8kjrZ,No U Turn - Live 1988 / Remastered 2020,Franco Battiato,Giubbe Rosse (Deluxe 30th Anniversary Live & Remastered Edition / Remastered 2020),2026-05-02T11:01:38,264133,4,2026-05-02,6.0,14.38
+71,7l2Gh3fSaknNtzOxFuadeC,3gISC18IyM5W4fd3bVz9hk,1MD5pgVzlusqGyuSTcTxvu,Nuvole Nere,Premiata Forneria Marconi,Serendipity,2026-05-02T10:57:08,247133,3,2026-05-02,4.5,11.38
+72,4796ITs2bZ9Mys2nnG37qf,0b33cACjsSPVBchGgsFGMu,4lianjyuR1tqf6oUX8kjrZ,Ermeneutica,Franco Battiato,Universi paralleli di Franco Battiato,2026-05-02T10:53:09,214213,3,2026-05-02,4.5,11.19
+73,4PCwwYtVKob3Xhe4mQ6TFl,6NiJ8vCXUZoeqUIyhUDNZX,45Utoxop3UFq0Qg9YFLhx0,La Porta Chiusa,Le Orme,Uomo Di Pezza,2026-05-02T10:49:38,450826,2,2026-05-02,3.0,9.16
+74,4NAP1NmknfmMkKuDi4fhxI,1uXol4dKqzMsUiqvHpwhZh,7AC976RDJzL2asmZuz7qil,Siberian Khatru - 2025 Remaster,Yes,Close to the Edge (Super Deluxe Edition),2026-05-02T10:42:08,537373,3,2026-05-02,4.5,12.5
+75,7g0XgioAO3q8iBUQNoEAye,0aeV2p7ZUhm9Q2PJAizF7a,70tMW5bZT3TJUa1CWtfVkq,San Franciscan Nights,Eric Burdon & the Animals,Winds Of Change,2026-05-02T10:33:32,199373,1,2026-05-02,1.5,4.69
+76,4K3cElW740S6w5wbjBjRbt,59eHxfqvwJyXhJGGtORaHv,4lianjyuR1tqf6oUX8kjrZ,Up Patriots To Arms - Remastered 2008,Franco Battiato,Patriots (2008 Remastered Edition),2026-05-02T10:29:39,305266,2,2026-05-02,3.0,8.62
+77,2N5cnwXiT5AYNPsKW1BOXC,7m6StTtrbnkaC6FkDVNnTe,2CqEOngQOOMstJupNn6Hmf,Euphoria,NEU!,NEU!,2026-05-03T15:44:50,237666,1,2026-05-03,1.5,4.9
+78,4efrN6ImDeUjgtebkmLMba,7m6StTtrbnkaC6FkDVNnTe,2CqEOngQOOMstJupNn6Hmf,Paradise Walk,NEU!,NEU!,2026-05-03T15:40:50,311306,1,2026-05-03,1.5,5.23
+79,6mRr2nzDX9kgTuGWgMn8P2,7m6StTtrbnkaC6FkDVNnTe,2CqEOngQOOMstJupNn6Hmf,Wave Mother,NEU!,NEU!,2026-05-03T15:35:51,292786,1,2026-05-03,1.5,5.16
+80,2Bsp8gAjwlGmYhRueRGLHu,7m6StTtrbnkaC6FkDVNnTe,2CqEOngQOOMstJupNn6Hmf,Elanoizan,NEU!,NEU!,2026-05-03T15:30:50,151466,1,2026-05-03,1.5,4.39
+81,1qkp9OvCk8FjeDdEd2bKQ6,7M2EhhKnJYcmluPNzmB35N,4P70aqttdpJ9vuYFDmf7f6,Alpha,Vangelis,Albedo 0.39,2026-05-03T14:32:39,344293,3,2026-05-03,4.5,11.85
+82,0lUBWPZWiGQEKNzayTCpxT,4RD4REp6RE2kVZ96Uf1TgB,4lianjyuR1tqf6oUX8kjrZ,Sequenze E Frequenze - Live 1988 / Remastered 2020,Franco Battiato,Giubbe Rosse (Deluxe 30th Anniversary Live & Remastered Edition / Remastered 2020),2026-05-03T10:35:26,425120,5,2026-05-03,7.5,17.9
+83,6eUnY12Nd9TVWlbBnFQRCw,6wI2sLcBmYzYQd9LFfkbhy,2CqEOngQOOMstJupNn6Hmf,Hallogallo,NEU!,NEU!,2026-05-03T10:35:26,607426,5,2026-05-03,4.5,15.41
+84,62Fwn4Ym39BlytL3KNBMAI,2W0juo4ye4hI0mXRqtZldr,4lianjyuR1tqf6oUX8kjrZ,The Age Of Ermafrodites,Franco Battiato,Campi Magnetici - I Numeri Non Si Possono Amare,2026-05-03T10:35:25,389320,1,2026-05-03,1.5,5.51
+85,7JYDQK92DhsXpynZ2kkXfs,36EzzM52hSYnWYwsdrWPGG,6o2PxnpsrQ352kwYlEwjvR,La Mela Di Odessa,Area,Crac!,2026-05-03T10:35:25,398467,4,2026-05-03,3.0,11.98
+86,2gK9dAy6TgeOYvdlspWbdU,0HoF3Ir1IYbIkvrxXrLGOB,7AC976RDJzL2asmZuz7qil,Into the Lens,Yes,Drama (Deluxe Edition),2026-05-03T10:35:25,512333,3,2026-05-03,4.5,12.42
+87,6rbLGESJIt0IdCWcrXtrFK,1Apj3GZ0D7l94CFA5qInjr,4RuYtHjAKBufQRqBUMiOfK,L'Evoluzione,Banco Del Mutuo Soccorso,Darwin (1991 Edition),2026-05-03T10:35:25,1006400,5,2026-05-03,6.0,17.66
+88,1C7gBAgpedexfZgGFw0XoB,7BCKqUPSw6Y3Ih5Pk7otGY,7AC976RDJzL2asmZuz7qil,Sound Chaser - Single Edit,Yes,Yessingles,2026-05-03T10:35:25,189533,2,2026-05-03,3.0,7.98
+89,1d6WoMWzq2YTfGxUP94Rgy,6vUUBFECAo0oLUWfjqmXtZ,1MD5pgVzlusqGyuSTcTxvu,Bandiera Bianca,Premiata Forneria Marconi,Live In Japan 2002,2026-05-03T10:35:25,241826,5,2026-05-03,4.5,14.07
+90,3fCM5oy8dWngCNyGkGnVcD,41sJTFyarp4aKHcTGjIKnU,1yTEkYjWeeo4ANkbvUTiFG,Andy Nogger,Kraan,Andy Nogger,2026-05-03T10:35:25,228800,2,2026-05-03,3.0,8.22
+91,0YfCp9A9yqeITGsOwVyi51,7M2EhhKnJYcmluPNzmB35N,4P70aqttdpJ9vuYFDmf7f6,Main Sequence,Vangelis,Albedo 0.39,2026-05-03T08:50:31,489840,1,2026-05-03,1.5,5.83
+92,4K3cElW740S6w5wbjBjRbt,59eHxfqvwJyXhJGGtORaHv,4lianjyuR1tqf6oUX8kjrZ,Up Patriots To Arms - Remastered 2008,Franco Battiato,Patriots (2008 Remastered Edition),2026-05-03T08:02:36,305266,2,2026-05-03,3.0,8.62
+93,1d6WoMWzq2YTfGxUP94Rgy,6vUUBFECAo0oLUWfjqmXtZ,1MD5pgVzlusqGyuSTcTxvu,Bandiera Bianca,Premiata Forneria Marconi,Live In Japan 2002,2026-05-03T07:57:35,241826,5,2026-05-03,4.5,14.07
+94,3pwyjVeH54ghyHkDTWUUZI,2FJaS5kootX9CkS4DxL2eW,02frazNrWgZCxUEf4UTfHt,Pilgrims - 2005 Digital Remaster,Van Der Graaf Generator,Still Life,2026-05-03T07:50:36,431786,1,2026-05-03,1.5,5.65
+95,7oITpghqeYM0RfRK17efLY,7F6dgfm0QnJvDAXux6spJq,1MD5pgVzlusqGyuSTcTxvu,Cyber Alpha,Premiata Forneria Marconi,Stati Di Immaginazione,2026-05-03T07:43:10,268146,2,2026-05-03,3.0,8.45
+96,3RpQJrHPISBYkIYaoL4leS,4ttC4XUinZXn3GMIQNrjFZ,7M1FPw29m5FbicYzS2xdpi,Lament,King Crimson,Starless And Bible Black,2026-05-03T06:42:09,245318,3,2026-05-03,4.5,11.38
+97,04c3ZTgTH5ci7LuNSx7Wje,20dTbQRkxuOTkf3SFyaT2m,7M1FPw29m5FbicYzS2xdpi,Thela Hun Ginjeet,King Crimson,Discipline,2026-05-03T06:37:39,386520,2,2026-05-03,3.0,8.95
+98,6yhGgwT0IxUt5yG19GDKn0,4tPuH2J8xL4JU91QFTWDUJ,0sihhSAp2JQBQ2oqapkVxV,In Principio,Logos,L'enigma Della Vita,2026-05-03T06:31:09,687373,4,2026-05-03,4.5,14.28
+99,4PCwwYtVKob3Xhe4mQ6TFl,6NiJ8vCXUZoeqUIyhUDNZX,45Utoxop3UFq0Qg9YFLhx0,La Porta Chiusa,Le Orme,Uomo Di Pezza,2026-05-03T06:12:37,450826,2,2026-05-03,3.0,9.16
+100,6mCjrBuLeqdZzvowLBQeJp,59GiU04zZYyxM3HQrunKlF,7K2LDhsZ8A4LKlLPPpcKFS,In the Stable of the Sphinx,East Of Eden,Mercator Projected,2026-05-03T06:05:07,510386,1,2026-05-03,1.5,5.88
+101,3nhQ0t5o70uHAzEgYDedX2,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,Man-Erg - Remastered 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-03T05:56:07,619800,9,2026-05-03,9.0,24.81
+102,0O9dtCsMTsVIo0tF8AVJQ5,3nkLkuSpD5bMzG1ibkJw5N,4RuYtHjAKBufQRqBUMiOfK,La discesa dal treno,Banco Del Mutuo Soccorso,Transiberiana (Bonus Tracks Version),2026-05-03T05:46:07,375225,3,2026-05-03,4.5,11.97
+103,6rbLGESJIt0IdCWcrXtrFK,1Apj3GZ0D7l94CFA5qInjr,4RuYtHjAKBufQRqBUMiOfK,L'Evoluzione,Banco Del Mutuo Soccorso,Darwin (1991 Edition),2026-05-03T05:39:41,1006400,5,2026-05-03,6.0,17.66
+104,6eUnY12Nd9TVWlbBnFQRCw,6wI2sLcBmYzYQd9LFfkbhy,2CqEOngQOOMstJupNn6Hmf,Hallogallo,NEU!,NEU!,2026-05-03T05:22:37,607426,5,2026-05-03,4.5,15.41
+105,702IsRAE5re0e7eBwf0LXl,1NeJ0QqKv002iYDiOCaUOA,1MD5pgVzlusqGyuSTcTxvu,Geranio,Premiata Forneria Marconi,Per Un Amico,2026-05-03T05:12:38,484000,3,2026-05-03,4.5,12.34
+106,26oHuX40kl6CbJOE2fYzp2,5KlxVQrxfXom4ttbE6trkc,3UtSTTCQ0EMUQxmsfZ3Px1,Vivaldi,Curved Air,Air Conditioning,2026-05-03T00:45:57,450560,4,2026-05-03,6.0,15.16
+107,7JYDQK92DhsXpynZ2kkXfs,36EzzM52hSYnWYwsdrWPGG,6o2PxnpsrQ352kwYlEwjvR,La Mela Di Odessa,Area,Crac!,2026-05-03T00:37:57,398467,4,2026-05-03,3.0,11.98
+108,54VkF8s3BevKAX0JSwuf0O,30OBaYcCeQ71rdVWSpbTgC,7B9i94mmRUGH35kAyuUEDD,Starship Trooper/ Wurm,"Anderson, Squire, Howe",Tales Of Future And Past,2026-05-03T00:33:28,741960,6,2026-05-03,4.5,16.98
+109,3RsiyFNrYlv16OWY1BHMmx,51pz4wvc0BPtjnGCWjxX91,1MD5pgVzlusqGyuSTcTxvu,Dove... quando... - II Parte,Premiata Forneria Marconi,Storia Di Un Minuto,2026-05-03T00:28:27,361053,2,2026-05-03,3.0,8.86
+110,6eUnY12Nd9TVWlbBnFQRCw,6wI2sLcBmYzYQd9LFfkbhy,2CqEOngQOOMstJupNn6Hmf,Hallogallo,NEU!,NEU!,2026-05-03T00:22:27,607426,5,2026-05-03,4.5,15.41
+111,131RAB9EVFAq5k38sLk1LG,7m6StTtrbnkaC6FkDVNnTe,2CqEOngQOOMstJupNn6Hmf,La Bomba (Stop Apartheid World-Wide),NEU!,NEU!,2026-05-03T00:11:33,330093,1,2026-05-03,1.5,5.3
+112,47sJPdCkjVfLJWBFhwJiuE,20dTbQRkxuOTkf3SFyaT2m,7M1FPw29m5FbicYzS2xdpi,The Sheltering Sky,King Crimson,Discipline,2026-05-04T05:01:11,502480,4,2026-05-04,6.0,15.31
+113,6PnG9i1lpihdIBHHFg0M6Y,6RjHOFz283XfJ7o7RwqaIT,5U16QlMnlSAhkQxBZpLyLO,Mr Evasion,The Pretty Things,S.F. Sorrow,2026-05-04T04:52:41,210333,2,2026-05-04,3.0,8.12
+114,0lUBWPZWiGQEKNzayTCpxT,4RD4REp6RE2kVZ96Uf1TgB,4lianjyuR1tqf6oUX8kjrZ,Sequenze E Frequenze - Live 1988 / Remastered 2020,Franco Battiato,Giubbe Rosse (Deluxe 30th Anniversary Live & Remastered Edition / Remastered 2020),2026-05-04T04:49:11,425120,5,2026-05-04,7.5,17.9
+115,7FCYhTAkaNIqO2NWAi2J2a,7cLNFRklt2EupipdILxJc7,7nQZVqkaUxa3A62UJSisSB,Libero pensatore,La coscienza di Zeno,La notte anche di giorno,2026-05-04T04:42:11,311880,1,2026-05-04,1.5,5.23
+116,26oHuX40kl6CbJOE2fYzp2,5KlxVQrxfXom4ttbE6trkc,3UtSTTCQ0EMUQxmsfZ3Px1,Vivaldi,Curved Air,Air Conditioning,2026-05-04T04:37:11,450560,4,2026-05-04,6.0,15.16
+117,75gb1H0F5IumlnwhjnB08B,2JyNDhGhp0hiizSPuUs0i9,67ea9eGLXYMsO2eYQRui3w,Rael - Pt.1 & Pt.2,The Who,The Who Sell Out (Super Deluxe),2026-05-04T04:29:41,338826,3,2026-05-04,4.5,11.84
+118,7JYDQK92DhsXpynZ2kkXfs,36EzzM52hSYnWYwsdrWPGG,6o2PxnpsrQ352kwYlEwjvR,La Mela Di Odessa,Area,Crac!,2026-05-04T04:23:41,398467,4,2026-05-04,3.0,11.98
+119,3RpQJrHPISBYkIYaoL4leS,4ttC4XUinZXn3GMIQNrjFZ,7M1FPw29m5FbicYzS2xdpi,Lament,King Crimson,Starless And Bible Black,2026-05-04T04:17:11,245318,3,2026-05-04,4.5,11.38
+120,4UhB17vQsTP0qM9grc4ZUi,6wDCNTOXnKI8E4WrsdeJH9,1CD77o9fbdyQFrHnUPUEsF,Empty Pages - Remastered 2010,Traffic,John Barleycorn Must Die Deluxe Edition,2026-05-04T04:13:11,274680,2,2026-05-04,3.0,8.48
+121,1d6WoMWzq2YTfGxUP94Rgy,6vUUBFECAo0oLUWfjqmXtZ,1MD5pgVzlusqGyuSTcTxvu,Bandiera Bianca,Premiata Forneria Marconi,Live In Japan 2002,2026-05-04T04:08:41,241826,5,2026-05-04,4.5,14.07
+122,7m6T2wUj2CWjKkMbv42ZEo,2bG4ZJ2X6pUwOqPgk7Mgrg,1SQRv42e4PjEYfPhS0Tk9E,Shangri-La (2019 Remaster),The Kinks,Arthur or the Decline and Fall of the British Empire (Deluxe),2026-05-04T04:04:41,320527,3,2026-05-04,4.5,11.75
+123,54VkF8s3BevKAX0JSwuf0O,30OBaYcCeQ71rdVWSpbTgC,7B9i94mmRUGH35kAyuUEDD,Starship Trooper/ Wurm,"Anderson, Squire, Howe",Tales Of Future And Past,2026-05-04T03:59:11,741960,6,2026-05-04,4.5,16.98
+124,0O9dtCsMTsVIo0tF8AVJQ5,3nkLkuSpD5bMzG1ibkJw5N,4RuYtHjAKBufQRqBUMiOfK,La discesa dal treno,Banco Del Mutuo Soccorso,Transiberiana (Bonus Tracks Version),2026-05-04T03:46:41,375225,3,2026-05-04,4.5,11.97
+125,0VLETiR8ft4wZHlCQf3UAf,2DZEwt8Lhz6PuqxsJWF7Ap,3Uz6jx81OY2J5K8Z4wmy2P,Freefall,Camel,Mirage,2026-05-04T03:40:41,352853,3,2026-05-04,3.0,10.39
+126,1C7gBAgpedexfZgGFw0XoB,7BCKqUPSw6Y3Ih5Pk7otGY,7AC976RDJzL2asmZuz7qil,Sound Chaser - Single Edit,Yes,Yessingles,2026-05-04T03:34:41,189533,2,2026-05-04,3.0,7.98
+127,5pLqf7TEvDr4QvOeLPUBQU,4ahL5vlNhi3Ob0c6syAMSg,31oFtS8VXHkm8YVypYsw89,Cara Sin Cruz,Mezquita,Califas del Rock,2026-05-04T03:30:17,189173,2,2026-05-04,3.0,7.98
+128,0C1zYfc9awIJGuFV1vRrdi,4ahL5vlNhi3Ob0c6syAMSg,31oFtS8VXHkm8YVypYsw89,Mente de Mi Subconsciente,Mezquita,Califas del Rock,2026-05-04T01:20:59,203000,2,2026-05-04,3.0,8.07
+129,04C3eRaNUMdAnt7CAJ01Gi,4ahL5vlNhi3Ob0c6syAMSg,31oFtS8VXHkm8YVypYsw89,La Ultima Juerga,Mezquita,Califas del Rock,2026-05-04T01:17:30,317666,2,2026-05-04,3.0,8.68
+130,0fkiEfMOMVcEJtIHVanPic,4ahL5vlNhi3Ob0c6syAMSg,31oFtS8VXHkm8YVypYsw89,Aguas del Guadalquivir,Mezquita,Califas del Rock,2026-05-04T01:11:59,249493,2,2026-05-04,3.0,8.34
+131,16q0i1YK2y41gMeJrBFXnv,4ahL5vlNhi3Ob0c6syAMSg,31oFtS8VXHkm8YVypYsw89,Así Soy Yo,Mezquita,Califas del Rock,2026-05-04T01:07:59,236240,2,2026-05-04,3.0,8.27
+132,3o4fe9BKgqNE9ZodFat9d7,4ahL5vlNhi3Ob0c6syAMSg,31oFtS8VXHkm8YVypYsw89,Cuentos Arabes,Mezquita,Califas del Rock,2026-05-04T01:03:59,211666,3,2026-05-04,4.5,11.18
+133,5u9lMPTlPZznzjFFh5ZdeX,4irlewoGTUPndEinKcavLF,02frazNrWgZCxUEf4UTfHt,Arrow - 2005 Digital Remaster,Van Der Graaf Generator,Godbluff,2026-05-03T23:04:06,587826,4,2026-05-03,6.0,15.54
+134,7f79xfhkMFJrDt42o9BfyD,1n6mujGDmusUYHfuFtZZvJ,02frazNrWgZCxUEf4UTfHt,Lost - Remastered 2021,Van Der Graaf Generator,"H To He, Who Am The Only One (Deluxe)",2026-05-03T20:35:00,671040,1,2026-05-03,1.5,6.25
+135,12BSffsg97h51TlEcwXKTr,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,A Plague Of Lighthouse Keepers - Remastered 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-03T20:21:48,1384160,5,2026-05-03,7.5,19.64
+136,3nhQ0t5o70uHAzEgYDedX2,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,Man-Erg - Remastered 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-03T19:59:00,619800,9,2026-05-03,9.0,24.81
+137,5OJCbL1RVFYSw07C9e0QUS,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,Lemmings (Including Cog) - Remastered 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-03T19:48:30,696520,6,2026-05-03,7.5,19.89
+138,0TMKja08JBRFwkdpl9IpI3,1n6mujGDmusUYHfuFtZZvJ,02frazNrWgZCxUEf4UTfHt,Killer - Remastered 2021,Van Der Graaf Generator,"H To He, Who Am The Only One (Deluxe)",2026-05-03T19:36:32,498040,3,2026-05-03,4.5,12.38
+139,0Rumj64tAP1jhImDkzple6,3oUXNITVgUpdN2cUwH3hmS,0ifzzRKdmtgaHy9cfnnyCR,Focus II,Focus,Moving Waves,2026-05-03T19:28:30,243666,2,2026-05-03,3.0,8.31
+140,5qmlexKxaI31MvFhObUCZm,68W3ppXWhsOLOURmxzRkyA,7M1FPw29m5FbicYzS2xdpi,The Devils Triangle,King Crimson,In The Wake Of Poseidon,2026-05-03T19:24:00,697023,4,2026-05-03,6.0,15.79
+141,6yhGgwT0IxUt5yG19GDKn0,4tPuH2J8xL4JU91QFTWDUJ,0sihhSAp2JQBQ2oqapkVxV,In Principio,Logos,L'enigma Della Vita,2026-05-03T19:12:30,687373,4,2026-05-03,4.5,14.28
+142,4NAP1NmknfmMkKuDi4fhxI,1uXol4dKqzMsUiqvHpwhZh,7AC976RDJzL2asmZuz7qil,Siberian Khatru - 2025 Remaster,Yes,Close to the Edge (Super Deluxe Edition),2026-05-03T19:01:00,537373,3,2026-05-03,4.5,12.5
+143,54VkF8s3BevKAX0JSwuf0O,30OBaYcCeQ71rdVWSpbTgC,7B9i94mmRUGH35kAyuUEDD,Starship Trooper/ Wurm,"Anderson, Squire, Howe",Tales Of Future And Past,2026-05-03T18:52:00,741960,6,2026-05-03,4.5,16.98
+144,6nl0oUn7TlqoUc59BOG0XS,1dbVSQR5jcw5rdngMyA3d8,7M1FPw29m5FbicYzS2xdpi,Neurotica,King Crimson,The Condensed 21st Century Guide To King Crimson (1969 - 2003),2026-05-03T18:39:30,290026,2,2026-05-03,3.0,8.55
+145,6YmnF4T8NFadmlIbF6yGjB,0HoF3Ir1IYbIkvrxXrLGOB,7AC976RDJzL2asmZuz7qil,Tempus Fugit,Yes,Drama (Deluxe Edition),2026-05-03T18:34:30,315426,2,2026-05-03,3.0,8.66
+146,6GQAYT0AssRfoGWWrD1UvW,0QXX3eaggwqZXkHJ1zwaGC,31oFtS8VXHkm8YVypYsw89,Ara Buza (Dame Un Beso) - Remasterizado,Mezquita,Recuerdos De Mi Tierra (Remasterizado 2023),2026-05-03T18:24:03,274226,2,2026-05-03,3.0,8.48
+147,34RWVJloaUCdCe9EYMH9ms,0QXX3eaggwqZXkHJ1zwaGC,31oFtS8VXHkm8YVypYsw89,Desde Que Somos Dos - Remasterizado,Mezquita,Recuerdos De Mi Tierra (Remasterizado 2023),2026-05-03T17:00:20,347053,2,2026-05-03,3.0,8.79
+148,19GTGG1v14wOISts5UNUr3,0QXX3eaggwqZXkHJ1zwaGC,31oFtS8VXHkm8YVypYsw89,El Bizco De Los Patios - Remasterizado,Mezquita,Recuerdos De Mi Tierra (Remasterizado 2023),2026-05-03T16:54:20,260519,2,2026-05-03,3.0,8.41
+149,7vYZU6UBqScL7BKFVIYOAk,0QXX3eaggwqZXkHJ1zwaGC,31oFtS8VXHkm8YVypYsw89,Recuerdos De Mi Tierra - Remasterizado,Mezquita,Recuerdos De Mi Tierra (Remasterizado 2023),2026-05-03T16:50:20,466226,2,2026-05-03,3.0,9.21
+150,4m1NnqNTUbXO0YDuFPJqJf,7oT1CbeyKlCJOsxmELnMMW,5hlBb5u8K5D8yrL8jwZ7N9,Recuerdos de una noche - En directo 1975,Triana,El patio 40 Aniversario,2026-05-03T16:41:51,284066,1,2026-05-03,1.5,5.12
+151,6KrB5mFP48CLaiWHFwDYz0,7oT1CbeyKlCJOsxmELnMMW,5hlBb5u8K5D8yrL8jwZ7N9,Todo es de color,Triana,El patio 40 Aniversario,2026-05-03T16:36:51,124253,1,2026-05-03,1.5,4.18
+152,5aQmBlkey0rhOa92rVvot2,7oT1CbeyKlCJOsxmELnMMW,5hlBb5u8K5D8yrL8jwZ7N9,En el lago,Triana,El patio 40 Aniversario,2026-05-03T16:34:50,395320,1,2026-05-03,1.5,5.54
+153,1HqenWFPNXGLnp2ge0D8Dw,7oT1CbeyKlCJOsxmELnMMW,5hlBb5u8K5D8yrL8jwZ7N9,Diálogo,Triana,El patio 40 Aniversario,2026-05-03T16:28:20,271133,1,2026-05-03,1.5,5.06
+154,2VQ0jbAidysPBubypprThV,7oT1CbeyKlCJOsxmELnMMW,5hlBb5u8K5D8yrL8jwZ7N9,Sé de un lugar,Triana,El patio 40 Aniversario,2026-05-03T16:23:51,429120,1,2026-05-03,1.5,5.65
+155,3OkkbEpEUocDtiDjqC1CW0,7oT1CbeyKlCJOsxmELnMMW,5hlBb5u8K5D8yrL8jwZ7N9,Recuerdos de una noche,Triana,El patio 40 Aniversario,2026-05-03T16:16:20,282400,1,2026-05-03,1.5,5.11
+156,12aazepVJE48YobDCKI6E5,7oT1CbeyKlCJOsxmELnMMW,5hlBb5u8K5D8yrL8jwZ7N9,Luminosa mañana,Triana,El patio 40 Aniversario,2026-05-03T16:11:50,240853,1,2026-05-03,1.5,4.92
+157,3XZD0qEHYoCTnQe9ps8HeQ,7oT1CbeyKlCJOsxmELnMMW,5hlBb5u8K5D8yrL8jwZ7N9,Abre la puerta,Triana,El patio 40 Aniversario,2026-05-03T16:07:51,590240,2,2026-05-03,3.0,9.54
+158,5f565QK5b34kOGyQYvHXd6,7m6StTtrbnkaC6FkDVNnTe,2CqEOngQOOMstJupNn6Hmf,KD,NEU!,NEU!,2026-05-03T15:53:21,115120,1,2026-05-03,1.5,4.11
+159,2N58c77aEhAPk1FigknwIc,7m6StTtrbnkaC6FkDVNnTe,2CqEOngQOOMstJupNn6Hmf,November,NEU!,NEU!,2026-05-03T15:51:21,102933,1,2026-05-03,1.5,4.0
+160,1Z1fqYVgMermcLcbSeLngr,7m6StTtrbnkaC6FkDVNnTe,2CqEOngQOOMstJupNn6Hmf,Good Life,NEU!,NEU!,2026-05-03T15:50:07,221573,1,2026-05-03,1.5,4.83
+161,3p5NtypHWlGJutvA7iOfrd,7m6StTtrbnkaC6FkDVNnTe,2CqEOngQOOMstJupNn6Hmf,Vier ½,NEU!,NEU!,2026-05-03T15:45:50,61333,1,2026-05-03,1.5,3.55
+162,73RVbX3YhvDYTSyrzKguSi,2U4JHXMiBxsKH4dnYEQg2g,7AC976RDJzL2asmZuz7qil,Parallels - 2003 Remaster,Yes,Going for the One (Deluxe Edition),2026-05-04T15:55:43,353906,4,2026-05-04,6.0,14.8
+163,0VLETiR8ft4wZHlCQf3UAf,2DZEwt8Lhz6PuqxsJWF7Ap,3Uz6jx81OY2J5K8Z4wmy2P,Freefall,Camel,Mirage,2026-05-04T14:34:53,352853,3,2026-05-04,3.0,10.39
+164,7JYDQK92DhsXpynZ2kkXfs,36EzzM52hSYnWYwsdrWPGG,6o2PxnpsrQ352kwYlEwjvR,La Mela Di Odessa,Area,Crac!,2026-05-04T14:28:54,398467,4,2026-05-04,3.0,11.98
+165,3aPHB4pU4fPbPqcoSng1K0,4RD4REp6RE2kVZ96Uf1TgB,4lianjyuR1tqf6oUX8kjrZ,No U Turn - Live 1988 / Remastered 2020,Franco Battiato,Giubbe Rosse (Deluxe 30th Anniversary Live & Remastered Edition / Remastered 2020),2026-05-04T14:22:24,264133,4,2026-05-04,6.0,14.38
+166,3nhQ0t5o70uHAzEgYDedX2,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,Man-Erg - Remastered 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-04T14:17:54,619800,9,2026-05-04,9.0,24.81
+167,5ttK7WjqbTfeyeZVUKWJkF,1INPNU4BLdbKeLQqcYTGnx,0yNLKJebCb8Aueb54LYya3,Academic,New Order,Music Complete,2026-05-04T14:07:24,354866,1,2026-05-04,1.5,5.39
+168,5uyJ7fbjk6xZzt5UL5jcQg,2ODAEaYlqS88SU4ZZu1bI6,0yNLKJebCb8Aueb54LYya3,True Faith - 2015 Remaster,New Order,Singles (2016 Remaster),2026-05-04T14:01:55,252053,1,2026-05-04,1.5,4.97
+169,7HDWE2Ib7cjkhzULV4K8y3,0OWIVcNE4aItrlRvMUVueO,762310PdDnwsDxAQxzQkfX,It's No Good,Depeche Mode,Ultra (Deluxe),2026-05-04T13:57:24,358520,1,2026-05-04,1.5,5.41
+170,4xMIvU75BVq0UOB5fi7Vgb,0OWIVcNE4aItrlRvMUVueO,762310PdDnwsDxAQxzQkfX,Only When I Lose Myself - Single Version,Depeche Mode,Ultra (Deluxe),2026-05-04T13:51:24,274000,1,2026-05-04,1.5,5.08
+171,4WoKuMjwJXuy9IqX6AH5JE,5wfikaEZXnQTXWBZ5osw9A,762310PdDnwsDxAQxzQkfX,People Are People,Depeche Mode,Some Great Reward (Deluxe),2026-05-04T13:46:58,231973,1,2026-05-04,1.5,4.87
+172,6Rr6wXmEx6w6dsBuqqKJa3,0Tg76MY2wNK4j37iCb6qyH,762310PdDnwsDxAQxzQkfX,Halo,Depeche Mode,Violator (Deluxe),2026-05-04T13:46:36,270186,1,2026-05-04,1.5,5.06
+173,1VEIMGVXj7713dHY9gZLyU,0Tg76MY2wNK4j37iCb6qyH,762310PdDnwsDxAQxzQkfX,Waiting for the Night,Depeche Mode,Violator (Deluxe),2026-05-04T13:46:19,367373,2,2026-05-04,3.0,8.87
+174,5tb8T4WJ5SULuf8lNkVfEp,06we4RiGhODMsbAPWmogy2,762310PdDnwsDxAQxzQkfX,The Things You Said,Depeche Mode,Music for the Masses (Deluxe),2026-05-04T13:46:18,242893,1,2026-05-04,1.5,4.93
+175,3EZVUewtbfJMuiu21SxRaH,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,A Plague Of Lighthouse Keepers - New Stereo Mix 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-04T13:46:18,1397760,2,2026-05-04,3.0,10.79
+176,2MEgNX56NePhc8o9jxmUXm,6x7S6u9Cx2S0JD48nPsavE,762310PdDnwsDxAQxzQkfX,Higher Love,Depeche Mode,Songs of Faith and Devotion (Deluxe),2026-05-04T13:46:17,356360,1,2026-05-04,1.5,5.41
+177,74jEbB6r3UkKhjIOcJjkVN,0toDuabaPv8Pa2KGI88eB7,0kbYTNQb4Pb1rPbbaF0pT4,Portia,Miles Davis,Tutu,2026-05-04T13:46:17,380133,1,2026-05-04,1.5,5.48
+178,4u6tu5K2M4DvEdZXDGfzzd,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,Theme One - New Stereo Mix 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-04T13:46:17,190213,2,2026-05-04,3.0,7.98
+179,5PtndrR1yYsj2BSoo89S6w,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,Man-Erg - New Stereo Mix 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-04T13:46:17,622533,4,2026-05-04,3.0,12.62
+180,5yAcJtUiOFTdvePkHb4hs8,0Zp2eVzR9FW6lKX05lRpcu,762310PdDnwsDxAQxzQkfX,New Life,Depeche Mode,Speak and Spell (Deluxe),2026-05-04T13:46:17,224173,1,2026-05-04,1.5,4.84
+181,3mHj3cBY3bKYuMb3z0lRVS,0c2eDi1S58XzaqxwOC1FMZ,762310PdDnwsDxAQxzQkfX,Personal Jesus - Acoustic,Depeche Mode,"Violator | The 12"" Singles",2026-05-04T13:46:17,206708,1,2026-05-04,1.5,4.73
+182,4QeEhsFQOJZye2FlRQcf7j,1Kn7Ds2UpJTdpBj7oweUh7,4lianjyuR1tqf6oUX8kjrZ,"Amore Che Vieni, Amore Che Val",Franco Battiato,Fleurs,2026-05-04T13:46:17,147680,1,2026-05-04,1.5,4.36
+183,37uZo8Kg2vDcCkD2yA4YeT,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,W - New Stereo Mix 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-04T13:46:16,275893,1,2026-05-04,1.5,5.08
+184,1qkp9OvCk8FjeDdEd2bKQ6,7M2EhhKnJYcmluPNzmB35N,4P70aqttdpJ9vuYFDmf7f6,Alpha,Vangelis,Albedo 0.39,2026-05-04T10:47:14,344293,3,2026-05-04,4.5,11.85
+185,3fCM5oy8dWngCNyGkGnVcD,41sJTFyarp4aKHcTGjIKnU,1yTEkYjWeeo4ANkbvUTiFG,Andy Nogger,Kraan,Andy Nogger,2026-05-04T08:47:11,228800,2,2026-05-04,3.0,8.22
+186,1d6WoMWzq2YTfGxUP94Rgy,6vUUBFECAo0oLUWfjqmXtZ,1MD5pgVzlusqGyuSTcTxvu,Bandiera Bianca,Premiata Forneria Marconi,Live In Japan 2002,2026-05-04T08:43:11,241826,5,2026-05-04,4.5,14.07
+187,54VkF8s3BevKAX0JSwuf0O,30OBaYcCeQ71rdVWSpbTgC,7B9i94mmRUGH35kAyuUEDD,Starship Trooper/ Wurm,"Anderson, Squire, Howe",Tales Of Future And Past,2026-05-04T08:39:11,741960,6,2026-05-04,4.5,16.98
+188,54VkF8s3BevKAX0JSwuf0O,30OBaYcCeQ71rdVWSpbTgC,7B9i94mmRUGH35kAyuUEDD,Starship Trooper/ Wurm,"Anderson, Squire, Howe",Tales Of Future And Past,2026-05-04T08:27:28,741960,6,2026-05-04,4.5,16.98
+189,5PtndrR1yYsj2BSoo89S6w,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,Man-Erg - New Stereo Mix 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-04T08:09:53,622533,4,2026-05-04,3.0,12.62
+190,06A2v1vXdG6WISnC18RcbL,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,Lemmings (Including Cog) - New Stereo Mix 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-04T07:59:45,699866,2,2026-05-04,3.0,9.79
+191,6rbLGESJIt0IdCWcrXtrFK,1Apj3GZ0D7l94CFA5qInjr,4RuYtHjAKBufQRqBUMiOfK,L'Evoluzione,Banco Del Mutuo Soccorso,Darwin (1991 Edition),2026-05-04T07:43:58,1006400,5,2026-05-04,6.0,17.66
+192,4vpeKl0vMGdAXpZiQB2Dtd,6lPb7Eoon6QPbscWbMsk6a,2qFr8w5sWUITRlzZ9kZotF,White Rabbit,Jefferson Airplane,Surrealistic Pillow,2026-05-05T14:20:01,150640,1,2026-05-05,1.5,4.39
+193,5FgQkEcqMXCqFdcsEx143b,2lWDphDAlgk8PNdODreJwv,2XhhAWeUOlrZnGOB7aKEI8,The Four Horsemen,Aphrodite's Child,6 6 6,2026-05-05T14:17:31,353426,2,2026-05-05,3.0,8.82
+194,4M4Q3JLsUbyTkd5WHty1WB,0aqZJlugIkTUWW1sa4BANp,22bE4uQ6baNwSHPVcDxLCe,Wild Horses,The Rolling Stones,Hot Rocks 1964-1971,2026-05-05T14:11:32,342586,1,2026-05-05,1.5,5.35
+195,1dpCISxLihabD2i6geppcA,5ZJrRUIm6apjER9MNU7QBJ,3CkvROUTQ6nRi9yQOcsB50,Pigeons,Genesis,Archive #2 (1976 - 1992),2026-05-05T14:05:44,193733,4,2026-05-05,4.5,12.45
+196,6J0AjzrYsPZrQtw6IjErhy,4GLxEXWI3JiRKp6H7bfTIK,3IYUhFvPQItj6xySrBmZkd,Run Through The Jungle,Creedence Clearwater Revival,Cosmo's Factory (Expanded Edition),2026-05-05T14:02:32,184746,3,2026-05-05,3.0,9.5
+197,5EWPGh7jbTNO2wakv8LjUI,6DExt1eX4lflLacVjHHbOs,4MVyzYMgTwdP7Z49wAZHx0,Free Bird,Lynyrd Skynyrd,Pronounced' Leh-'Nerd 'Skin-'Nerd,2026-05-05T13:59:31,547106,2,2026-05-05,3.0,9.44
+198,5jgFfDIR6FR0gvlA56Nakr,1klALx0u4AavZNEvC4LrTL,3WrFJ7ztbogyGnTHbHJFl2,Blackbird - Remastered 2009,The Beatles,The Beatles (Remastered),2026-05-05T13:50:31,138386,2,2026-05-05,3.0,7.59
+199,0MH7baopcs2vSSojpx99G2,5eOTf1CZgRvs3X3OtIxlwK,6o2PxnpsrQ352kwYlEwjvR,L'elefante bianco,Area,Crac!,2026-05-05T13:48:05,272320,1,2026-05-05,1.5,5.06
+200,0UeKMKb98sqhKhbKYdCxf4,2Q5MwpTmtjscaS34mJFXQQ,22bE4uQ6baNwSHPVcDxLCe,The Spider And The Fly - Remastered 2002,The Rolling Stones,Out Of Our Heads,2026-05-05T13:43:31,218026,2,2026-05-05,3.0,8.16
+201,6Wdj4fVCnjmeHKWw7PJveY,2s4Imr2HMS9Dk5Jp5AooTu,1MD5pgVzlusqGyuSTcTxvu,Pecore Elettriche - Italian version,Premiata Forneria Marconi,I Dreamed of Electric Sheep,2026-05-05T13:40:01,249853,3,2026-05-05,3.0,9.9
+202,7bDiExjrKWLJbtHOg7g5cw,7ENQ5VEAlbbItHUL5qq9Wx,4TMHGUX5WI7OOm53PqSDAT,Bird Song,Grateful Dead,Live Albums Collection,2026-05-05T13:34:45,456520,2,2026-05-05,3.0,9.19
+203,2z6pwfOc3v5v34b5T1N9dn,4QJ6TxU94ROZoXNro42def,4ejp2yEDQIIJIy0iFpoI5B,Paloma Ausente,Violeta Parra,El Folklore Y La Pasión,2026-05-05T13:02:01,194066,2,2026-05-05,3.0,8.02
+204,0oiV2wyVxakBblsrY6j2NJ,4ysu41mUCLI21L8EwbwhTO,4RncsrNJ1GDGsFBIxI76L6,The Bird - Remastered,Jimmy Giuffre,"Music For People, Birds, Butterflies & Mosquitoes (Remastered)",2026-05-05T12:58:31,165342,1,2026-05-05,1.5,4.48
+205,3w0VwaqSx9y8fjNDHT62Ol,6o0u4pbxrUai7aPkizuzCp,1SQRv42e4PjEYfPhS0Tk9E,Animal Farm,The Kinks,The Kinks Are the Village Green Preservation Society,2026-05-05T12:56:01,180506,3,2026-05-05,4.5,10.96
+206,63M8OHzd0lcVT517Pnon81,3IPhWIXHOAhS2npnq6FiCG,0k17h0D3J5VfsdmQ1iZtE9,Several Species of Small Furry Animals Gathered Together in a Cave and Grooving with a Pict,Pink Floyd,Ummagumma,2026-05-05T12:53:01,298426,4,2026-05-05,4.5,13.06
+207,5xYC2ZJJ9TMJL8BOl85O2R,1gKZ5A1ndFqbcrWtW85cCy,3WrFJ7ztbogyGnTHbHJFl2,Hey Bulldog - Remastered 2009,The Beatles,Yellow Submarine (Remastered),2026-05-05T12:48:01,191306,2,2026-05-05,3.0,8.0
+208,15l2kEwhZSsj01tZnNzyZ2,5dVZpNJraoqCo3BssinMoo,2x9SpqnPi8rlE9pjHBwmSC,Animals - 2005 Remaster,Talking Heads,Fear of Music (Deluxe Version),2026-05-05T12:44:32,210426,2,2026-05-05,3.0,8.12
+209,1ZSOcFF4PfERJPqGHewDnt,4ysu41mUCLI21L8EwbwhTO,4RncsrNJ1GDGsFBIxI76L6,The Butterfly - Remastered,Jimmy Giuffre,"Music For People, Birds, Butterflies & Mosquitoes (Remastered)",2026-05-05T12:41:01,147090,2,2026-05-05,3.0,7.67
+210,54eZmuggBFJbV7k248bTTt,0E5IKYhiKgbYQkmfsFonbZ,35U9lQaRWSQISxQAB94Meo,A Horse with No Name,America,America,2026-05-05T12:36:31,252239,2,2026-05-05,3.0,8.36
+211,7B3B9tt6XJQdch3DrbvWC4,47hOpZQfXVIRzTiv0Ef8pO,22bE4uQ6baNwSHPVcDxLCe,Monkey Man - Remastered 2019,The Rolling Stones,Let It Bleed (50th Anniversary Edition / Remastered 2019),2026-05-05T12:32:02,251960,3,2026-05-05,4.5,11.41
+212,1LZQZxE7MTmNLvpPkAAXJT,5EVlXlHbRQI8ybuNt4ArXI,6v8FB84lnmJs434UJf2Mrm,Birds,Neil Young,After the Gold Rush (2009 Remaster),2026-05-05T12:27:31,153373,1,2026-05-05,1.5,4.41
+213,4OYKbKaC0PD9SQ76U3yfBb,0mk9LdhZoVwwdlTAuaMx25,7nkLRaWHImCvWGHdNGnhVE,Three Blind Mice,Ten Years After,Stonedhenge,2026-05-05T12:24:49,58640,2,2026-05-05,3.0,6.62
+214,422av5zjTEf3DUnpPS5WMI,4meqXtZNvQtZU9VRL65o0f,4RuYtHjAKBufQRqBUMiOfK,L'assalto dei lupi,Banco Del Mutuo Soccorso,L'assalto dei lupi,2026-05-05T12:24:01,334920,2,2026-05-05,3.0,8.75
+215,1RDva71oSm8zSnRLMQm6Gx,2CNEkSE8TADXRT2AzcEt1b,3oDbviiivRWhXwIE8hxkVV,Pet Sounds,The Beach Boys,Pet Sounds,2026-05-05T12:18:31,157666,2,2026-05-05,3.0,7.75
+216,5Azfsjg10eAfJofHqdSBL3,76iRPjs3SQiPYrZF1pwWgA,5NXHXK6hOCotCF8lvGM1I0,Nine Cats,Porcupine Tree,Stars Die (Remaster),2026-05-05T11:59:22,231853,1,2026-05-05,1.5,4.87
+217,3lnavfgHUTrxdRqcPmhqUA,6kvCH4eS92QkpBNdTmjLEz,776Uo845nYHJpNaStv1Ds4,Catfish Blues,Jimi Hendrix,Blues,2026-05-05T11:55:22,467426,1,2026-05-05,1.5,5.75
+218,2QIgCTwjIEpa23ZTga56gq,6icDB6wt9kle4AkCoPAtaZ,1hrQ50kU6hMQBVLatqUqnO,Dog's Life,Gentle Giant,Octopus,2026-05-05T10:12:36,191493,1,2026-05-05,1.5,4.64
+219,26LztWzlVfU8pHsC2jEBwz,1WeTsUeoyJBDYiqdoCtO8I,4RuYtHjAKBufQRqBUMiOfK,Il Ragno,Banco Del Mutuo Soccorso,Come in un'ultima cena,2026-05-05T10:00:52,295733,2,2026-05-05,3.0,8.57
+220,1MSfzutmY6uBu7oBHTv60C,1Bw3bHsQ9Xwlalhp4NjX1n,4lianjyuR1tqf6oUX8kjrZ,L'Animale - Remastered,Franco Battiato,Mondi Lontanissimi (2008 Remastered Edition),2026-05-05T09:56:05,199906,3,2026-05-05,4.5,11.1
+221,3iZ5twPwvFeOUQA4Deu8tP,6UQyg4DOgAGfKnjSciPKBe,08GQAI4eElDnROBrJRGE0X,Albatross,Fleetwood Mac,English Rose,2026-05-05T09:52:52,190106,1,2026-05-05,1.5,4.64
+222,64P3zpRsDHIk7YTpRtaKYL,1klALx0u4AavZNEvC4LrTL,3WrFJ7ztbogyGnTHbHJFl2,Everybody's Got Something To Hide Except Me And My Monkey - Remastered 2009,The Beatles,The Beatles (Remastered),2026-05-05T09:49:52,144773,3,2026-05-05,3.0,9.16
+223,43SkTJJ2xleDaeiE4TIM70,0bJMFJ2XQwpO5nKTrYdUtX,22bE4uQ6baNwSHPVcDxLCe,Walking The Dog,The Rolling Stones,The Rolling Stones,2026-05-05T09:46:26,189186,3,2026-05-05,4.5,11.03
+224,0gqAQYhKyk3nXUUqzc1WLN,4vvx8uOeJE7YR4tORVtYV4,7M1FPw29m5FbicYzS2xdpi,Lizard (Prince Rupert Awakes/Bolero/The Battle of Glass Tears/Big Top),King Crimson,Lizard,2026-05-05T09:43:26,1399860,1,2026-05-05,1.5,7.29
+225,1LEAvMU3ObxFGuijPxi5MO,2lWDphDAlgk8PNdODreJwv,2XhhAWeUOlrZnGOB7aKEI8,The Lamb,Aphrodite's Child,6 6 6,2026-05-05T09:16:56,274733,2,2026-05-05,3.0,8.48
+226,3ExkycVpwb2mCZ6MsJuECz,3BSOiAas8BpJOii3kCPyjV,1w5Kfo2jwwIPruYS2UWh56,Rats - Remastered,Pearl Jam,Vs.,2026-05-05T07:36:09,255071,1,2026-05-05,1.5,4.99
+227,6Pq9MmkDQYZiiCDpxnvrf6,2BtE7qm1qzM80p9vLSiXkj,3WrFJ7ztbogyGnTHbHJFl2,I Am The Walrus - Remastered 2009,The Beatles,Magical Mystery Tour (Remastered),2026-05-05T07:31:39,275866,1,2026-05-05,1.5,5.08
+228,76MTIfR8jEZ5T0yEP5qIvt,7Jzr8zL3EqWQQJhFMtRoti,4cP0bprQSFtZdI9QEKKZA3,Cat Walk,Mal Waldron,The Cat I Saw Yesterday,2026-05-05T07:27:09,416653,2,2026-05-05,3.0,9.05
+229,26oHuX40kl6CbJOE2fYzp2,5KlxVQrxfXom4ttbE6trkc,3UtSTTCQ0EMUQxmsfZ3Px1,Vivaldi,Curved Air,Air Conditioning,2026-05-05T07:15:15,450560,4,2026-05-05,6.0,15.16
+230,75gb1H0F5IumlnwhjnB08B,2JyNDhGhp0hiizSPuUs0i9,67ea9eGLXYMsO2eYQRui3w,Rael - Pt.1 & Pt.2,The Who,The Who Sell Out (Super Deluxe),2026-05-05T05:54:02,338826,3,2026-05-05,4.5,11.84
+231,3RsiyFNrYlv16OWY1BHMmx,51pz4wvc0BPtjnGCWjxX91,1MD5pgVzlusqGyuSTcTxvu,Dove... quando... - II Parte,Premiata Forneria Marconi,Storia Di Un Minuto,2026-05-05T05:54:01,361053,2,2026-05-05,3.0,8.86
+232,46dxvP1IF5TdcKG42GkDF4,4ttC4XUinZXn3GMIQNrjFZ,7M1FPw29m5FbicYzS2xdpi,The Night Watch,King Crimson,Starless And Bible Black,2026-05-05T05:54:01,281611,2,2026-05-05,3.0,8.51
+233,6YmnF4T8NFadmlIbF6yGjB,0HoF3Ir1IYbIkvrxXrLGOB,7AC976RDJzL2asmZuz7qil,Tempus Fugit,Yes,Drama (Deluxe Edition),2026-05-05T05:54:01,315426,2,2026-05-05,3.0,8.66
+234,3XZD0qEHYoCTnQe9ps8HeQ,7oT1CbeyKlCJOsxmELnMMW,5hlBb5u8K5D8yrL8jwZ7N9,Abre la puerta,Triana,El patio 40 Aniversario,2026-05-05T05:54:01,590240,2,2026-05-05,3.0,9.54
+235,7yLCCnegxpkYe6TgkZFRVN,4sWf0wkRfi49tW4NLxdLj2,4lianjyuR1tqf6oUX8kjrZ,Zai Saman - 2008 Remaster,Franco Battiato,Fisiognomica (2008 Remastered Edition),2026-05-05T05:54:01,232813,1,2026-05-05,1.5,4.88
+236,6rbLGESJIt0IdCWcrXtrFK,1Apj3GZ0D7l94CFA5qInjr,4RuYtHjAKBufQRqBUMiOfK,L'Evoluzione,Banco Del Mutuo Soccorso,Darwin (1991 Edition),2026-05-05T05:54:01,1006400,5,2026-05-05,6.0,17.66
+237,4Xnx46oORhi3xt5m23Qzse,08WECxW5Pz0dIcEabHkIzU,1MD5pgVzlusqGyuSTcTxvu,Transumanza jam - Live in Lugano,Premiata Forneria Marconi,The Event - Live in Lugano,2026-05-05T05:54:01,202560,2,2026-05-05,3.0,8.07
+238,47sJPdCkjVfLJWBFhwJiuE,20dTbQRkxuOTkf3SFyaT2m,7M1FPw29m5FbicYzS2xdpi,The Sheltering Sky,King Crimson,Discipline,2026-05-05T05:54:01,502480,4,2026-05-05,6.0,15.31
+239,4796ITs2bZ9Mys2nnG37qf,0b33cACjsSPVBchGgsFGMu,4lianjyuR1tqf6oUX8kjrZ,Ermeneutica,Franco Battiato,Universi paralleli di Franco Battiato,2026-05-05T05:54:01,214213,3,2026-05-05,4.5,11.19
+240,70gsGvTtjXyYAp0M1X6DPH,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Big Apple - Metro Mix,Kajagoogoo,Islands,2026-05-05T20:43:01,365880,6,2026-05-05,6.0,17.45
+241,0HOOIjvwMNB9IL0G64gKKL,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,On a Plane,Kajagoogoo,Islands,2026-05-05T20:36:29,253986,2,2026-05-05,3.0,8.38
+242,0MSYmBxKuO7gC6tL5iDqV4,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Islands,Kajagoogoo,Islands,2026-05-05T20:32:01,291480,2,2026-05-05,3.0,8.55
+243,1l89u8dBPpEAHVSY45OVaV,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Turn Your Back on Me,Kajagoogoo,Islands,2026-05-05T20:27:01,241293,3,2026-05-05,4.5,11.36
+244,64EYxmO7v1pNbSgKvXNkfk,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Melting the Ice Away,Kajagoogoo,Islands,2026-05-05T20:23:01,318613,2,2026-05-05,3.0,8.68
+245,0kWweQWE8HIYlOUsIcvthl,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Power to Forgive,Kajagoogoo,Islands,2026-05-05T20:18:01,286040,4,2026-05-05,6.0,14.5
+246,5GdmKwHrXRfGT40ZGs0W5R,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Big Apple,Kajagoogoo,Islands,2026-05-05T20:13:01,249546,6,2026-05-05,7.5,18.39
+247,7zacyKvVMUsjbtvMiJPWlw,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Lion's Mouth,Kajagoogoo,Islands,2026-05-05T20:09:09,216186,12,2026-05-05,9.0,26.69
+248,7zacyKvVMUsjbtvMiJPWlw,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Lion's Mouth,Kajagoogoo,Islands,2026-05-05T20:08:41,216186,12,2026-05-05,9.0,26.69
+249,0suLngfo7rJoetk7Ub6N8l,0ETFjACtuP2ADo6LFhL6HN,3WrFJ7ztbogyGnTHbHJFl2,Octopus's Garden - Remastered 2009,The Beatles,Abbey Road (Remastered),2026-05-05T20:05:47,170720,2,2026-05-05,3.0,7.85
+250,3DQYUtFdiSYYl5LiKIP5uO,5rZ0rFsFBgi7bY446rR8ox,4l8xPGtl6DHR2uvunqrl8r,Turtles Have Short Legs,CAN,The Singles,2026-05-05T19:57:18,205219,1,2026-05-05,1.5,4.73
+251,0bv5vUJCvXM9G0cbjeikyY,6YhvR14clg0yibdTKB5aBv,5GXruybcLmXPjR9rKKFyS6,Back At The Chicken Shack,Jimmy Smith,Back At The Chicken Shack,2026-05-05T19:54:56,483093,2,2026-05-05,3.0,9.26
+252,6J0AjzrYsPZrQtw6IjErhy,4GLxEXWI3JiRKp6H7bfTIK,3IYUhFvPQItj6xySrBmZkd,Run Through The Jungle,Creedence Clearwater Revival,Cosmo's Factory (Expanded Edition),2026-05-05T19:46:56,184746,3,2026-05-05,3.0,9.5
+253,63M8OHzd0lcVT517Pnon81,3IPhWIXHOAhS2npnq6FiCG,0k17h0D3J5VfsdmQ1iZtE9,Several Species of Small Furry Animals Gathered Together in a Cave and Grooving with a Pict,Pink Floyd,Ummagumma,2026-05-05T19:43:57,298426,4,2026-05-05,4.5,13.06
+254,1gyQods9V876YtT0YBu1N1,7C0IAJ3u8KenVJHKFGeZ85,3CkvROUTQ6nRi9yQOcsB50,The Lamb Lies Down on Broadway - 2025 Remaster,Genesis,The Lamb Lies Down On Broadway (50th Anniversary Deluxe Edition),2026-05-05T19:38:56,291306,1,2026-05-05,1.5,5.16
+255,3M0QK0bYdiGMu6JNoPk8YG,2pTyJZOTqFYn2UPP30zZNl,5l8VQNuIg0turYE1VtM9zV,Bird on the Wire,Leonard Cohen,Songs From A Room,2026-05-05T19:33:26,208616,1,2026-05-05,1.5,4.75
+256,5jFD6SEWH4V3GSo87tkvLk,2oarUyKXMzGZ2FQyoGbV9B,3qlU3Nyu3XXO2k9AUnTcy1,La Pulce D'Acqua,Angelo Branduardi,La Pulce D'Acqua,2026-05-05T19:29:56,284333,2,2026-05-05,3.0,8.53
+257,6Wdj4fVCnjmeHKWw7PJveY,2s4Imr2HMS9Dk5Jp5AooTu,1MD5pgVzlusqGyuSTcTxvu,Pecore Elettriche - Italian version,Premiata Forneria Marconi,I Dreamed of Electric Sheep,2026-05-05T19:25:27,249853,3,2026-05-05,3.0,9.9
+258,7oXOoyO2LGsl3zWqrRVZyY,0b33cACjsSPVBchGgsFGMu,4lianjyuR1tqf6oUX8kjrZ,Le aquile non volano a stormi,Franco Battiato,Universi paralleli di Franco Battiato,2026-05-05T19:20:56,206560,2,2026-05-05,3.0,8.11
+259,69WzNkdbqaJEK6XanOkB4P,2xJFvV7JzoYYMere5rqjVf,4X42BfuhWCAZ2swiVze9O0,The Raven That Refused to Sing,Steven Wilson,The Raven That Refused to Sing (and Other Stories),2026-05-05T19:17:26,477104,2,2026-05-05,3.0,9.25
+260,4V2Sv3OBB3rihY6J3xszLr,4g1bXWOAxwXsB87MA3VyGQ,0IwfuIL3gUJxjzUqY3wJ3j,Some Skunk Funk,Billy Cobham,A Funky Thide Of Sings,2026-05-05T19:04:16,310333,2,2026-05-05,3.0,8.64
+261,1WvAEqmGYmu0DMWCcXMxQk,2YDrjd7cl5Lz2mjl3do6iz,4l8xPGtl6DHR2uvunqrl8r,Dead Pigeon Suite,CAN,The Lost Tapes,2026-05-05T17:34:30,706533,1,2026-05-05,1.5,6.32
+262,6YA1LnVI98LXUmtMKs3fIk,5IlWV2U89uY5EuNYtYQH6B,6w6z8m4WXX7Tub4Rb6Lu7R,Bungle in the Jungle,Jethro Tull,M.U. - The Best of Jethro Tull,2026-05-05T17:22:30,217333,1,2026-05-05,1.5,4.79
+263,4iVbUJJFCByvdV3SMI7SEp,2vCIHBcaagIDY6f7axqdi0,4kYClJRpGza4CLezfVwLEf,Two Dolphins Go Dancing,Irmin Schmidt,Toy Planet - 1981,2026-05-05T17:18:30,209696,3,2026-05-05,4.5,11.16
+264,5dC9NQCbU6i3T3S4nyg23y,7GkJWXDdRuZyUvVKCbKujO,1BGN1IdyiSR0ZYrkoKNchl,Tiergarten,Tangerine Dream,"Platz der Republik, West-Berlin - August 1st 1987",2026-05-05T17:14:59,190533,4,2026-05-05,4.5,12.43
+265,6JXpIe7UwSyTVNb05dUxbU,73iVQndgikX2BpxklY2b5S,5AEG63ajney2BoDXi0Vb84,Seagull,Bad Company,Live At Wembley Arena 2010,2026-05-05T17:11:59,286245,2,2026-05-05,3.0,8.54
+266,3DFjWyIJ2FA8ehRRynybpO,5po3XeTxZ1Oy9xMX62daWm,22bE4uQ6baNwSHPVcDxLCe,Little Red Rooster - (Original Single Mono Version),The Rolling Stones,Singles 1963-1965,2026-05-05T17:06:59,184720,3,2026-05-05,4.5,11.0
+267,5RETGB7Fe6KxAEXevMpmTu,0BD0bKRAFt8Z5q2NqCTPsN,3Uz6jx81OY2J5K8Z4wmy2P,The Snow Goose - Remastered 2023,Camel,The Snow Goose (2023 Remastered & Expanded Edition),2026-05-05T17:03:30,191813,2,2026-05-05,3.0,8.0
+268,2YzHNIhohdbov0BRN8HcLN,78tN6vBPHHyNk4sZYnS5X4,7AC976RDJzL2asmZuz7qil,The Fish (Schindleria Praematurus) - 2024 Remaster,Yes,Fragile (Super Deluxe),2026-05-05T17:00:29,159892,1,2026-05-05,1.5,4.45
+269,0xSvfXYyDqQ3sncpGveHbg,4Ji83LjzvEzFoCpN85m5lW,08GQAI4eElDnROBrJRGE0X,Rattlesnake Shake - 2013 Remaster,Fleetwood Mac,Then Play On (2013 Remaster; Expanded Edition),2026-05-05T16:57:59,210156,2,2026-05-05,3.0,8.12
+270,0MGdMLE0oo28ueP6xNSBdN,4VRRvBdZNnQGAmNN2fHhVh,6ra4GIOgCZQZMOaUECftGN,Dog Breath Variations,Frank Zappa,The Yellow Shark,2026-05-05T16:54:30,127040,2,2026-05-05,3.0,7.49
+271,7bw8Bq5YKEaMOwZNjylyHT,5GuP6isw4DZpsTaucdWkC5,02frazNrWgZCxUEf4UTfHt,Refugees - Remastered,Van Der Graaf Generator,The Least We Can Do Is Wave To Each Other,2026-05-05T16:51:59,385466,1,2026-05-05,1.5,5.5
+272,6EEihoyAbhrobkEJfonlVZ,5GuP6isw4DZpsTaucdWkC5,02frazNrWgZCxUEf4UTfHt,Darkness (11/11) [2005 - Remaster],Van Der Graaf Generator,The Least We Can Do Is Wave To Each Other,2026-05-05T16:45:29,450093,1,2026-05-05,1.5,5.71
+273,12BSffsg97h51TlEcwXKTr,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,A Plague Of Lighthouse Keepers - Remastered 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-05T16:37:46,1384160,5,2026-05-05,7.5,19.64
+274,3nhQ0t5o70uHAzEgYDedX2,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,Man-Erg - Remastered 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-05T16:14:59,619800,9,2026-05-05,9.0,24.81
+275,5OJCbL1RVFYSw07C9e0QUS,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,Lemmings (Including Cog) - Remastered 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-05T16:04:29,696520,6,2026-05-05,7.5,19.89
+276,63soSLcwqpJFJaI5OgnnC2,2IZe9ttqeMqwkv3dRXJRkd,4TMHGUX5WI7OOm53PqSDAT,China Cat Sunflower - 2013 Remaster,Grateful Dead,Aoxomoxoa (2013 Remaster),2026-05-05T14:45:02,222235,3,2026-05-05,3.0,9.73
+277,4KRgqwb4kvBuTz1utbYxfb,3PRoXYsngSwjEQWR5PsHWR,3WrFJ7ztbogyGnTHbHJFl2,And Your Bird Can Sing - Remastered 2009,The Beatles,Revolver (Remastered),2026-05-06T11:35:33,120493,2,2026-05-06,3.0,7.42
+278,6BT7qiDY4A5tOyklohjQuW,0DQyTVcDhK9wm0f6RaErWO,6zvul52xwTWzilBZl6BUbT,Monkey Gone to Heaven,Pixies,Doolittle,2026-05-06T11:33:33,175333,1,2026-05-06,1.5,4.55
+279,43SkTJJ2xleDaeiE4TIM70,0bJMFJ2XQwpO5nKTrYdUtX,22bE4uQ6baNwSHPVcDxLCe,Walking The Dog,The Rolling Stones,The Rolling Stones,2026-05-06T11:09:53,189186,3,2026-05-06,4.5,11.03
+280,6XVtS357eRLu9C0bhvcplS,1WeTsUeoyJBDYiqdoCtO8I,4RuYtHjAKBufQRqBUMiOfK,Si Dice Che I Delfini Parlino,Banco Del Mutuo Soccorso,Come in un'ultima cena,2026-05-06T11:06:53,353666,1,2026-05-06,1.5,5.39
+281,4V2Sv3OBB3rihY6J3xszLr,4g1bXWOAxwXsB87MA3VyGQ,0IwfuIL3gUJxjzUqY3wJ3j,Some Skunk Funk,Billy Cobham,A Funky Thide Of Sings,2026-05-06T11:00:54,310333,2,2026-05-06,3.0,8.64
+282,1ZSOcFF4PfERJPqGHewDnt,4ysu41mUCLI21L8EwbwhTO,4RncsrNJ1GDGsFBIxI76L6,The Butterfly - Remastered,Jimmy Giuffre,"Music For People, Birds, Butterflies & Mosquitoes (Remastered)",2026-05-06T10:55:52,147090,2,2026-05-06,3.0,7.67
+283,7zacyKvVMUsjbtvMiJPWlw,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Lion's Mouth,Kajagoogoo,Islands,2026-05-06T10:53:08,216186,12,2026-05-06,9.0,26.69
+284,5RvojOmq8Yrvg2FNKbRmlN,59eHxfqvwJyXhJGGtORaHv,4lianjyuR1tqf6oUX8kjrZ,Le Aquile - Remastered 2008,Franco Battiato,Patriots (2008 Remastered Edition),2026-05-06T08:47:50,250653,3,2026-05-06,4.5,11.41
+285,6JXpIe7UwSyTVNb05dUxbU,73iVQndgikX2BpxklY2b5S,5AEG63ajney2BoDXi0Vb84,Seagull,Bad Company,Live At Wembley Arena 2010,2026-05-06T08:43:49,286245,2,2026-05-06,3.0,8.54
+286,1LEAvMU3ObxFGuijPxi5MO,2lWDphDAlgk8PNdODreJwv,2XhhAWeUOlrZnGOB7aKEI8,The Lamb,Aphrodite's Child,6 6 6,2026-05-06T08:38:50,274733,2,2026-05-06,3.0,8.48
+287,2z6pwfOc3v5v34b5T1N9dn,4QJ6TxU94ROZoXNro42def,4ejp2yEDQIIJIy0iFpoI5B,Paloma Ausente,Violeta Parra,El Folklore Y La Pasión,2026-05-06T08:34:20,194066,2,2026-05-06,3.0,8.02
+288,4iVbUJJFCByvdV3SMI7SEp,2vCIHBcaagIDY6f7axqdi0,4kYClJRpGza4CLezfVwLEf,Two Dolphins Go Dancing,Irmin Schmidt,Toy Planet - 1981,2026-05-06T08:30:49,209696,3,2026-05-06,4.5,11.16
+289,14qbY7LbhcXwECCGqH2z7U,7IKUTIc9UWuVngyGPtqNHS,22WZ7M8sxp5THdruNY3gXt,Crawling King Snake,The Doors,L.A. Woman,2026-05-06T08:27:20,298973,1,2026-05-06,1.5,5.19
+290,2RKXaYI00vF1YpzRBWPpEd,0lSd1hZaG62VvH2XZSmWg6,08GQAI4eElDnROBrJRGE0X,Dragonfly,Fleetwood Mac,Like Crying: The Songs of Danny Kirwan,2026-05-06T08:22:20,165754,1,2026-05-06,1.5,4.5
+291,4OYKbKaC0PD9SQ76U3yfBb,0mk9LdhZoVwwdlTAuaMx25,7nkLRaWHImCvWGHdNGnhVE,Three Blind Mice,Ten Years After,Stonedhenge,2026-05-06T08:19:50,58640,2,2026-05-06,3.0,6.62
+292,0bv5vUJCvXM9G0cbjeikyY,6YhvR14clg0yibdTKB5aBv,5GXruybcLmXPjR9rKKFyS6,Back At The Chicken Shack,Jimmy Smith,Back At The Chicken Shack,2026-05-06T08:18:50,483093,2,2026-05-06,3.0,9.26
+293,63M8OHzd0lcVT517Pnon81,3IPhWIXHOAhS2npnq6FiCG,0k17h0D3J5VfsdmQ1iZtE9,Several Species of Small Furry Animals Gathered Together in a Cave and Grooving with a Pict,Pink Floyd,Ummagumma,2026-05-06T08:10:50,298426,4,2026-05-06,4.5,13.06
+294,3JLItZsgZGc5hdgocrHu0y,4irlewoGTUPndEinKcavLF,02frazNrWgZCxUEf4UTfHt,"A Louse Is Not A Home - Live, 2005 Digital Remaster",Van Der Graaf Generator,Godbluff,2026-05-06T08:05:36,767880,1,2026-05-06,1.5,6.43
+295,0gEaeqVRHPzRc7HMXtOKc7,3b4E89rxzZQ9zkhgKpj8N4,0k17h0D3J5VfsdmQ1iZtE9,Pigs (Three Different Ones),Pink Floyd,Animals,2026-05-06T01:49:26,686333,1,2026-05-06,1.5,6.28
+296,0MGdMLE0oo28ueP6xNSBdN,4VRRvBdZNnQGAmNN2fHhVh,6ra4GIOgCZQZMOaUECftGN,Dog Breath Variations,Frank Zappa,The Yellow Shark,2026-05-06T01:38:26,127040,2,2026-05-06,3.0,7.49
+297,7B3B9tt6XJQdch3DrbvWC4,47hOpZQfXVIRzTiv0Ef8pO,22bE4uQ6baNwSHPVcDxLCe,Monkey Man - Remastered 2019,The Rolling Stones,Let It Bleed (50th Anniversary Edition / Remastered 2019),2026-05-06T01:35:57,251960,3,2026-05-06,4.5,11.41
+298,5FgQkEcqMXCqFdcsEx143b,2lWDphDAlgk8PNdODreJwv,2XhhAWeUOlrZnGOB7aKEI8,The Four Horsemen,Aphrodite's Child,6 6 6,2026-05-06T01:31:57,353426,2,2026-05-06,3.0,8.82
+299,63soSLcwqpJFJaI5OgnnC2,2IZe9ttqeMqwkv3dRXJRkd,4TMHGUX5WI7OOm53PqSDAT,China Cat Sunflower - 2013 Remaster,Grateful Dead,Aoxomoxoa (2013 Remaster),2026-05-06T01:25:57,222235,3,2026-05-06,3.0,9.73
+300,1dpCISxLihabD2i6geppcA,5ZJrRUIm6apjER9MNU7QBJ,3CkvROUTQ6nRi9yQOcsB50,Pigeons,Genesis,Archive #2 (1976 - 1992),2026-05-06T01:22:27,193733,4,2026-05-06,4.5,12.45
+301,4ZmjfLdJXbqjAENqk7eWSE,1klALx0u4AavZNEvC4LrTL,3WrFJ7ztbogyGnTHbHJFl2,Piggies - Remastered 2009,The Beatles,The Beatles (Remastered),2026-05-06T01:18:57,124266,1,2026-05-06,1.5,4.18
+302,5dC9NQCbU6i3T3S4nyg23y,7GkJWXDdRuZyUvVKCbKujO,1BGN1IdyiSR0ZYrkoKNchl,Tiergarten,Tangerine Dream,"Platz der Republik, West-Berlin - August 1st 1987",2026-05-06T01:16:57,190533,4,2026-05-06,4.5,12.43
+303,1AZ5G23Kcn9h5Awws5Ekf3,6CvGnsHhBjVvGKgmIkpLMs,5GXruybcLmXPjR9rKKFyS6,The Cat,Jimmy Smith,The Cat,2026-05-06T01:13:57,204093,2,2026-05-06,3.0,8.07
+304,76MTIfR8jEZ5T0yEP5qIvt,7Jzr8zL3EqWQQJhFMtRoti,4cP0bprQSFtZdI9QEKKZA3,Cat Walk,Mal Waldron,The Cat I Saw Yesterday,2026-05-06T01:10:27,416653,2,2026-05-06,3.0,9.05
+305,3DFjWyIJ2FA8ehRRynybpO,5po3XeTxZ1Oy9xMX62daWm,22bE4uQ6baNwSHPVcDxLCe,Little Red Rooster - (Original Single Mono Version),The Rolling Stones,Singles 1963-1965,2026-05-06T01:03:26,184720,3,2026-05-06,4.5,11.0
+306,69WzNkdbqaJEK6XanOkB4P,2xJFvV7JzoYYMere5rqjVf,4X42BfuhWCAZ2swiVze9O0,The Raven That Refused to Sing,Steven Wilson,The Raven That Refused to Sing (and Other Stories),2026-05-06T01:00:27,477104,2,2026-05-06,3.0,9.25
+307,15l2kEwhZSsj01tZnNzyZ2,5dVZpNJraoqCo3BssinMoo,2x9SpqnPi8rlE9pjHBwmSC,Animals - 2005 Remaster,Talking Heads,Fear of Music (Deluxe Version),2026-05-06T00:52:26,210426,2,2026-05-06,3.0,8.12
+308,7as0i6RfQ0agOKeFNffmdb,0ICEGX26wNqIKLmWRpZxwx,2m62cc253Xvd9qYQ8d2X3d,The Raven,The Alan Parsons Project,Tales Of Mystery And Imagination (Original 1976 Version),2026-05-06T00:48:57,238186,1,2026-05-06,1.5,4.9
+309,5EWPGh7jbTNO2wakv8LjUI,6DExt1eX4lflLacVjHHbOs,4MVyzYMgTwdP7Z49wAZHx0,Free Bird,Lynyrd Skynyrd,Pronounced' Leh-'Nerd 'Skin-'Nerd,2026-05-06T00:44:56,547106,2,2026-05-06,3.0,9.44
+310,64P3zpRsDHIk7YTpRtaKYL,1klALx0u4AavZNEvC4LrTL,3WrFJ7ztbogyGnTHbHJFl2,Everybody's Got Something To Hide Except Me And My Monkey - Remastered 2009,The Beatles,The Beatles (Remastered),2026-05-06T00:35:56,144773,3,2026-05-06,3.0,9.16
+311,3vfIp1SN81WhrwLYahweyK,6ELt0QaMOwPGPzfdEXE839,7M1FPw29m5FbicYzS2xdpi,Larks' Tongues In Aspic (Part II),King Crimson,Larks' Tongues In Aspic (Expanded & Remastered Original Album Mix),2026-05-06T00:33:27,439006,2,2026-05-06,3.0,9.12
+312,2Y4zwRLRmBSrQd8vrfBIyK,0o6CVT0y5uxH5r6zXQot98,6PAt558ZEZl0DmdXlnjMgD,Reptile,Eric Clapton,Reptile,2026-05-06T00:25:57,205226,1,2026-05-06,1.5,4.73
+313,5DJjwPtvPNARWVyzIdFnef,4irlewoGTUPndEinKcavLF,02frazNrWgZCxUEf4UTfHt,Scorched Earth - 2005 Digital Remaster,Van Der Graaf Generator,Godbluff,2026-05-06T00:22:01,583080,4,2026-05-06,6.0,15.54
+314,6PvxI36z3horWyae29EOHM,4irlewoGTUPndEinKcavLF,02frazNrWgZCxUEf4UTfHt,The Undercover Man - 2005 Digital Remaster,Van Der Graaf Generator,Godbluff,2026-05-05T22:01:17,452133,4,2026-05-05,6.0,15.16
+315,3nhQ0t5o70uHAzEgYDedX2,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,Man-Erg - Remastered 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-05T21:53:37,619800,9,2026-05-05,9.0,24.81
+316,5OJCbL1RVFYSw07C9e0QUS,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,Lemmings (Including Cog) - Remastered 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-05T21:43:17,696520,6,2026-05-05,7.5,19.89
+317,5RvojOmq8Yrvg2FNKbRmlN,59eHxfqvwJyXhJGGtORaHv,4lianjyuR1tqf6oUX8kjrZ,Le Aquile - Remastered 2008,Franco Battiato,Patriots (2008 Remastered Edition),2026-05-05T21:31:47,250653,3,2026-05-05,4.5,11.41
+318,7EjyzZcbLxW7PaaLua9Ksb,3tpJtzZm4Urb0n2ITN5mwF,5QEA3sofVt5QckQA6QX2nN,Surfin' Bird,The Trashmen,Full Metal Jacket (Original Motion Picture Soundtrack),2026-05-05T21:27:17,137133,1,2026-05-05,1.5,4.29
+319,7zacyKvVMUsjbtvMiJPWlw,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Lion's Mouth,Kajagoogoo,Islands,2026-05-05T21:25:17,216186,12,2026-05-05,9.0,26.69
+320,6RtyDR21q21OXaoKXoAsJK,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Lion's Mouth - Beast Mix,Kajagoogoo,Islands,2026-05-05T21:20:52,339240,3,2026-05-05,4.5,11.84
+321,54eZmuggBFJbV7k248bTTt,0E5IKYhiKgbYQkmfsFonbZ,35U9lQaRWSQISxQAB94Meo,A Horse with No Name,America,America,2026-05-06T17:16:59,252239,2,2026-05-06,3.0,8.36
+322,1dpCISxLihabD2i6geppcA,5ZJrRUIm6apjER9MNU7QBJ,3CkvROUTQ6nRi9yQOcsB50,Pigeons,Genesis,Archive #2 (1976 - 1992),2026-05-06T17:12:29,193733,4,2026-05-06,4.5,12.45
+323,5jFD6SEWH4V3GSo87tkvLk,2oarUyKXMzGZ2FQyoGbV9B,3qlU3Nyu3XXO2k9AUnTcy1,La Pulce D'Acqua,Angelo Branduardi,La Pulce D'Acqua,2026-05-06T17:08:59,284333,2,2026-05-06,3.0,8.53
+324,12BSffsg97h51TlEcwXKTr,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,A Plague Of Lighthouse Keepers - Remastered 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-06T17:04:11,1384160,5,2026-05-06,7.5,19.64
+325,3nhQ0t5o70uHAzEgYDedX2,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,Man-Erg - Remastered 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-06T16:40:59,619800,9,2026-05-06,9.0,24.81
+326,3nhQ0t5o70uHAzEgYDedX2,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,Man-Erg - Remastered 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-06T16:30:59,619800,9,2026-05-06,9.0,24.81
+327,5OJCbL1RVFYSw07C9e0QUS,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,Lemmings (Including Cog) - Remastered 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-06T16:20:29,696520,6,2026-05-06,7.5,19.89
+328,3i7ZIyOG3VsWmsVKDfVVB8,7G0p89tAHevz6c4OUHXBY4,1SQRv42e4PjEYfPhS0Tk9E,Hot Potatoes,The Kinks,Everybody's in Show-Biz (Super Deluxe),2026-05-06T16:09:59,209084,1,2026-05-06,1.5,4.75
+329,4fAYkoqIfiYiTuDFtsirib,6SOihxycNpKEwRiYKvlHOi,2caOYPej26UoQOyFnzXW3G,Seduto sotto un platano,Lucio Battisti,Amore e non amore,2026-05-06T15:52:14,187264,1,2026-05-06,1.5,4.63
+330,47gzOI0OfVR3vgv5zGkNfd,0HXUEUFACh0b3VBhm7jBhi,1CD77o9fbdyQFrHnUPUEsF,Here We Go Round The Mulberry Bush - Stereo Version,Traffic,Traffic,2026-05-06T15:49:13,161800,1,2026-05-06,1.5,4.46
+331,6HbWoyinLdXPZmk6xONuKw,3gBVdu4a1MMJVMy6vwPEb8,4Z8W4fKeB5YxbusRsdQVPb,Vegetable,Radiohead,Pablo Honey,2026-05-06T15:46:14,192666,1,2026-05-06,1.5,4.66
+332,7sNhXWrg9eW3qRqeuePaIC,7rfKAiPs9ToZP9zEJDBqBH,4KWTAlx2RvbpseOGMEmROg,Orange Crush - Remastered 2013,R.E.M.,Green (Remastered),2026-05-06T15:42:43,231640,1,2026-05-06,1.5,4.87
+333,0EiI4tM0j4Eah7Be7YYH5I,4ZaIo647CyWAgow8oxqajh,4TMHGUX5WI7OOm53PqSDAT,New Potato Caboose,Grateful Dead,Anthem of the Sun,2026-05-06T15:38:44,506000,1,2026-05-06,1.5,5.86
+334,7zacyKvVMUsjbtvMiJPWlw,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Lion's Mouth,Kajagoogoo,Islands,2026-05-06T15:26:44,216186,12,2026-05-06,9.0,26.69
+335,1RDva71oSm8zSnRLMQm6Gx,2CNEkSE8TADXRT2AzcEt1b,3oDbviiivRWhXwIE8hxkVV,Pet Sounds,The Beach Boys,Pet Sounds,2026-05-06T15:22:42,157666,2,2026-05-06,3.0,7.75
+336,63soSLcwqpJFJaI5OgnnC2,2IZe9ttqeMqwkv3dRXJRkd,4TMHGUX5WI7OOm53PqSDAT,China Cat Sunflower - 2013 Remaster,Grateful Dead,Aoxomoxoa (2013 Remaster),2026-05-06T15:19:44,222235,3,2026-05-06,3.0,9.73
+337,5jgFfDIR6FR0gvlA56Nakr,1klALx0u4AavZNEvC4LrTL,3WrFJ7ztbogyGnTHbHJFl2,Blackbird - Remastered 2009,The Beatles,The Beatles (Remastered),2026-05-06T15:16:14,138386,2,2026-05-06,3.0,7.59
+338,1pX02wHXmoDWCYubpqKZ6a,7GkJWXDdRuZyUvVKCbKujO,1BGN1IdyiSR0ZYrkoKNchl,Dolphin Smile,Tangerine Dream,"Platz der Republik, West-Berlin - August 1st 1987",2026-05-06T15:13:43,308520,1,2026-05-06,1.5,5.23
+339,7s1fLxwhmKa6VDNqzJzOsE,2c6BUJGIxa4SA94iYX4JkT,4Ww5mwS7BWYjoZTUIrMHfC,Ornithology,Charlie Parker,The Complete Savoy & Dial Master Takes,2026-05-06T15:08:44,181600,1,2026-05-06,1.5,4.58
+340,0jYpOvA5P19kn9a4aA4zqE,3bV0ucrpo1ZFBowxXeMilJ,4lianjyuR1tqf6oUX8kjrZ,L'Isola Elefante,Franco Battiato,Joe Patti's Experimental Group,2026-05-06T15:05:43,293486,2,2026-05-06,3.0,8.57
+341,422av5zjTEf3DUnpPS5WMI,4meqXtZNvQtZU9VRL65o0f,4RuYtHjAKBufQRqBUMiOfK,L'assalto dei lupi,Banco Del Mutuo Soccorso,L'assalto dei lupi,2026-05-06T15:00:44,334920,2,2026-05-06,3.0,8.75
+342,64P3zpRsDHIk7YTpRtaKYL,1klALx0u4AavZNEvC4LrTL,3WrFJ7ztbogyGnTHbHJFl2,Everybody's Got Something To Hide Except Me And My Monkey - Remastered 2009,The Beatles,The Beatles (Remastered),2026-05-06T14:55:13,144773,3,2026-05-06,3.0,9.16
+343,3w0VwaqSx9y8fjNDHT62Ol,6o0u4pbxrUai7aPkizuzCp,1SQRv42e4PjEYfPhS0Tk9E,Animal Farm,The Kinks,The Kinks Are the Village Green Preservation Society,2026-05-06T14:52:13,180506,3,2026-05-06,4.5,10.96
+344,5dC9NQCbU6i3T3S4nyg23y,7GkJWXDdRuZyUvVKCbKujO,1BGN1IdyiSR0ZYrkoKNchl,Tiergarten,Tangerine Dream,"Platz der Republik, West-Berlin - August 1st 1987",2026-05-06T14:49:13,190533,4,2026-05-06,4.5,12.43
+345,1MSfzutmY6uBu7oBHTv60C,1Bw3bHsQ9Xwlalhp4NjX1n,4lianjyuR1tqf6oUX8kjrZ,L'Animale - Remastered,Franco Battiato,Mondi Lontanissimi (2008 Remastered Edition),2026-05-06T14:46:14,199906,3,2026-05-06,4.5,11.1
+346,5yTntxdC2qDhJEVEZHMZC2,6JWofs9yE9d4Bh2R40u92W,1w5Kfo2jwwIPruYS2UWh56,Animal,Pearl Jam,rearviewmirror (greatest hits 1991-2003),2026-05-06T14:42:44,167626,1,2026-05-06,1.5,4.5
+347,3red9xwXz8hU4XRNuZhr6d,5lOLmpg0aaAI62dup4zFmH,3qlU3Nyu3XXO2k9AUnTcy1,Il Dono Del Cervo,Angelo Branduardi,Alla Fiera Dell'Est,2026-05-06T14:39:44,193333,1,2026-05-06,1.5,4.66
+348,62XI1qJo62w0rvTldCHl9P,37rNuexqEXWeSIOiJtn3A9,3oDbviiivRWhXwIE8hxkVV,Vegetables - Remastered 2001,The Beach Boys,Smiley Smile (Remastered),2026-05-06T14:36:36,129360,1,2026-05-06,1.5,4.22
+349,3ZIYHubj1fBDC4DTF3AIfK,4VYfBI0sR7XFV3ej6dQJbV,440MEFxEmF9othCXbz3Y6a,Ni Chicha Ni Limoná,Victor Jara,El Derecho de Vivir en Paz,2026-05-06T14:34:44,204626,1,2026-05-06,1.5,4.72
+350,6Qjc36CLNJHkWwSNIPbghM,58MQ0PLijVHePUonQlK76Y,36QJpDe2go2KgaRleHCDTp,The Lemon Song - Remaster,Led Zeppelin,Led Zeppelin II (Remaster),2026-05-06T14:31:14,379388,1,2026-05-06,1.5,5.48
+351,5oS4bROdwp0gsWrjCLAp5N,3tZmzx3Og386HMV4vp4Dli,4lianjyuR1tqf6oUX8kjrZ,Sui Giardini Della Preesistenza - 2008 Remaster,Franco Battiato,Caffé De La Paix (2008 Remastered Edition),2026-05-06T14:24:44,228413,1,2026-05-06,1.5,4.86
+352,6ewHINwiZeCnWxh1RQcquJ,189b97Y8HtICNOEESbl2qo,3qlU3Nyu3XXO2k9AUnTcy1,Cogli la prima mela,Angelo Branduardi,Cogli La Prima Mela,2026-05-06T14:20:43,205266,1,2026-05-06,1.5,4.73
+353,7bDiExjrKWLJbtHOg7g5cw,7ENQ5VEAlbbItHUL5qq9Wx,4TMHGUX5WI7OOm53PqSDAT,Bird Song,Grateful Dead,Live Albums Collection,2026-05-06T14:16:18,456520,2,2026-05-06,3.0,9.19
+354,5s6gA3IQTbVqv8utc5jVcn,4yMdFHGZTkXQsU4M55VjeZ,1YTe4dNIoWX3iHX8H4xVeM,Cats Under The Stars,Jerry Garcia Band,Cats Under the Stars (Expanded),2026-05-06T12:06:03,331000,2,2026-05-06,3.0,8.73
+355,0UeKMKb98sqhKhbKYdCxf4,2Q5MwpTmtjscaS34mJFXQQ,22bE4uQ6baNwSHPVcDxLCe,The Spider And The Fly - Remastered 2002,The Rolling Stones,Out Of Our Heads,2026-05-06T12:00:34,218026,2,2026-05-06,3.0,8.16
+356,3liTTGKNLwzzYwUcVRLXxP,7whdVmvPLVWPGorXudFmeD,6v8FB84lnmJs434UJf2Mrm,Silver Eagle - Live,Neil Young,Silver Eagle (Live),2026-05-06T11:56:43,199002,1,2026-05-06,1.5,4.69
+357,030ffOIPEEHxY86mYqVEQP,68W3ppXWhsOLOURmxzRkyA,7M1FPw29m5FbicYzS2xdpi,Cat Food,King Crimson,In The Wake Of Poseidon,2026-05-06T11:53:33,293060,2,2026-05-06,3.0,8.57
+358,5RETGB7Fe6KxAEXevMpmTu,0BD0bKRAFt8Z5q2NqCTPsN,3Uz6jx81OY2J5K8Z4wmy2P,The Snow Goose - Remastered 2023,Camel,The Snow Goose (2023 Remastered & Expanded Edition),2026-05-06T11:48:33,191813,2,2026-05-06,3.0,8.0
+359,4P0iCtuPba62SoYoOkTpD9,5W1kloCKd5nnjT3McyOTZx,3Rbtl5QGOHMtfQOJZVTy3h,Forse Le Lucciole Non Si Amano Più - Remastered 2021,Locanda delle fate,Forse Le Lucciole Non Si Amano Più (Remastered 2021),2026-05-06T11:45:33,591680,1,2026-05-06,1.5,6.08
+360,0a6bQ2T8D1GqYdoV7a1aqJ,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Monochromatic - Live,Kajagoogoo,Islands,2026-05-06T23:14:06,250266,5,2026-05-06,3.0,12.62
+361,3eFHv2F3wNKjpnip3w6waZ,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Garden - Instrumental,Kajagoogoo,Islands,2026-05-06T23:10:06,171373,5,2026-05-06,3.0,12.09
+362,09eF6enKRBqUDjjuOsiKI4,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Pump Rooms of Bath,Kajagoogoo,Islands,2026-05-06T23:07:06,152946,5,2026-05-06,3.0,11.93
+363,3a2n6ktGMY67SeryFDbNyn,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Turn Your Back on Me - Thompson & Barbiero US Mix,Kajagoogoo,Islands,2026-05-06T23:04:36,237066,2,2026-05-06,3.0,8.29
+364,26Xb1Ud7QshGHH3o7IfA76,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Loop,Kajagoogoo,Islands,2026-05-06T23:00:36,282480,2,2026-05-06,3.0,8.51
+365,3LJKux0EHh14BGdhzQXxDY,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Part of Me Is You,Kajagoogoo,Islands,2026-05-06T22:56:06,237226,2,2026-05-06,3.0,8.29
+366,1l89u8dBPpEAHVSY45OVaV,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Turn Your Back on Me,Kajagoogoo,Islands,2026-05-06T22:52:05,241293,3,2026-05-06,4.5,11.36
+367,0kWweQWE8HIYlOUsIcvthl,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Power to Forgive,Kajagoogoo,Islands,2026-05-06T22:46:36,286040,4,2026-05-06,6.0,14.5
+368,5GdmKwHrXRfGT40ZGs0W5R,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Big Apple,Kajagoogoo,Islands,2026-05-06T22:42:06,249546,6,2026-05-06,7.5,18.39
+369,7zacyKvVMUsjbtvMiJPWlw,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Lion's Mouth,Kajagoogoo,Islands,2026-05-06T22:37:35,216186,12,2026-05-06,9.0,26.69
+370,2kMM5neKewhNCHlTXCk4Fp,4NbLTe8YqLFwys4SmkEofd,1nyQBzKgZ2hBLr7PnyV7cI,Birds In My Tree,Strawberry Alarm Clock,Incense And Peppermints,2026-05-06T22:29:06,113733,1,2026-05-06,1.5,4.09
+371,0dRZS5myf8NifPqgRwA986,0b33cACjsSPVBchGgsFGMu,4lianjyuR1tqf6oUX8kjrZ,Tra sesso e castità,Franco Battiato,Universi paralleli di Franco Battiato,2026-05-06T22:27:06,205453,2,2026-05-06,3.0,8.09
+372,3BlIsu1uy5jjuVc8aw3RYt,0b33cACjsSPVBchGgsFGMu,4lianjyuR1tqf6oUX8kjrZ,23 coppie di cromosomi,Franco Battiato,Universi paralleli di Franco Battiato,2026-05-06T22:23:33,213986,1,2026-05-06,1.5,4.78
+373,2WLsPVRPaBHARiMptJwMsn,0b33cACjsSPVBchGgsFGMu,4lianjyuR1tqf6oUX8kjrZ,Running Against The Grain,Franco Battiato,Universi paralleli di Franco Battiato,2026-05-06T22:20:01,222106,2,2026-05-06,3.0,8.2
+374,7ICgC6ExhlaEZntSVPRtPM,3vHxkAyC36Bi581ZUysCtZ,4lianjyuR1tqf6oUX8kjrZ,Gli Uccelli - Remastered 2021,Franco Battiato,La Voce Del Padrone (Remastered 2021),2026-05-06T22:16:16,286781,2,2026-05-06,3.0,8.54
+375,2Xuq84ZrSawlYF4Vz9pw5e,2IZe9ttqeMqwkv3dRXJRkd,4TMHGUX5WI7OOm53PqSDAT,Rosemary - 2013 Remaster,Grateful Dead,Aoxomoxoa (2013 Remaster),2026-05-06T22:10:18,120235,1,2026-05-06,1.5,4.15
+376,3vO2BbrhKNV2PDl276BUIZ,31q47gQszFt0CddSyMksgO,3IYUhFvPQItj6xySrBmZkd,Cotton Fields,Creedence Clearwater Revival,Willy And The Poor Boys (Expanded Edition),2026-05-06T22:08:36,177266,1,2026-05-06,1.5,4.55
+377,3A1yk2TmIheVcfb4Gwp0MS,6e2RjFVaAULBc5vAcykAEg,440MEFxEmF9othCXbz3Y6a,Canción Al Árbol Del Olvido,Victor Jara,Canto Libre,2026-05-06T22:05:31,172493,1,2026-05-06,1.5,4.53
+378,0EX99kuSsTM9RyRAciMvvE,5AfgJ4mjGvANakNjGrKGgy,4KWTAlx2RvbpseOGMEmROg,Lotus,R.E.M.,Up,2026-05-06T22:02:36,271600,1,2026-05-06,1.5,5.06
+379,5D89JSsYD209JA2FTTwHtS,3nkLkuSpD5bMzG1ibkJw5N,4RuYtHjAKBufQRqBUMiOfK,Campi di Fragole,Banco Del Mutuo Soccorso,Transiberiana (Bonus Tracks Version),2026-05-06T21:57:36,214267,1,2026-05-06,1.5,4.78
+380,0VSOZ9b0bErTq4yOHjfoqV,7mlm0BxWuOwiZUxQCCypfL,6ra4GIOgCZQZMOaUECftGN,The Duke Of Prunes,Frank Zappa,Absolutely Free,2026-05-06T21:54:06,132920,1,2026-05-06,1.5,4.25
+381,123E4xc2jm6mMgdbNJXLML,14oeuE9HHmvB07pfQ3Fu7N,08GQAI4eElDnROBrJRGE0X,"The Farmer's Daughter - Live 1980, Santa Monica, CA",Fleetwood Mac,Live,2026-05-06T21:52:01,148440,1,2026-05-06,1.5,4.38
+382,3v7nTNC0vA2qEKCb5d5uwE,0OJfGwdSSxh09KbfQByvnE,45Utoxop3UFq0Qg9YFLhx0,Frutto Acerbo - Remastered 2023,Le Orme,Contrappunti (Remastered 2023),2026-05-06T21:49:36,215370,1,2026-05-06,1.5,4.78
+383,335rKvPRnLcRaCDtIqwDQG,4DaxcJCGys4VGnFGSREzUH,40oYPr305MsT2lsiXr9fX9,Banana Republic,The Boomtown Rats,Mondo Bongo,2026-05-06T21:45:38,303333,1,2026-05-06,1.5,5.2
+384,7d5zuddaDfhQ1iHLcdYY0f,5Vb3tKCzxT6qzbq5Smh4TM,7siPLyFwRFYQkKgWKJ5Sod,Orange,The Dandy Warhols,The Dandy Warhols Come Down,2026-05-06T21:40:36,340866,1,2026-05-06,1.5,5.35
+385,3eFHv2F3wNKjpnip3w6waZ,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Garden - Instrumental,Kajagoogoo,Islands,2026-05-06T21:35:06,171373,5,2026-05-06,3.0,12.09
+386,4zGNUdGxpwnC7HN27Muzpl,5A1knO3o9ippL0nFuKl0Kh,7M1FPw29m5FbicYzS2xdpi,Inner Garden II,King Crimson,THRAK,2026-05-06T21:31:54,76142,1,2026-05-06,1.5,3.73
+387,6jR4FKWiil1FrsfEMt7jqu,2rQ135imvelvp89D8eEZOi,0L8ExT028jH3ddEcZwqJJ5,Pea,Red Hot Chili Peppers,One Hot Minute (Deluxe Edition),2026-05-06T21:30:36,107306,1,2026-05-06,1.5,4.04
+388,2TD9Ve5cJai60TYSEidgxD,3g5jmuT4kXPUbSGsOgKJF4,4RuYtHjAKBufQRqBUMiOfK,Il Mietitore,Banco Del Mutuo Soccorso,Storie Invisibili,2026-05-06T21:29:06,216506,3,2026-05-06,3.0,9.71
+389,2TD9Ve5cJai60TYSEidgxD,3g5jmuT4kXPUbSGsOgKJF4,4RuYtHjAKBufQRqBUMiOfK,Il Mietitore,Banco Del Mutuo Soccorso,Storie Invisibili,2026-05-06T21:25:36,216506,3,2026-05-06,3.0,9.71
+390,5wbSCgwv8KpDKD4ifL0BLg,3zLQ91RSvlMXoaHcOxU4T7,0RUEHcBiENFEqxgicqS2ig,Peaches,The Stranglers,The Collection 1977-1982,2026-05-06T21:21:36,247080,1,2026-05-06,1.5,4.95
+391,5NmRx5jYkCQ1Kelp2U671G,18QlJWuxHQ1IGQ52qf8T1m,0f3kLT4wvi2mFHlHJgV8Hl,White Feathers,Kajagoogoo,The Very Best Of Kajagoogoo,2026-05-07T16:22:03,211320,1,2026-05-07,1.5,4.77
+392,2HtTFDlZDdsY43GJKu4U9O,18QlJWuxHQ1IGQ52qf8T1m,0f3kLT4wvi2mFHlHJgV8Hl,"Turn Your Back on Me - 7"" Version",Kajagoogoo,The Very Best Of Kajagoogoo,2026-05-07T16:18:32,242666,1,2026-05-07,1.5,4.93
+393,50xWWpeoaSFYmR6IY2kTlI,18QlJWuxHQ1IGQ52qf8T1m,0f3kLT4wvi2mFHlHJgV8Hl,Ooh to Be Ah,Kajagoogoo,The Very Best Of Kajagoogoo,2026-05-07T16:14:57,215146,2,2026-05-07,1.5,6.65
+394,24P5aCzlNvr04xkrEdkRUP,18QlJWuxHQ1IGQ52qf8T1m,0f3kLT4wvi2mFHlHJgV8Hl,Kajagoogoo - Instrumental,Kajagoogoo,The Very Best Of Kajagoogoo,2026-05-07T16:11:03,192426,1,2026-05-07,1.5,4.66
+395,0vGDTFIyDm6wG7ZVbmTsYE,18QlJWuxHQ1IGQ52qf8T1m,0f3kLT4wvi2mFHlHJgV8Hl,The Lion's Mouth,Kajagoogoo,The Very Best Of Kajagoogoo,2026-05-07T16:07:33,216186,12,2026-05-07,9.0,26.69
+396,1NqnwFYTigIx0eduU6rwBN,18QlJWuxHQ1IGQ52qf8T1m,26Q2cbUZjpg8IuvMJ4d7Mw,Charm of a Gun,Kaja,The Very Best Of Kajagoogoo,2026-05-07T16:04:02,267800,1,2026-05-07,1.5,5.05
+397,5Rzt1zCXx81n5CH8d4CXQo,18QlJWuxHQ1IGQ52qf8T1m,0f3kLT4wvi2mFHlHJgV8Hl,Big Apple - Metro Mix,Kajagoogoo,The Very Best Of Kajagoogoo,2026-05-07T15:59:32,365880,6,2026-05-07,6.0,17.45
+398,0a6bQ2T8D1GqYdoV7a1aqJ,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Monochromatic - Live,Kajagoogoo,Islands,2026-05-07T15:53:20,250266,5,2026-05-07,3.0,12.62
+399,3eFHv2F3wNKjpnip3w6waZ,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Garden - Instrumental,Kajagoogoo,Islands,2026-05-07T15:49:33,171373,5,2026-05-07,3.0,12.09
+400,09eF6enKRBqUDjjuOsiKI4,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Pump Rooms of Bath,Kajagoogoo,Islands,2026-05-07T15:46:33,152946,5,2026-05-07,3.0,11.93
+401,3a2n6ktGMY67SeryFDbNyn,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Turn Your Back on Me - Thompson & Barbiero US Mix,Kajagoogoo,Islands,2026-05-07T15:44:02,237066,2,2026-05-07,3.0,8.29
+402,70gsGvTtjXyYAp0M1X6DPH,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Big Apple - Metro Mix,Kajagoogoo,Islands,2026-05-07T15:39:36,365880,6,2026-05-07,6.0,17.45
+403,0a6bQ2T8D1GqYdoV7a1aqJ,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Monochromatic - Live,Kajagoogoo,Islands,2026-05-07T13:23:30,250266,5,2026-05-07,3.0,12.62
+404,3eFHv2F3wNKjpnip3w6waZ,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Garden - Instrumental,Kajagoogoo,Islands,2026-05-07T13:19:29,171373,5,2026-05-07,3.0,12.09
+405,09eF6enKRBqUDjjuOsiKI4,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Pump Rooms of Bath,Kajagoogoo,Islands,2026-05-07T13:16:29,152946,5,2026-05-07,3.0,11.93
+406,3h7hkPvohAzGCiDvbGeQ0Y,52koatNHePHRWEmmkP0z2Z,0f3kLT4wvi2mFHlHJgV8Hl,Ergonomics,Kajagoogoo,White Feathers,2026-05-07T13:13:59,193000,1,2026-05-07,1.5,4.66
+407,0CQwOxnMK1yRJaptJ0dkC7,52koatNHePHRWEmmkP0z2Z,0f3kLT4wvi2mFHlHJgV8Hl,Ooh to Be Ah,Kajagoogoo,White Feathers,2026-05-07T13:10:59,215146,2,2026-05-07,1.5,6.65
+408,09eF6enKRBqUDjjuOsiKI4,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Pump Rooms of Bath,Kajagoogoo,Islands,2026-05-07T13:06:59,152946,5,2026-05-07,3.0,11.93
+409,4LRwNbgbd6DusUfOWREM9G,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Turn Your Back on Me - Extended Mix,Kajagoogoo,Islands,2026-05-07T13:04:29,305186,2,2026-05-07,3.0,8.62
+410,6RtyDR21q21OXaoKXoAsJK,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Lion's Mouth - Beast Mix,Kajagoogoo,Islands,2026-05-07T12:59:29,339240,3,2026-05-07,4.5,11.84
+411,70gsGvTtjXyYAp0M1X6DPH,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Big Apple - Metro Mix,Kajagoogoo,Islands,2026-05-07T12:53:59,365880,6,2026-05-07,6.0,17.45
+412,0a6bQ2T8D1GqYdoV7a1aqJ,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Monochromatic - Live,Kajagoogoo,Islands,2026-05-07T12:48:00,250266,5,2026-05-07,3.0,12.62
+413,0a6bQ2T8D1GqYdoV7a1aqJ,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Monochromatic - Live,Kajagoogoo,Islands,2026-05-07T11:31:48,250266,5,2026-05-07,3.0,12.62
+414,3eFHv2F3wNKjpnip3w6waZ,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Garden - Instrumental,Kajagoogoo,Islands,2026-05-07T09:03:09,171373,5,2026-05-07,3.0,12.09
+415,09eF6enKRBqUDjjuOsiKI4,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Pump Rooms of Bath,Kajagoogoo,Islands,2026-05-07T09:00:39,152946,5,2026-05-07,3.0,11.93
+416,0kWweQWE8HIYlOUsIcvthl,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Power to Forgive,Kajagoogoo,Islands,2026-05-07T08:57:39,286040,4,2026-05-07,6.0,14.5
+417,5GdmKwHrXRfGT40ZGs0W5R,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Big Apple,Kajagoogoo,Islands,2026-05-07T08:53:09,249546,6,2026-05-07,7.5,18.39
+418,7zacyKvVMUsjbtvMiJPWlw,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Lion's Mouth,Kajagoogoo,Islands,2026-05-07T08:49:09,216186,12,2026-05-07,9.0,26.69
+419,2TD9Ve5cJai60TYSEidgxD,3g5jmuT4kXPUbSGsOgKJF4,4RuYtHjAKBufQRqBUMiOfK,Il Mietitore,Banco Del Mutuo Soccorso,Storie Invisibili,2026-05-07T08:40:24,216506,3,2026-05-07,3.0,9.71
+420,7ICgC6ExhlaEZntSVPRtPM,3vHxkAyC36Bi581ZUysCtZ,4lianjyuR1tqf6oUX8kjrZ,Gli Uccelli - Remastered 2021,Franco Battiato,La Voce Del Padrone (Remastered 2021),2026-05-07T08:36:49,286781,2,2026-05-07,3.0,8.54
+421,0suLngfo7rJoetk7Ub6N8l,0ETFjACtuP2ADo6LFhL6HN,3WrFJ7ztbogyGnTHbHJFl2,Octopus's Garden - Remastered 2009,The Beatles,Abbey Road (Remastered),2026-05-07T08:32:00,170720,2,2026-05-07,3.0,7.85
+422,5s6gA3IQTbVqv8utc5jVcn,4yMdFHGZTkXQsU4M55VjeZ,1YTe4dNIoWX3iHX8H4xVeM,Cats Under The Stars,Jerry Garcia Band,Cats Under the Stars (Expanded),2026-05-07T08:29:24,331000,2,2026-05-07,3.0,8.73
+423,7xTj9dkCaNL7gIIHVTi8i3,2lWDphDAlgk8PNdODreJwv,2XhhAWeUOlrZnGOB7aKEI8,The Battle Of The Locusts,Aphrodite's Child,6 6 6,2026-05-07T08:23:54,56000,1,2026-05-07,1.5,3.49
+424,5mGq3cybgQDZgTEbu9ldV9,5k4z33VjpVmkOB18IgOD8E,74ASZWbe4lXaubB36ztrGX,Man Gave Names to All the Animals,Bob Dylan,Slow Train Coming,2026-05-07T08:22:54,267890,2,2026-05-07,3.0,8.45
+425,3vfIp1SN81WhrwLYahweyK,6ELt0QaMOwPGPzfdEXE839,7M1FPw29m5FbicYzS2xdpi,Larks' Tongues In Aspic (Part II),King Crimson,Larks' Tongues In Aspic (Expanded & Remastered Original Album Mix),2026-05-07T08:18:23,439006,2,2026-05-07,3.0,9.12
+426,7Izkk93uVYTLM74P4fBHXO,5MK26tsTfOOB3CCEJzd64v,1aO9NulHwrE9pxHXFfCIoM,The Eternal Olive Tree,Anouar Brahem,After the Last Sky,2026-05-07T08:09:58,240173,1,2026-05-07,1.5,4.92
+427,3Z7RFRu0DtvtdTjW8jTb0H,4i4vBlYN3KTrP46JYKi0zN,5UefiThiZ352HWMOgZvOhx,Rose Fragrance,Dhafer Youssef,Shiraz,2026-05-07T04:17:50,184933,1,2026-05-07,1.5,4.62
+428,1H7gMYGykdtwZOV6s1N0by,50o7kf2wLwVmOTVYJOTplm,3WrFJ7ztbogyGnTHbHJFl2,Norwegian Wood (This Bird Has Flown) - Remastered 2009,The Beatles,Rubber Soul (Remastered 2009),2026-05-07T04:14:50,124693,1,2026-05-07,1.5,4.18
+429,6iLZtZjrVJtKKT8jPwdiyi,5E9rFAvIQuZD9dLo6FL9wH,4RuYtHjAKBufQRqBUMiOfK,Garofano Rosso,Banco Del Mutuo Soccorso,Garofano rosso (Colonna sonora originale del film),2026-05-07T04:12:50,306533,1,2026-05-07,1.5,5.21
+430,2EB1aFLWC4uIfld5Z3Yj1z,2UDDZVesmQwA4aYfa55diS,4TMHGUX5WI7OOm53PqSDAT,Sugar Magnolia - 2013 Remaster,Grateful Dead,American Beauty (2013 Remaster),2026-05-07T04:07:20,199398,1,2026-05-07,1.5,4.69
+431,5GdmKwHrXRfGT40ZGs0W5R,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Big Apple,Kajagoogoo,Islands,2026-05-07T04:03:16,249546,6,2026-05-07,7.5,18.39
+432,7zacyKvVMUsjbtvMiJPWlw,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Lion's Mouth,Kajagoogoo,Islands,2026-05-06T23:41:36,216186,12,2026-05-06,9.0,26.69
+433,4LRwNbgbd6DusUfOWREM9G,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Turn Your Back on Me - Extended Mix,Kajagoogoo,Islands,2026-05-06T23:30:59,305186,2,2026-05-06,3.0,8.62
+434,6RtyDR21q21OXaoKXoAsJK,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Lion's Mouth - Beast Mix,Kajagoogoo,Islands,2026-05-06T23:26:06,339240,3,2026-05-06,4.5,11.84
+435,70gsGvTtjXyYAp0M1X6DPH,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Big Apple - Metro Mix,Kajagoogoo,Islands,2026-05-06T23:20:36,365880,6,2026-05-06,6.0,17.45
+436,6J0AjzrYsPZrQtw6IjErhy,4GLxEXWI3JiRKp6H7bfTIK,3IYUhFvPQItj6xySrBmZkd,Run Through The Jungle,Creedence Clearwater Revival,Cosmo's Factory (Expanded Edition),2026-05-08T11:47:06,184746,3,2026-05-08,3.0,9.5
+437,5mGq3cybgQDZgTEbu9ldV9,5k4z33VjpVmkOB18IgOD8E,74ASZWbe4lXaubB36ztrGX,Man Gave Names to All the Animals,Bob Dylan,Slow Train Coming,2026-05-08T11:47:05,267890,2,2026-05-08,3.0,8.45
+438,43SkTJJ2xleDaeiE4TIM70,0bJMFJ2XQwpO5nKTrYdUtX,22bE4uQ6baNwSHPVcDxLCe,Walking The Dog,The Rolling Stones,The Rolling Stones,2026-05-08T11:47:05,189186,3,2026-05-08,4.5,11.03
+439,7zacyKvVMUsjbtvMiJPWlw,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Lion's Mouth,Kajagoogoo,Islands,2026-05-08T11:47:05,216186,12,2026-05-08,9.0,26.69
+440,4KRgqwb4kvBuTz1utbYxfb,3PRoXYsngSwjEQWR5PsHWR,3WrFJ7ztbogyGnTHbHJFl2,And Your Bird Can Sing - Remastered 2009,The Beatles,Revolver (Remastered),2026-05-08T11:47:05,120493,2,2026-05-08,3.0,7.42
+441,4FfFWHz0Hhuu2DwDfzjIWz,0BZQ56leyRCyZu3jdXMZ87,6OWapcJm9xd55ci9CYbAuT,"Let's Say Goodnight - Live at the Hollywood Palladium, 1987",Los Lobos,Just Another Band From East L.A.: A Collection,2026-05-08T08:37:33,210760,1,2026-05-08,1.5,4.77
+442,5O3CMIJQbhXCnp3v2tlwxU,0BZQ56leyRCyZu3jdXMZ87,6OWapcJm9xd55ci9CYbAuT,Sabor A Mi,Los Lobos,Just Another Band From East L.A.: A Collection,2026-05-08T04:29:16,231200,1,2026-05-08,1.5,4.87
+443,0vyu1VnXMN3hmOjhPJjjGS,0BZQ56leyRCyZu3jdXMZ87,6OWapcJm9xd55ci9CYbAuT,El Cuchipe,Los Lobos,Just Another Band From East L.A.: A Collection,2026-05-08T04:24:45,139800,1,2026-05-08,1.5,4.3
+444,5RykITpYpXWvERFvblu268,0BZQ56leyRCyZu3jdXMZ87,6OWapcJm9xd55ci9CYbAuT,"Volver, Volver - Live, 1987",Los Lobos,Just Another Band From East L.A.: A Collection,2026-05-08T04:22:46,226840,1,2026-05-08,1.5,4.84
+445,3o4fe9BKgqNE9ZodFat9d7,4ahL5vlNhi3Ob0c6syAMSg,31oFtS8VXHkm8YVypYsw89,Cuentos Arabes,Mezquita,Califas del Rock,2026-05-08T04:18:46,211666,3,2026-05-08,4.5,11.18
+446,3EuFH5GXKR8hZU6B2b8R4y,0BZQ56leyRCyZu3jdXMZ87,6OWapcJm9xd55ci9CYbAuT,La Feria De La Flores,Los Lobos,Just Another Band From East L.A.: A Collection,2026-05-08T04:15:15,161000,1,2026-05-08,1.5,4.45
+447,4JvjCMPpXVldRhM0mxheub,6DMU0YvLjgcpHddObNP8A6,7AC976RDJzL2asmZuz7qil,Don't Kill the Whale,Yes,Tormato (Deluxe Edition),2026-05-08T04:09:45,235866,2,2026-05-08,3.0,8.27
+448,1dpCISxLihabD2i6geppcA,5ZJrRUIm6apjER9MNU7QBJ,3CkvROUTQ6nRi9yQOcsB50,Pigeons,Genesis,Archive #2 (1976 - 1992),2026-05-07T19:39:43,193733,4,2026-05-07,4.5,12.45
+449,1AZ5G23Kcn9h5Awws5Ekf3,6CvGnsHhBjVvGKgmIkpLMs,5GXruybcLmXPjR9rKKFyS6,The Cat,Jimmy Smith,The Cat,2026-05-07T19:36:12,204093,2,2026-05-07,3.0,8.07
+450,5xYC2ZJJ9TMJL8BOl85O2R,1gKZ5A1ndFqbcrWtW85cCy,3WrFJ7ztbogyGnTHbHJFl2,Hey Bulldog - Remastered 2009,The Beatles,Yellow Submarine (Remastered),2026-05-07T19:32:42,191306,2,2026-05-07,3.0,8.0
+451,3DFjWyIJ2FA8ehRRynybpO,5po3XeTxZ1Oy9xMX62daWm,22bE4uQ6baNwSHPVcDxLCe,Little Red Rooster - (Original Single Mono Version),The Rolling Stones,Singles 1963-1965,2026-05-07T19:29:42,184720,3,2026-05-07,4.5,11.0
+452,0jYpOvA5P19kn9a4aA4zqE,3bV0ucrpo1ZFBowxXeMilJ,4lianjyuR1tqf6oUX8kjrZ,L'Isola Elefante,Franco Battiato,Joe Patti's Experimental Group,2026-05-07T19:26:12,293486,2,2026-05-07,3.0,8.57
+453,0xSvfXYyDqQ3sncpGveHbg,4Ji83LjzvEzFoCpN85m5lW,08GQAI4eElDnROBrJRGE0X,Rattlesnake Shake - 2013 Remaster,Fleetwood Mac,Then Play On (2013 Remaster; Expanded Edition),2026-05-07T19:21:12,210156,2,2026-05-07,3.0,8.12
+454,1MSfzutmY6uBu7oBHTv60C,1Bw3bHsQ9Xwlalhp4NjX1n,4lianjyuR1tqf6oUX8kjrZ,L'Animale - Remastered,Franco Battiato,Mondi Lontanissimi (2008 Remastered Edition),2026-05-07T19:17:42,199906,3,2026-05-07,4.5,11.1
+455,3w0VwaqSx9y8fjNDHT62Ol,6o0u4pbxrUai7aPkizuzCp,1SQRv42e4PjEYfPhS0Tk9E,Animal Farm,The Kinks,The Kinks Are the Village Green Preservation Society,2026-05-07T19:14:42,180506,3,2026-05-07,4.5,10.96
+456,5dC9NQCbU6i3T3S4nyg23y,7GkJWXDdRuZyUvVKCbKujO,1BGN1IdyiSR0ZYrkoKNchl,Tiergarten,Tangerine Dream,"Platz der Republik, West-Berlin - August 1st 1987",2026-05-07T19:11:42,190533,4,2026-05-07,4.5,12.43
+457,26LztWzlVfU8pHsC2jEBwz,1WeTsUeoyJBDYiqdoCtO8I,4RuYtHjAKBufQRqBUMiOfK,Il Ragno,Banco Del Mutuo Soccorso,Come in un'ultima cena,2026-05-07T19:08:13,295733,2,2026-05-07,3.0,8.57
+458,4u2dUchYraxM1SFBHuE32o,0NufsuTuf3U0BY0p6jFdxV,67ea9eGLXYMsO2eYQRui3w,Boris The Spider,The Who,"Meaty, Beaty, Big And Bouncy",2026-05-07T19:03:13,147373,1,2026-05-07,1.5,4.36
+459,43OyzaGBhNEcvxhQfuI4E6,5ZPvG6hav71Uqmlgs85xbE,7nkLRaWHImCvWGHdNGnhVE,Hard Monkeys - 2004 Remaster,Ten Years After,A Space in Time (Deluxe Version),2026-05-08T20:00:56,191426,1,2026-05-08,1.5,4.64
+460,2pbHaKsIRuIqjZHCLpyQMv,4l4u9e9jSbotSXNjYfOugy,22bE4uQ6baNwSHPVcDxLCe,You Got The Silver,The Rolling Stones,Let It Bleed,2026-05-08T19:57:26,170373,1,2026-05-08,1.5,4.53
+461,1JekRMGQ8iN4G1AAdh0SBa,0Tg76MY2wNK4j37iCb6qyH,762310PdDnwsDxAQxzQkfX,Enjoy the Silence,Depeche Mode,Violator (Deluxe),2026-05-08T19:54:26,372826,1,2026-05-08,1.5,5.47
+462,3G0EALIIp5DAeIERxXBHmo,3n0mKh1yuR5QjX6Vm0GKj2,1SQRv42e4PjEYfPhS0Tk9E,Waterloo Sunset,The Kinks,Something Else (Deluxe),2026-05-08T19:47:57,194520,1,2026-05-08,1.5,4.67
+463,7x2xjJV3YAPeLQJ7u3Kjet,2UDDZVesmQwA4aYfa55diS,4TMHGUX5WI7OOm53PqSDAT,Box of Rain - 2013 Remaster,Grateful Dead,American Beauty (2013 Remaster),2026-05-08T19:44:56,318929,1,2026-05-08,1.5,5.26
+464,2oeLt7N1amHZiev27FvKE2,6ANCHHVpcvjCqQFUDUvDOW,7fh7bwX9qV60tLxxsp9bTe,Sketch for Summer,The Durutti Column,The Return of The Durutti Column,2026-05-08T19:39:26,178280,1,2026-05-08,1.5,4.57
+465,5SiCTf5r1cVjQXAXB2StpS,5U4dnRZsfW8NmwBBkELFPh,22bE4uQ6baNwSHPVcDxLCe,Torn And Frayed,The Rolling Stones,Exile On Main Street (2010 Re-Mastered),2026-05-08T19:36:26,257239,1,2026-05-08,1.5,5.0
+466,6wNZa5e5DVBwMbqB4uYuXp,0Ft1jEOyGY74ZgHb1FYO4U,4RuYtHjAKBufQRqBUMiOfK,750.000 anni fa... l'amore?,Banco Del Mutuo Soccorso,Darwin!,2026-05-08T19:32:26,338093,2,2026-05-08,3.0,8.77
+467,3I3g0KOBdQpCE7aviLoFfH,388aQc05TOaKfMB57vhx2C,3SInttLnvf5G4Aa95aAYPr,New Country,Jean-Luc Ponty,Imaginary Voyage,2026-05-08T19:26:30,188640,1,2026-05-08,1.5,4.63
+468,67lISLYh5V9Phsqxccml2W,3rZr444E1UN1z6Mo90hiLQ,4l8xPGtl6DHR2uvunqrl8r,Oh Yeah,CAN,Tago Mago (Remastered),2026-05-08T19:23:26,442946,1,2026-05-08,1.5,5.7
+469,0QdagWnOd3GzMCBu57efgp,5Z83CVFqNYSIoItAZVaHeR,08GQAI4eElDnROBrJRGE0X,"Oh Well, Pt. 1 - 2013 Remaster",Fleetwood Mac,Then Play On (2013 Remaster; Expanded Edition),2026-05-08T19:15:56,202400,1,2026-05-08,1.5,4.72
+470,6vXIkR2kEsGFPm82hWweNI,1OBtRar4d9lrRTVOdrPOMI,3UtSTTCQ0EMUQxmsfZ3Px1,Back Street Luv,Curved Air,Second Album,2026-05-08T19:12:26,216906,2,2026-05-08,3.0,8.16
+471,3CHfuMoubpCT39PBTvAWk9,1LQlpOjLrnNvsqg6tosrYD,12VaqyEhgwDRuFfEqbnrpz,The Wind,PJ Harvey,Is This Desire?,2026-05-08T17:32:08,241493,1,2026-05-08,1.5,4.92
+472,3aWWfmVhaMGFwtKFFBHgC5,73cxqemPE6sVoCkwRuPU6E,6PAt558ZEZl0DmdXlnjMgD,Please Be With Me,Eric Clapton,461 Ocean Boulevard,2026-05-08T17:28:09,206266,1,2026-05-08,1.5,4.73
+473,1D6RnQrw5kMAQCUK58Ul01,4Zegl0FIvsJD0nG7yJyHqd,2caOYPej26UoQOyFnzXW3G,Dove arriva quel cespuglio,Lucio Battisti,"Lucio Battisti, la batteria, il contrabbasso, eccetera",2026-05-08T16:14:50,251903,1,2026-05-08,1.5,4.97
+474,02Z7LG6DNTuVTJiGdvTwDu,6wzvXoJA93qyTqjf4Ebeoz,19eLuQmk9aCobbVDHc6eek,Azalea,Louis Armstrong,The Great Reunion,2026-05-08T16:10:57,303173,1,2026-05-08,1.5,5.2
+475,1jvQR74HnmszGi2wlOEaHL,4irlewoGTUPndEinKcavLF,02frazNrWgZCxUEf4UTfHt,The Sleepwalkers - 2005 Digital Remaster,Van Der Graaf Generator,Godbluff,2026-05-08T16:05:24,641053,3,2026-05-08,4.5,12.75
+476,5u9lMPTlPZznzjFFh5ZdeX,4irlewoGTUPndEinKcavLF,02frazNrWgZCxUEf4UTfHt,Arrow - 2005 Digital Remaster,Van Der Graaf Generator,Godbluff,2026-05-08T15:54:53,587826,4,2026-05-08,6.0,15.54
+477,5DJjwPtvPNARWVyzIdFnef,4irlewoGTUPndEinKcavLF,02frazNrWgZCxUEf4UTfHt,Scorched Earth - 2005 Digital Remaster,Van Der Graaf Generator,Godbluff,2026-05-08T15:44:53,583080,4,2026-05-08,6.0,15.54
+478,6PvxI36z3horWyae29EOHM,4irlewoGTUPndEinKcavLF,02frazNrWgZCxUEf4UTfHt,The Undercover Man - 2005 Digital Remaster,Van Der Graaf Generator,Godbluff,2026-05-08T15:35:23,452133,4,2026-05-08,6.0,15.16
+479,12BSffsg97h51TlEcwXKTr,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,A Plague Of Lighthouse Keepers - Remastered 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-08T15:27:39,1384160,5,2026-05-08,7.5,19.64
+480,3nhQ0t5o70uHAzEgYDedX2,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,Man-Erg - Remastered 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-08T15:04:53,619800,9,2026-05-08,9.0,24.81
+481,5OJCbL1RVFYSw07C9e0QUS,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,Lemmings (Including Cog) - Remastered 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-08T14:54:24,696520,6,2026-05-08,7.5,19.89
+482,3Dt212rT553UIiYV0lS3q7,5ZJrRUIm6apjER9MNU7QBJ,3CkvROUTQ6nRi9yQOcsB50,Paperlate,Genesis,Archive #2 (1976 - 1992),2026-05-08T14:27:53,201906,1,2026-05-08,1.5,4.71
+483,64VJ17KE84E6cmeZZfLf6m,5ZJrRUIm6apjER9MNU7QBJ,3CkvROUTQ6nRi9yQOcsB50,You Might Recall,Genesis,Archive #2 (1976 - 1992),2026-05-08T14:24:23,332000,1,2026-05-08,1.5,5.32
+484,3Fjz9ydBl4yF02wH2IDMsZ,5ZJrRUIm6apjER9MNU7QBJ,3CkvROUTQ6nRi9yQOcsB50,Hearts on Fire,Genesis,Archive #2 (1976 - 1992),2026-05-08T14:18:53,314826,1,2026-05-08,1.5,5.25
+485,4lA7pN9emvsqYQiNOVPwQv,5ZJrRUIm6apjER9MNU7QBJ,3CkvROUTQ6nRi9yQOcsB50,On the Shoreline,Genesis,Archive #2 (1976 - 1992),2026-05-08T14:13:53,289173,1,2026-05-08,1.5,5.14
+486,0gRSn1jEA7c8RYZmwyF0YZ,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Big Indian,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-09T06:17:26,214506,2,2026-05-09,3.0,8.15
+487,2bI94nOOcNeRxccUF9y8aH,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Shakin',The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-09T02:45:02,235960,3,2026-05-09,4.5,11.32
+488,3APHT3KjbHi9OllkVQsuXF,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Bohemian Like You,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-09T02:41:02,211706,5,2026-05-09,4.5,13.89
+489,7h5ukKkaoxjtXq4IFV93Tz,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Cool Scene,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-09T02:37:32,247666,4,2026-05-09,4.5,12.79
+490,1D1HOr5KimN1bsk5owwnGQ,3pfV6VcferUPyQ8fG8Ejrt,7siPLyFwRFYQkKgWKJ5Sod,The Summer Of Hate,The Dandy Warhols,ROCKMAKER,2026-05-09T02:32:32,198003,1,2026-05-09,1.5,4.69
+491,26QFxjUtotzjuQLZQrzDXS,1CURXLSb41eyrjvRzHWQkG,7siPLyFwRFYQkKgWKJ5Sod,Now You'll Love Me,The Dandy Warhols,Earth to the Dandy Warhols,2026-05-09T02:29:32,188733,1,2026-05-09,1.5,4.63
+492,5cFSLDBFHqAWZ2WKaassru,2jWOmtU1d3CwWzc2NaeGff,7siPLyFwRFYQkKgWKJ5Sod,Be Alright,The Dandy Warhols,Why You so Crazy,2026-05-09T02:26:02,229453,1,2026-05-09,1.5,4.86
+493,5U7OrUfiKr1EfHhtmkNCaV,1CURXLSb41eyrjvRzHWQkG,7siPLyFwRFYQkKgWKJ5Sod,The Legend of the Outlaw Truckers Aka the Ballad of Sheriff Shorty,The Dandy Warhols,Earth to the Dandy Warhols,2026-05-09T02:22:32,223866,1,2026-05-09,1.5,4.83
+494,6rLfsjVBUzFpFyI5auOdof,4u2yoJNl1UJOw7SjLCVYU6,7siPLyFwRFYQkKgWKJ5Sod,You Are Killing Me,The Dandy Warhols,Distortland,2026-05-09T02:18:32,221424,1,2026-05-09,1.5,4.83
+495,6V5aaZGoF0nSBf5FXXKDcW,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,The Gospel,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-08T22:01:35,335826,1,2026-05-08,1.5,5.33
+496,0gRSn1jEA7c8RYZmwyF0YZ,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Big Indian,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-08T21:56:05,214506,2,2026-05-08,3.0,8.15
+497,2bI94nOOcNeRxccUF9y8aH,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Shakin',The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-08T21:52:35,235960,3,2026-05-08,4.5,11.32
+498,3APHT3KjbHi9OllkVQsuXF,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Bohemian Like You,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-08T21:48:35,211706,5,2026-05-08,4.5,13.89
+499,7h5ukKkaoxjtXq4IFV93Tz,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Cool Scene,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-08T21:45:05,247666,4,2026-05-08,4.5,12.79
+500,05UJltDoeueldFVcn7IeWQ,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Sleep,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-08T21:37:50,357000,3,2026-05-08,4.5,11.91
+501,3vNuiCB9OirYFeO79MNQqZ,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Get Off,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-08T21:34:49,190960,2,2026-05-08,3.0,8.0
+502,4VHnUCXPoZjYw25iJJ0Ahm,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Horse Pills,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-08T21:31:49,204846,2,2026-05-08,3.0,8.09
+503,1yPjS57IDVSVio6zW45wM7,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Solid,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-08T21:28:19,188406,2,2026-05-08,3.0,7.98
+504,0nPOThAOyc6nbh4Nbanf7f,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Country Leaver,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-08T21:25:19,202600,2,2026-05-08,3.0,8.07
+505,5TGBpTDgnaCDf0zOQAmkWK,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Nietzsche,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-08T21:21:49,340626,2,2026-05-08,3.0,8.77
+506,6kRjeXaRe9LRl3Sxphf5jj,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Mohammed,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-08T21:15:49,320466,2,2026-05-08,3.0,8.69
+507,4vJRdgiKKzF36ZqUH0ha6A,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Godless,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-08T21:10:49,319970,2,2026-05-08,3.0,8.69
+508,4s5XUVov8Yj0rtSrsfs0je,3pfV6VcferUPyQ8fG8Ejrt,7siPLyFwRFYQkKgWKJ5Sod,I'd Like To Help You With Your Problem,The Dandy Warhols,ROCKMAKER,2026-05-08T20:59:32,258000,1,2026-05-08,1.5,5.0
+509,1iirVt5GbGooJejnGGdd5D,5Vb3tKCzxT6qzbq5Smh4TM,7siPLyFwRFYQkKgWKJ5Sod,Good Morning,The Dandy Warhols,The Dandy Warhols Come Down,2026-05-08T20:57:57,300200,2,2026-05-08,3.0,8.6
+510,6Vr06nN8RaH477KXaipoUE,4u2yoJNl1UJOw7SjLCVYU6,7siPLyFwRFYQkKgWKJ5Sod,Styggo,The Dandy Warhols,Distortland,2026-05-08T20:52:56,258443,1,2026-05-08,1.5,5.0
+511,6xyQePqMDxnAO0diRZBPmg,5dqQ2OtXybQwp7vAbymHNV,7siPLyFwRFYQkKgWKJ5Sod,Holding Me Up,The Dandy Warhols,Odditorium Or Warlords Of Mars,2026-05-08T20:48:56,435520,1,2026-05-08,1.5,5.67
+512,5uUokzfJhIXL8ne2eKVp6x,5Vb3tKCzxT6qzbq5Smh4TM,7siPLyFwRFYQkKgWKJ5Sod,Boys Better,The Dandy Warhols,The Dandy Warhols Come Down,2026-05-08T20:41:26,271600,1,2026-05-08,1.5,5.06
+513,2uZZH1YrSVaCgOZlC8j8Mp,1QKL1Z8iNiS4G2XW37c7fF,7siPLyFwRFYQkKgWKJ5Sod,The Last High,The Dandy Warhols,Welcome To The Monkey House,2026-05-08T20:36:56,286653,1,2026-05-08,1.5,5.12
+514,3APHT3KjbHi9OllkVQsuXF,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Bohemian Like You,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-08T20:31:56,211706,5,2026-05-08,4.5,13.89
+515,1VEIMGVXj7713dHY9gZLyU,0Tg76MY2wNK4j37iCb6qyH,762310PdDnwsDxAQxzQkfX,Waiting for the Night,Depeche Mode,Violator (Deluxe),2026-05-08T20:28:26,367373,2,2026-05-08,3.0,8.87
+516,23Glh1ykxUAZI43Ac9E8xw,4ttC4XUinZXn3GMIQNrjFZ,7M1FPw29m5FbicYzS2xdpi,The Great Deceiver,King Crimson,Starless And Bible Black,2026-05-08T20:22:26,241945,1,2026-05-08,1.5,4.93
+517,389QX9Q1eUOEZ19vtzzI9O,1klALx0u4AavZNEvC4LrTL,3WrFJ7ztbogyGnTHbHJFl2,While My Guitar Gently Weeps - Remastered 2009,The Beatles,The Beatles (Remastered),2026-05-08T20:18:26,285000,1,2026-05-08,1.5,5.12
+518,2mEq5IjwOEvohBfU5kLBj5,5McXJRYbHlahdYE09eonkE,1SQRv42e4PjEYfPhS0Tk9E,Shangri-La (2019 Remaster),The Kinks,Arthur or the Decline and Fall of the British Empire (2019 Remaster),2026-05-08T20:13:26,320527,3,2026-05-08,4.5,11.75
+519,6hHc7Pks7wtBIW8Z6A0iFq,6iHuSGy6pq4tNGFV3ZVPtl,0yNLKJebCb8Aueb54LYya3,Blue Monday,New Order,Substance,2026-05-08T20:08:26,449160,1,2026-05-08,1.5,5.71
+520,4796ITs2bZ9Mys2nnG37qf,0b33cACjsSPVBchGgsFGMu,4lianjyuR1tqf6oUX8kjrZ,Ermeneutica,Franco Battiato,Universi paralleli di Franco Battiato,2026-05-09T13:46:10,214213,3,2026-05-09,4.5,11.19
+521,7oXOoyO2LGsl3zWqrRVZyY,0b33cACjsSPVBchGgsFGMu,4lianjyuR1tqf6oUX8kjrZ,Le aquile non volano a stormi,Franco Battiato,Universi paralleli di Franco Battiato,2026-05-09T13:42:28,206560,2,2026-05-09,3.0,8.11
+522,0dRZS5myf8NifPqgRwA986,0b33cACjsSPVBchGgsFGMu,4lianjyuR1tqf6oUX8kjrZ,Tra sesso e castità,Franco Battiato,Universi paralleli di Franco Battiato,2026-05-09T13:38:58,205453,2,2026-05-09,3.0,8.09
+523,7jPtn8K7McEjE1G3Z69qhd,0b33cACjsSPVBchGgsFGMu,4lianjyuR1tqf6oUX8kjrZ,Il Potere Del Canto,Franco Battiato,Universi paralleli di Franco Battiato,2026-05-09T13:35:29,243973,1,2026-05-09,1.5,4.93
+524,3aGdi0IBDj89GOzOAxuIjJ,0b33cACjsSPVBchGgsFGMu,4lianjyuR1tqf6oUX8kjrZ,Scherzo in minore,Franco Battiato,Universi paralleli di Franco Battiato,2026-05-09T13:31:28,201706,1,2026-05-09,1.5,4.71
+525,2qrsuNAKFEhDaTIKNy3KMk,0b33cACjsSPVBchGgsFGMu,4lianjyuR1tqf6oUX8kjrZ,Sarcofagia,Franco Battiato,Universi paralleli di Franco Battiato,2026-05-09T13:28:28,222653,1,2026-05-09,1.5,4.83
+526,4JlPrHmUIhwGGR4nG3GecO,0b33cACjsSPVBchGgsFGMu,4lianjyuR1tqf6oUX8kjrZ,Lontananze D'Azzurro,Franco Battiato,Universi paralleli di Franco Battiato,2026-05-09T13:24:28,209066,1,2026-05-09,1.5,4.75
+527,7IllFWMYnm4zF7A67ha1Y5,0b33cACjsSPVBchGgsFGMu,4lianjyuR1tqf6oUX8kjrZ,Il cammino interminabile,Franco Battiato,Universi paralleli di Franco Battiato,2026-05-09T13:20:58,224133,1,2026-05-09,1.5,4.84
+528,49O0U2nehcnxPfXQyKVZpL,0b33cACjsSPVBchGgsFGMu,4lianjyuR1tqf6oUX8kjrZ,Personalità Empirica,Franco Battiato,Universi paralleli di Franco Battiato,2026-05-09T13:17:28,214253,1,2026-05-09,1.5,4.78
+529,1xNM3spOHKtzhcobGQnTWf,0b33cACjsSPVBchGgsFGMu,4lianjyuR1tqf6oUX8kjrZ,La quiete dopo un addio,Franco Battiato,Universi paralleli di Franco Battiato,2026-05-09T13:13:28,234213,1,2026-05-09,1.5,4.88
+530,6TVNZ1de3LnL9InRo4QzB9,0b33cACjsSPVBchGgsFGMu,4lianjyuR1tqf6oUX8kjrZ,Bist Du Bei Mir,Franco Battiato,Universi paralleli di Franco Battiato,2026-05-09T13:09:58,259720,1,2026-05-09,1.5,5.0
+531,2WLsPVRPaBHARiMptJwMsn,0b33cACjsSPVBchGgsFGMu,4lianjyuR1tqf6oUX8kjrZ,Running Against The Grain,Franco Battiato,Universi paralleli di Franco Battiato,2026-05-09T13:05:29,222106,2,2026-05-09,3.0,8.2
+532,2jgyYvT3N5rmTmdsEqIhU9,0b33cACjsSPVBchGgsFGMu,4lianjyuR1tqf6oUX8kjrZ,Prologo,Franco Battiato,Universi paralleli di Franco Battiato,2026-05-09T13:01:28,146546,1,2026-05-09,1.5,4.36
+533,0GRBFjza23Im7Xb16c9AaK,0GqpoHJREPp0iuXK3HzrHk,36QJpDe2go2KgaRleHCDTp,No Quarter - Remaster,Led Zeppelin,Houses of the Holy (Remaster),2026-05-09T12:58:02,422517,2,2026-05-09,3.0,9.06
+534,3APHT3KjbHi9OllkVQsuXF,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Bohemian Like You,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-09T11:07:22,211706,5,2026-05-09,4.5,13.89
+535,7h5ukKkaoxjtXq4IFV93Tz,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Cool Scene,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-09T11:03:51,247666,4,2026-05-09,4.5,12.79
+536,05UJltDoeueldFVcn7IeWQ,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Sleep,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-09T10:59:44,357000,3,2026-05-09,4.5,11.91
+537,15I3it1novXu99CECyVvxu,4itr4L9MsKJLGO7a8LI6d4,7siPLyFwRFYQkKgWKJ5Sod,Rain,The Dandy Warhols,Pin Ups,2026-05-09T10:53:51,212800,1,2026-05-09,1.5,4.77
+538,1iirVt5GbGooJejnGGdd5D,5Vb3tKCzxT6qzbq5Smh4TM,7siPLyFwRFYQkKgWKJ5Sod,Good Morning,The Dandy Warhols,The Dandy Warhols Come Down,2026-05-09T10:50:21,300200,2,2026-05-09,3.0,8.6
+539,6o4b8t4MjOL0I1dUxx1bOr,1QKL1Z8iNiS4G2XW37c7fF,7siPLyFwRFYQkKgWKJ5Sod,The Dandy Warhols Love Almost Everyone,The Dandy Warhols,Welcome To The Monkey House,2026-05-09T10:45:21,114106,1,2026-05-09,1.5,4.11
+540,4gPcaRBCmB7shL3fn4e1uX,5dqQ2OtXybQwp7vAbymHNV,7siPLyFwRFYQkKgWKJ5Sod,Everyone Is Totally Insane,The Dandy Warhols,Odditorium Or Warlords Of Mars,2026-05-09T10:43:22,221466,1,2026-05-09,1.5,4.83
+541,0BfPhHh0Gf1WR1hQgIYqen,5Vb3tKCzxT6qzbq5Smh4TM,7siPLyFwRFYQkKgWKJ5Sod,Not If You Were The Last Junkie On Earth,The Dandy Warhols,The Dandy Warhols Come Down,2026-05-09T10:39:21,191933,1,2026-05-09,1.5,4.64
+542,46ALT0bfkpRWsWKywoF2XC,4itr4L9MsKJLGO7a8LI6d4,7siPLyFwRFYQkKgWKJ5Sod,Sister Golden Hair,The Dandy Warhols,Pin Ups,2026-05-09T10:36:22,204800,1,2026-05-09,1.5,4.72
+543,0y1kwYGw5pQrXlJ1WdiTpF,1CURXLSb41eyrjvRzHWQkG,7siPLyFwRFYQkKgWKJ5Sod,And Then I Dreamt of Yes,The Dandy Warhols,Earth to the Dandy Warhols,2026-05-09T10:32:52,282333,1,2026-05-09,1.5,5.11
+544,4iVbUJJFCByvdV3SMI7SEp,2vCIHBcaagIDY6f7axqdi0,4kYClJRpGza4CLezfVwLEf,Two Dolphins Go Dancing,Irmin Schmidt,Toy Planet - 1981,2026-05-09T08:28:04,209696,3,2026-05-09,4.5,11.16
+545,5Rzt1zCXx81n5CH8d4CXQo,18QlJWuxHQ1IGQ52qf8T1m,0f3kLT4wvi2mFHlHJgV8Hl,Big Apple - Metro Mix,Kajagoogoo,The Very Best Of Kajagoogoo,2026-05-09T08:21:33,365880,6,2026-05-09,6.0,17.45
+546,5GdmKwHrXRfGT40ZGs0W5R,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Big Apple,Kajagoogoo,Islands,2026-05-09T08:15:17,249546,6,2026-05-09,7.5,18.39
+547,7zacyKvVMUsjbtvMiJPWlw,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Lion's Mouth,Kajagoogoo,Islands,2026-05-09T08:11:03,216186,12,2026-05-09,9.0,26.69
+548,6eUnY12Nd9TVWlbBnFQRCw,6wI2sLcBmYzYQd9LFfkbhy,2CqEOngQOOMstJupNn6Hmf,Hallogallo,NEU!,NEU!,2026-05-10T10:50:49,607426,5,2026-05-10,4.5,15.41
+549,6Wdj4fVCnjmeHKWw7PJveY,2s4Imr2HMS9Dk5Jp5AooTu,1MD5pgVzlusqGyuSTcTxvu,Pecore Elettriche - Italian version,Premiata Forneria Marconi,I Dreamed of Electric Sheep,2026-05-10T10:50:49,249853,3,2026-05-10,3.0,9.9
+550,63M8OHzd0lcVT517Pnon81,3IPhWIXHOAhS2npnq6FiCG,0k17h0D3J5VfsdmQ1iZtE9,Several Species of Small Furry Animals Gathered Together in a Cave and Grooving with a Pict,Pink Floyd,Ummagumma,2026-05-10T10:50:49,298426,4,2026-05-10,4.5,13.06
+551,702IsRAE5re0e7eBwf0LXl,1NeJ0QqKv002iYDiOCaUOA,1MD5pgVzlusqGyuSTcTxvu,Geranio,Premiata Forneria Marconi,Per Un Amico,2026-05-10T10:50:49,484000,3,2026-05-10,4.5,12.34
+552,5qmlexKxaI31MvFhObUCZm,68W3ppXWhsOLOURmxzRkyA,7M1FPw29m5FbicYzS2xdpi,The Devils Triangle,King Crimson,In The Wake Of Poseidon,2026-05-10T10:50:49,697023,4,2026-05-10,6.0,15.79
+553,5RvojOmq8Yrvg2FNKbRmlN,59eHxfqvwJyXhJGGtORaHv,4lianjyuR1tqf6oUX8kjrZ,Le Aquile - Remastered 2008,Franco Battiato,Patriots (2008 Remastered Edition),2026-05-10T10:50:49,250653,3,2026-05-10,4.5,11.41
+554,7B3B9tt6XJQdch3DrbvWC4,47hOpZQfXVIRzTiv0Ef8pO,22bE4uQ6baNwSHPVcDxLCe,Monkey Man - Remastered 2019,The Rolling Stones,Let It Bleed (50th Anniversary Edition / Remastered 2019),2026-05-10T10:50:49,251960,3,2026-05-10,4.5,11.41
+555,5prIsUvI0KGSrz2oNX1UGp,3tZmzx3Og386HMV4vp4Dli,4lianjyuR1tqf6oUX8kjrZ,Lode All'Inviolato - 2008 Remaster,Franco Battiato,Caffé De La Paix (2008 Remastered Edition),2026-05-10T10:50:49,233440,1,2026-05-10,1.5,4.88
+556,1UN3sFWqyo48meGCL9pmvb,0b33cACjsSPVBchGgsFGMu,4lianjyuR1tqf6oUX8kjrZ,Lode All'Inviolato - Live 2003,Franco Battiato,Universi paralleli di Franco Battiato,2026-05-10T10:50:49,190600,1,2026-05-10,1.5,4.64
+557,1VjaCtRDg4VxzT4ew9smUk,3lA6hRJnNVladkSGqbPWTB,4lianjyuR1tqf6oUX8kjrZ,La Musica Muore - Remastered 2019,Franco Battiato,Fleurs 2 (Remastered 2019),2026-05-10T10:50:49,212826,1,2026-05-10,1.5,4.77
+558,5dc1s3guiEhaZsPdOXgsmt,1Bw3bHsQ9Xwlalhp4NjX1n,4lianjyuR1tqf6oUX8kjrZ,Chan-Son Egocentrique - Remastered,Franco Battiato,Mondi Lontanissimi (2008 Remastered Edition),2026-05-10T10:50:49,253893,1,2026-05-10,1.5,4.97
+559,2sG6kG8mEDaiv7AN0TJ310,0b33cACjsSPVBchGgsFGMu,4lianjyuR1tqf6oUX8kjrZ,Apparenza e realtà,Franco Battiato,Universi paralleli di Franco Battiato,2026-05-10T10:50:49,218880,3,2026-05-10,4.5,11.22
+560,3kp9Ji3GSt62461FZ2gTLj,5v9MxUngO1GZ5rtxLtWokm,4lianjyuR1tqf6oUX8kjrZ,L'animale,Franco Battiato,Torneremo Ancora,2026-05-10T10:50:48,185933,1,2026-05-10,1.5,4.62
+561,0UA8ynZQtxD84T43xItkXt,0hErCZnxOljlEVTLzzy4Yp,4lianjyuR1tqf6oUX8kjrZ,Radio Varsavia - Remastered 2022,Franco Battiato,L'Arca Di Noè (40° Anniversario / Remaster 2022),2026-05-10T10:50:48,249991,1,2026-05-10,1.5,4.96
+562,4lLzZCNgUFP49R4oBlCb9N,57fbjGPdv6Ey7RkzOJQ46y,4lianjyuR1tqf6oUX8kjrZ,"L'Ombra Della Luce - Live From Teatro Dell'Archivolto, Genova / Italy, 1994",Franco Battiato,"Unprotected (Live at Lugo di Romagna, Padova, Genova 1994)",2026-05-10T10:50:48,241946,1,2026-05-10,1.5,4.93
+563,2gK9dAy6TgeOYvdlspWbdU,0HoF3Ir1IYbIkvrxXrLGOB,7AC976RDJzL2asmZuz7qil,Into the Lens,Yes,Drama (Deluxe Edition),2026-05-10T07:02:46,512333,3,2026-05-10,4.5,12.42
+564,47sJPdCkjVfLJWBFhwJiuE,20dTbQRkxuOTkf3SFyaT2m,7M1FPw29m5FbicYzS2xdpi,The Sheltering Sky,King Crimson,Discipline,2026-05-10T06:54:16,502480,4,2026-05-10,6.0,15.31
+565,5PtndrR1yYsj2BSoo89S6w,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,Man-Erg - New Stereo Mix 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-10T06:45:46,622533,4,2026-05-10,3.0,12.62
+566,7HDv9WfmLNinEJx8iZIE1m,659kn6tY6zC9jy56kzIW51,1CD77o9fbdyQFrHnUPUEsF,Dream Gerrard,Traffic,When The Eagle Flies,2026-05-10T06:35:16,662173,2,2026-05-10,3.0,9.71
+567,0O9dtCsMTsVIo0tF8AVJQ5,3nkLkuSpD5bMzG1ibkJw5N,4RuYtHjAKBufQRqBUMiOfK,La discesa dal treno,Banco Del Mutuo Soccorso,Transiberiana (Bonus Tracks Version),2026-05-10T06:24:26,375225,3,2026-05-10,4.5,11.97
+568,04c3ZTgTH5ci7LuNSx7Wje,20dTbQRkxuOTkf3SFyaT2m,7M1FPw29m5FbicYzS2xdpi,Thela Hun Ginjeet,King Crimson,Discipline,2026-05-10T06:17:46,386520,2,2026-05-10,3.0,8.95
+569,0TMKja08JBRFwkdpl9IpI3,1n6mujGDmusUYHfuFtZZvJ,02frazNrWgZCxUEf4UTfHt,Killer - Remastered 2021,Van Der Graaf Generator,"H To He, Who Am The Only One (Deluxe)",2026-05-10T06:11:16,498040,3,2026-05-10,4.5,12.38
+570,7l2Gh3fSaknNtzOxFuadeC,3gISC18IyM5W4fd3bVz9hk,1MD5pgVzlusqGyuSTcTxvu,Nuvole Nere,Premiata Forneria Marconi,Serendipity,2026-05-10T06:03:16,247133,3,2026-05-10,4.5,11.38
+571,3aPHB4pU4fPbPqcoSng1K0,4RD4REp6RE2kVZ96Uf1TgB,4lianjyuR1tqf6oUX8kjrZ,No U Turn - Live 1988 / Remastered 2020,Franco Battiato,Giubbe Rosse (Deluxe 30th Anniversary Live & Remastered Edition / Remastered 2020),2026-05-10T05:59:16,264133,4,2026-05-10,6.0,14.38
+572,73RVbX3YhvDYTSyrzKguSi,2U4JHXMiBxsKH4dnYEQg2g,7AC976RDJzL2asmZuz7qil,Parallels - 2003 Remaster,Yes,Going for the One (Deluxe Edition),2026-05-10T05:54:46,353906,4,2026-05-10,6.0,14.8
+573,6udbKI96O98wT1Jsng6hVO,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,Theme One - Sounds Of The 70s Session / 1971,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-10T05:48:20,176893,2,2026-05-10,1.5,6.39
+574,5zgBkwQc9EXSkFDilwKkfn,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,ManErg - Sounds Of The 70s Session / 1971,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-09T20:34:54,669480,1,2026-05-09,1.5,6.25
+575,12BSffsg97h51TlEcwXKTr,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,A Plague Of Lighthouse Keepers - Remastered 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-09T20:19:21,1384160,5,2026-05-09,7.5,19.64
+576,3nhQ0t5o70uHAzEgYDedX2,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,Man-Erg - Remastered 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-09T19:59:04,619800,9,2026-05-09,9.0,24.81
+577,5OJCbL1RVFYSw07C9e0QUS,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,Lemmings (Including Cog) - Remastered 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-09T19:48:35,696520,6,2026-05-09,7.5,19.89
+578,4q6ECLJSHSh9VhoRMXayl9,68W3ppXWhsOLOURmxzRkyA,7M1FPw29m5FbicYzS2xdpi,Peace - An End,King Crimson,In The Wake Of Poseidon,2026-05-09T19:36:46,116569,1,2026-05-09,1.5,4.12
+579,5qmlexKxaI31MvFhObUCZm,68W3ppXWhsOLOURmxzRkyA,7M1FPw29m5FbicYzS2xdpi,The Devils Triangle,King Crimson,In The Wake Of Poseidon,2026-05-09T19:35:11,697023,4,2026-05-09,6.0,15.79
+580,030ffOIPEEHxY86mYqVEQP,68W3ppXWhsOLOURmxzRkyA,7M1FPw29m5FbicYzS2xdpi,Cat Food,King Crimson,In The Wake Of Poseidon,2026-05-09T19:23:04,293060,2,2026-05-09,3.0,8.57
+581,1sdE5MvlTinP43rimOGc3Y,68W3ppXWhsOLOURmxzRkyA,7M1FPw29m5FbicYzS2xdpi,Peace - A Theme,King Crimson,In The Wake Of Poseidon,2026-05-09T19:18:35,75103,1,2026-05-09,1.5,3.71
+582,39AAt95Ts6PIHgMJfnHTNr,68W3ppXWhsOLOURmxzRkyA,7M1FPw29m5FbicYzS2xdpi,In The Wake Of Poseidon,King Crimson,In The Wake Of Poseidon,2026-05-09T19:17:04,476866,1,2026-05-09,1.5,5.79
+583,03eLKI5mewmJqp5eY0WkPT,68W3ppXWhsOLOURmxzRkyA,7M1FPw29m5FbicYzS2xdpi,Cadence and Cascade,King Crimson,In The Wake Of Poseidon,2026-05-09T19:09:15,277659,1,2026-05-09,1.5,5.09
+584,09HzhqeSYsFhKK2BfjHEJk,68W3ppXWhsOLOURmxzRkyA,7M1FPw29m5FbicYzS2xdpi,Pictures Of A City,King Crimson,In The Wake Of Poseidon,2026-05-09T19:04:34,481149,1,2026-05-09,1.5,5.8
+585,5e8XqeZXgEYldEAXBQfevQ,68W3ppXWhsOLOURmxzRkyA,7M1FPw29m5FbicYzS2xdpi,Peace - A Beginning,King Crimson,In The Wake Of Poseidon,2026-05-09T18:56:58,50060,1,2026-05-09,1.5,3.42
+586,1oHiRoTuWXDVwBqq711aGd,0b33cACjsSPVBchGgsFGMu,4lianjyuR1tqf6oUX8kjrZ,Fortezza Bastiani,Franco Battiato,Universi paralleli di Franco Battiato,2026-05-09T13:49:28,200906,1,2026-05-09,1.5,4.71
+587,2hDMI3I7WGgHmP4EGAk7la,3AQgdwMNCiN7awXch5fAaG,2x9SpqnPi8rlE9pjHBwmSC,Houses in Motion - 2005 Remaster,Talking Heads,Remain in Light (Deluxe Version),2026-05-10T21:17:53,273200,1,2026-05-10,1.5,5.06
+588,1sjmKmR4u9xDeJHjDCn2bZ,1ntNLgaYCFCkeW4flGYlY2,3WrFJ7ztbogyGnTHbHJFl2,Penny Lane,The Beatles,Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition),2026-05-10T21:17:53,182053,1,2026-05-10,1.5,4.58
+589,1HBVMwptlPziSpy9AcEqoP,3HtKI17HsXBUwrwVTyX1d0,4lianjyuR1tqf6oUX8kjrZ,Shock In My Town - Live In Roma 2016,Franco Battiato,Live In Roma,2026-05-10T21:17:53,260386,1,2026-05-10,1.5,5.02
+590,34K7nU8EWQIRI93RfqhdRJ,0aqZJlugIkTUWW1sa4BANp,22bE4uQ6baNwSHPVcDxLCe,Brown Sugar,The Rolling Stones,Hot Rocks 1964-1971,2026-05-10T21:17:53,229173,1,2026-05-10,1.5,4.86
+591,5zADxJhJEzuOstzcUtXlXv,3y67YB3vSbaopIg1VoAO1n,3CkvROUTQ6nRi9yQOcsB50,Supper's Ready - 2007 Stereo Mix,Genesis,Foxtrot (2007 Stereo Mix),2026-05-10T21:17:53,1385906,1,2026-05-10,1.5,7.27
+592,3pt0Gu0WephGk9I5xUk6Oi,4YK7qYQ9I62koYRiN0II6v,4lianjyuR1tqf6oUX8kjrZ,Zone Depresse - 2008 Remaster,Franco Battiato,Orizzonti Perduti (2008 Remastered Edition),2026-05-10T21:17:53,213159,1,2026-05-10,1.5,4.78
+593,6io3AG4PaHu5Ksx41r4zHw,1UIoS9WbxcNNmvUGkWlfzU,2x9SpqnPi8rlE9pjHBwmSC,Love → Building on Fire - 2004 Remaster,Talking Heads,The Best of Talking Heads,2026-05-10T21:17:52,178000,1,2026-05-10,1.5,4.57
+594,22W574PUUECix1yNCWalgx,2Qkp6ALKO8kcONs4zq1t2D,4TMHGUX5WI7OOm53PqSDAT,The Golden Road - 2013 Remaster,Grateful Dead,The Grateful Dead,2026-05-10T21:17:52,132649,1,2026-05-10,1.5,4.25
+595,6NP5YF5RtYkhx8ezPLqpZy,6SOihxycNpKEwRiYKvlHOi,2caOYPej26UoQOyFnzXW3G,Supermarket,Lucio Battisti,Amore e non amore,2026-05-10T21:17:52,291514,1,2026-05-10,1.5,5.16
+596,5iyCSUM7zzficwaGo8GIoc,1klALx0u4AavZNEvC4LrTL,3WrFJ7ztbogyGnTHbHJFl2,Savoy Truffle - Remastered 2009,The Beatles,The Beatles (Remastered),2026-05-10T21:17:52,174466,1,2026-05-10,1.5,4.54
+597,2bI94nOOcNeRxccUF9y8aH,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Shakin',The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-10T14:21:09,235960,3,2026-05-10,4.5,11.32
+598,3APHT3KjbHi9OllkVQsuXF,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Bohemian Like You,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-10T14:17:10,211706,5,2026-05-10,4.5,13.89
+599,7h5ukKkaoxjtXq4IFV93Tz,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Cool Scene,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-10T14:13:39,247666,4,2026-05-10,4.5,12.79
+600,05UJltDoeueldFVcn7IeWQ,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Sleep,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-10T14:09:39,357000,3,2026-05-10,4.5,11.91
+601,3vNuiCB9OirYFeO79MNQqZ,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Get Off,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-10T14:03:39,190960,2,2026-05-10,3.0,8.0
+602,4VHnUCXPoZjYw25iJJ0Ahm,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Horse Pills,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-10T14:00:09,204846,2,2026-05-10,3.0,8.09
+603,1yPjS57IDVSVio6zW45wM7,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Solid,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-10T13:57:10,188406,2,2026-05-10,3.0,7.98
+604,0nPOThAOyc6nbh4Nbanf7f,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Country Leaver,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-10T13:53:39,202600,2,2026-05-10,3.0,8.07
+605,5TGBpTDgnaCDf0zOQAmkWK,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Nietzsche,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-10T13:50:09,340626,2,2026-05-10,3.0,8.77
+606,6kRjeXaRe9LRl3Sxphf5jj,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Mohammed,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-10T13:44:39,320466,2,2026-05-10,3.0,8.69
+607,4vJRdgiKKzF36ZqUH0ha6A,3RFenjlpdmIfkYATMdkbak,7siPLyFwRFYQkKgWKJ5Sod,Godless,The Dandy Warhols,Thirteen Tales From Urban Bohemia,2026-05-10T13:39:09,319970,2,2026-05-10,3.0,8.69
+608,4u6tu5K2M4DvEdZXDGfzzd,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,Theme One - New Stereo Mix 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-10T13:31:39,190213,2,2026-05-10,3.0,7.98
+609,3EZVUewtbfJMuiu21SxRaH,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,A Plague Of Lighthouse Keepers - New Stereo Mix 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-10T13:28:39,1397760,2,2026-05-10,3.0,10.79
+610,5PtndrR1yYsj2BSoo89S6w,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,Man-Erg - New Stereo Mix 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-10T13:05:09,622533,4,2026-05-10,3.0,12.62
+611,06A2v1vXdG6WISnC18RcbL,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,Lemmings (Including Cog) - New Stereo Mix 2021,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-10T12:54:40,699866,2,2026-05-10,3.0,9.79
+612,6f5iLq05s4Ky7Sb1FxvgnA,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,Darkness - Sounds Of The 70s Session / 1971,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-10T12:43:09,437746,1,2026-05-10,1.5,5.68
+613,7q921uAoBddu5AcYZeK9d3,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,Vision - Sounds Of The 70s Session / 1971,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-10T12:35:39,193506,1,2026-05-10,1.5,4.66
+614,6udbKI96O98wT1Jsng6hVO,1GOUMwPQw5xCizmD1Ixala,02frazNrWgZCxUEf4UTfHt,Theme One - Sounds Of The 70s Session / 1971,Van Der Graaf Generator,Pawn Hearts (Deluxe),2026-05-10T12:32:39,176893,2,2026-05-10,1.5,6.39
+615,60rik7L8PK2MgBuy3yn9xX,0B840ackxxJhZFcN2k6pGk,02frazNrWgZCxUEf4UTfHt,"Lemmings - Live From L'Altro Mondo, Rimini, Italy/1975",Van Der Graaf Generator,The Box,2026-05-11T21:25:00,1002026,1,2026-05-11,1.5,6.8
+616,6V2N2kd13NP2VVePUBhfRm,0B840ackxxJhZFcN2k6pGk,02frazNrWgZCxUEf4UTfHt,"(In The) Black Room/The Tower - Live From L'Altro Mondo, Rimini, Italy/1975",Van Der Graaf Generator,The Box,2026-05-11T21:08:00,707040,1,2026-05-11,1.5,6.32
+617,0Pqy7Cs5C7dgJFMIeq5EYy,0B840ackxxJhZFcN2k6pGk,02frazNrWgZCxUEf4UTfHt,Medley: A Plague Of Lighthouse Keepers - 2000 Digital Remaster,Van Der Graaf Generator,The Box,2026-05-11T20:56:30,1386666,1,2026-05-11,1.5,7.27
+618,1mQfOP1tzGdI028njHAsWG,0B840ackxxJhZFcN2k6pGk,02frazNrWgZCxUEf4UTfHt,W - 2000 Digital Remaster,Van Der Graaf Generator,The Box,2026-05-11T20:33:30,268400,1,2026-05-11,1.5,5.05
+619,25xC2O5yD6YKWl1GuSTIDn,0B840ackxxJhZFcN2k6pGk,02frazNrWgZCxUEf4UTfHt,Theme 1,Van Der Graaf Generator,The Box,2026-05-11T20:29:00,181293,1,2026-05-11,1.5,4.58
+620,1jvQR74HnmszGi2wlOEaHL,4irlewoGTUPndEinKcavLF,02frazNrWgZCxUEf4UTfHt,The Sleepwalkers - 2005 Digital Remaster,Van Der Graaf Generator,Godbluff,2026-05-11T20:25:30,641053,3,2026-05-11,4.5,12.75
+621,5u9lMPTlPZznzjFFh5ZdeX,4irlewoGTUPndEinKcavLF,02frazNrWgZCxUEf4UTfHt,Arrow - 2005 Digital Remaster,Van Der Graaf Generator,Godbluff,2026-05-11T20:15:00,587826,4,2026-05-11,6.0,15.54
+622,5DJjwPtvPNARWVyzIdFnef,4irlewoGTUPndEinKcavLF,02frazNrWgZCxUEf4UTfHt,Scorched Earth - 2005 Digital Remaster,Van Der Graaf Generator,Godbluff,2026-05-11T20:05:00,583080,4,2026-05-11,6.0,15.54
+623,6PvxI36z3horWyae29EOHM,4irlewoGTUPndEinKcavLF,02frazNrWgZCxUEf4UTfHt,The Undercover Man - 2005 Digital Remaster,Van Der Graaf Generator,Godbluff,2026-05-11T19:55:30,452133,4,2026-05-11,6.0,15.16
+624,6UpMG6BDOd5xecMTu5r3sj,1rZGSWC3pMmejDwYG0ZXma,3CkvROUTQ6nRi9yQOcsB50,Firth of Fifth - 2007 Stereo Mix,Genesis,Selling England by the Pound (2007 Stereo Mix),2026-05-11T16:39:45,570986,1,2026-05-11,1.5,6.03
+625,31VLSfg86NJN74rUHQi7e8,1rZGSWC3pMmejDwYG0ZXma,3CkvROUTQ6nRi9yQOcsB50,I Know What I Like (In Your Wardrobe) - 2007 Stereo Mix,Genesis,Selling England by the Pound (2007 Stereo Mix),2026-05-11T16:30:18,250400,1,2026-05-11,1.5,4.96
+626,1a1xoTlWpndO6azw57dKdJ,1rZGSWC3pMmejDwYG0ZXma,3CkvROUTQ6nRi9yQOcsB50,Dancing with the Moonlit Knight - 2007 Stereo Mix,Genesis,Selling England by the Pound (2007 Stereo Mix),2026-05-11T16:26:18,480466,1,2026-05-11,1.5,5.8
+627,26Xb1Ud7QshGHH3o7IfA76,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Loop,Kajagoogoo,Islands,2026-05-11T14:27:56,282480,2,2026-05-11,3.0,8.51
+628,3LJKux0EHh14BGdhzQXxDY,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Part of Me Is You,Kajagoogoo,Islands,2026-05-11T14:23:15,237226,2,2026-05-11,3.0,8.29
+629,0HOOIjvwMNB9IL0G64gKKL,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,On a Plane,Kajagoogoo,Islands,2026-05-11T14:19:15,253986,2,2026-05-11,3.0,8.38
+630,0MSYmBxKuO7gC6tL5iDqV4,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Islands,Kajagoogoo,Islands,2026-05-11T14:15:15,291480,2,2026-05-11,3.0,8.55
+631,1l89u8dBPpEAHVSY45OVaV,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Turn Your Back on Me,Kajagoogoo,Islands,2026-05-11T14:10:15,241293,3,2026-05-11,4.5,11.36
+632,64EYxmO7v1pNbSgKvXNkfk,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Melting the Ice Away,Kajagoogoo,Islands,2026-05-11T14:06:15,318613,2,2026-05-11,3.0,8.68
+633,0kWweQWE8HIYlOUsIcvthl,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Power to Forgive,Kajagoogoo,Islands,2026-05-11T14:00:45,286040,4,2026-05-11,6.0,14.5
+634,5GdmKwHrXRfGT40ZGs0W5R,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,Big Apple,Kajagoogoo,Islands,2026-05-11T13:56:15,249546,6,2026-05-11,7.5,18.39
+635,7zacyKvVMUsjbtvMiJPWlw,0xM84XzqFGTDsFjPgCrXh9,0f3kLT4wvi2mFHlHJgV8Hl,The Lion's Mouth,Kajagoogoo,Islands,2026-05-11T13:51:45,216186,12,2026-05-11,9.0,26.69
+636,664mxd7tkS4Nc1ktjuY6C2,67AYhGt60AoJa1TVcn5lCn,13NmOYYfvONNZ9mn2qn8P2,Tohogd,Angine de Poitrine,Vol.1,2026-05-10T21:46:22,244973,1,2026-05-10,1.5,4.95
+637,55mW03rqsI9s3xUnuruF7G,67AYhGt60AoJa1TVcn5lCn,13NmOYYfvONNZ9mn2qn8P2,Sherpa,Angine de Poitrine,Vol.1,2026-05-10T21:41:51,343190,1,2026-05-10,1.5,5.37
+638,1iii3DosaivkmvUDmhZhCP,5U4dnRZsfW8NmwBBkELFPh,22bE4uQ6baNwSHPVcDxLCe,Shine A Light,The Rolling Stones,Exile On Main Street (2010 Re-Mastered),2026-05-12T21:28:43,256825,1,2026-05-12,1.5,4.99
+639,1FRP8d6l2jm3DS5f78ZrhK,0bJMFJ2XQwpO5nKTrYdUtX,22bE4uQ6baNwSHPVcDxLCe,Route 66,The Rolling Stones,The Rolling Stones,2026-05-12T21:24:08,140400,1,2026-05-12,1.5,4.31
+640,6H3kDe7CGoWYBabAeVWGiD,4l4u9e9jSbotSXNjYfOugy,22bE4uQ6baNwSHPVcDxLCe,Gimme Shelter,The Rolling Stones,Let It Bleed,2026-05-12T21:22:09,270773,1,2026-05-12,1.5,5.06
+641,0tFiuH4S1B8jSr9jVYZPez,0ACOqjq9mQuCZry2kj5zkB,22bE4uQ6baNwSHPVcDxLCe,The Singer Not The Song - Mono Version,The Rolling Stones,The Rolling Stones Singles Collection: The London Years,2026-05-12T21:17:09,142226,1,2026-05-12,1.5,4.33
+642,01JYvQ6udfhUw9Jed9EzoK,29m6DinzdaD0OPqWKGyMdz,22bE4uQ6baNwSHPVcDxLCe,Bitch - 2009 Mix,The Rolling Stones,Sticky Fingers (Remastered),2026-05-12T21:15:09,217093,1,2026-05-12,1.5,4.79
+643,57kJRtK3Lle1JoWDCtmkK0,6zUGj6iIU30nuPTEoqbD9n,22bE4uQ6baNwSHPVcDxLCe,Connection,The Rolling Stones,Between The Buttons (UK Version),2026-05-12T21:11:08,127946,1,2026-05-12,1.5,4.21
+644,2h7OfDcrNaHnhHLR9uEnhA,1Jv2AqzhgsduUik2p4k3cS,22bE4uQ6baNwSHPVcDxLCe,When The Whip Comes Down - Remastered,The Rolling Stones,Some Girls,2026-05-12T21:09:09,260959,1,2026-05-12,1.5,5.02
+645,5BquOJwWEEJMGqXsUNWjHu,6iVOz2hudE6dv5Yrcsw2c9,22bE4uQ6baNwSHPVcDxLCe,Winter - Remastered,The Rolling Stones,Goats Head Soup (Remastered 2009),2026-05-12T21:04:44,329400,1,2026-05-12,1.5,5.3
+646,7sMYoSEOYql0EwuWvchgD9,4ODlRs61uBFoP7HspXs1je,22bE4uQ6baNwSHPVcDxLCe,The Under Assistant West Coast Promotion Man - Edit / Mono,The Rolling Stones,Out Of Our Heads (UK),2026-05-12T20:59:39,187866,1,2026-05-12,1.5,4.63
+647,63T7DJ1AFDD6Bn8VzG6JE8,72qrnM4yUNMDDlWiqKc8iY,22bE4uQ6baNwSHPVcDxLCe,"Paint It, Black",The Rolling Stones,Aftermath,2026-05-12T20:56:09,202266,1,2026-05-12,1.5,4.72
+648,2yDQ8m6Fhyxw7Bwi7l7ztt,6iVOz2hudE6dv5Yrcsw2c9,22bE4uQ6baNwSHPVcDxLCe,Hide Your Love - Remastered,The Rolling Stones,Goats Head Soup (Remastered 2009),2026-05-12T20:52:39,251826,1,2026-05-12,1.5,4.97
+649,1jvQR74HnmszGi2wlOEaHL,4irlewoGTUPndEinKcavLF,02frazNrWgZCxUEf4UTfHt,The Sleepwalkers - 2005 Digital Remaster,Van Der Graaf Generator,Godbluff,2026-05-12T20:48:39,641053,3,2026-05-12,4.5,12.75
+650,5u9lMPTlPZznzjFFh5ZdeX,4irlewoGTUPndEinKcavLF,02frazNrWgZCxUEf4UTfHt,Arrow - 2005 Digital Remaster,Van Der Graaf Generator,Godbluff,2026-05-12T20:38:09,587826,4,2026-05-12,6.0,15.54
+651,5DJjwPtvPNARWVyzIdFnef,4irlewoGTUPndEinKcavLF,02frazNrWgZCxUEf4UTfHt,Scorched Earth - 2005 Digital Remaster,Van Der Graaf Generator,Godbluff,2026-05-12T20:28:09,583080,4,2026-05-12,6.0,15.54
+652,6PvxI36z3horWyae29EOHM,4irlewoGTUPndEinKcavLF,02frazNrWgZCxUEf4UTfHt,The Undercover Man - 2005 Digital Remaster,Van Der Graaf Generator,Godbluff,2026-05-12T20:18:39,452133,4,2026-05-12,6.0,15.16
+653,197BZR2lqvBxVRlO8stQwm,4RD4REp6RE2kVZ96Uf1TgB,4lianjyuR1tqf6oUX8kjrZ,E Ti Vengo A Cercare - Live 1988 / Remastered 2020,Franco Battiato,Giubbe Rosse (Deluxe 30th Anniversary Live & Remastered Edition / Remastered 2020),2026-05-12T20:10:39,237133,1,2026-05-12,1.5,4.9
+654,7lYXfltdMHNHtR5qg3xTX3,4RD4REp6RE2kVZ96Uf1TgB,4lianjyuR1tqf6oUX8kjrZ,Gli Uccelli - Live 1988 / Remastered 2020,Franco Battiato,Giubbe Rosse (Deluxe 30th Anniversary Live & Remastered Edition / Remastered 2020),2026-05-12T20:06:39,283306,1,2026-05-12,1.5,5.11
+655,70wZU1cn68xDajFE5gY3Pr,4RD4REp6RE2kVZ96Uf1TgB,4lianjyuR1tqf6oUX8kjrZ,Centro Di Gravità Permanente - Live 1988 / Remastered 2020,Franco Battiato,Giubbe Rosse (Deluxe 30th Anniversary Live & Remastered Edition / Remastered 2020),2026-05-12T20:02:11,233373,1,2026-05-12,1.5,4.88
+656,4TWGFI2skLKipAwLBsgKSd,4RD4REp6RE2kVZ96Uf1TgB,4lianjyuR1tqf6oUX8kjrZ,Cuccurucucù - Live 1988 / Remastered 2020,Franco Battiato,Giubbe Rosse (Deluxe 30th Anniversary Live & Remastered Edition / Remastered 2020),2026-05-12T19:58:09,178506,1,2026-05-12,1.5,4.57
+657,4KvZyvmPbLzCMn5Hfd1Deo,4RD4REp6RE2kVZ96Uf1TgB,4lianjyuR1tqf6oUX8kjrZ,Summer On A Solitary Beach - Live 1988 / Remastered 2020,Franco Battiato,Giubbe Rosse (Deluxe 30th Anniversary Live & Remastered Edition / Remastered 2020),2026-05-12T19:55:09,210813,1,2026-05-12,1.5,4.77
+658,3aPHB4pU4fPbPqcoSng1K0,4RD4REp6RE2kVZ96Uf1TgB,4lianjyuR1tqf6oUX8kjrZ,No U Turn - Live 1988 / Remastered 2020,Franco Battiato,Giubbe Rosse (Deluxe 30th Anniversary Live & Remastered Edition / Remastered 2020),2026-05-12T19:51:39,264133,4,2026-05-12,6.0,14.38
+659,1ZxR5QzgmSZkArHn7p8wor,4RD4REp6RE2kVZ96Uf1TgB,4lianjyuR1tqf6oUX8kjrZ,Aria Di Rivoluzione - Live 1988 / Remastered 2020,Franco Battiato,Giubbe Rosse (Deluxe 30th Anniversary Live & Remastered Edition / Remastered 2020),2026-05-12T19:47:09,214226,1,2026-05-12,1.5,4.78
+660,0lUBWPZWiGQEKNzayTCpxT,4RD4REp6RE2kVZ96Uf1TgB,4lianjyuR1tqf6oUX8kjrZ,Sequenze E Frequenze - Live 1988 / Remastered 2020,Franco Battiato,Giubbe Rosse (Deluxe 30th Anniversary Live & Remastered Edition / Remastered 2020),2026-05-12T19:43:43,425120,5,2026-05-12,7.5,17.9
+661,2WtslakEz6s0PcIgynJpnc,4RD4REp6RE2kVZ96Uf1TgB,4lianjyuR1tqf6oUX8kjrZ,Oceano Di Silenzio - Live 1988 / Remastered 2020,Franco Battiato,Giubbe Rosse (Deluxe 30th Anniversary Live & Remastered Edition / Remastered 2020),2026-05-12T19:36:39,265120,2,2026-05-12,3.0,8.44
+662,2eBSqX24PTZN2OrbQMhUfV,4RD4REp6RE2kVZ96Uf1TgB,4lianjyuR1tqf6oUX8kjrZ,Voglio Vederti Danzare - Live 1988 / Remastered 2020,Franco Battiato,Giubbe Rosse (Deluxe 30th Anniversary Live & Remastered Edition / Remastered 2020),2026-05-12T19:32:09,204640,2,2026-05-12,3.0,8.09
+663,2HCfUhbElYaqBczZqDLxch,4RD4REp6RE2kVZ96Uf1TgB,4lianjyuR1tqf6oUX8kjrZ,Un'Altra Vita - Live 1988 / Remastered 2020,Franco Battiato,Giubbe Rosse (Deluxe 30th Anniversary Live & Remastered Edition / Remastered 2020),2026-05-12T19:28:39,180320,1,2026-05-12,1.5,4.58
+664,3Y84GaPc2JTCQLF8gRLVJt,4RD4REp6RE2kVZ96Uf1TgB,4lianjyuR1tqf6oUX8kjrZ,L'Era Del Cinghiale Bianco - Live 1988 / Remastered 2020,Franco Battiato,Giubbe Rosse (Deluxe 30th Anniversary Live & Remastered Edition / Remastered 2020),2026-05-12T19:25:39,217840,1,2026-05-12,1.5,4.79
+665,4YP9CntDC527d7nncKwUbY,4RD4REp6RE2kVZ96Uf1TgB,4lianjyuR1tqf6oUX8kjrZ,Giubbe Rosse - Remastered 2020,Franco Battiato,Giubbe Rosse (Deluxe 30th Anniversary Live & Remastered Edition / Remastered 2020),2026-05-12T19:12:27,254493,2,2026-05-12,1.5,6.88
+666,2Ww4wLrJz3l6aIVNBVEqg1,4RD4REp6RE2kVZ96Uf1TgB,4lianjyuR1tqf6oUX8kjrZ,Mesopotamia - Live 1988 / Remastered 2020,Franco Battiato,Giubbe Rosse (Deluxe 30th Anniversary Live & Remastered Edition / Remastered 2020),2026-05-12T19:12:04,263053,1,2026-05-12,1.5,5.02
+667,7klINw0NwgTxxuIo3T9IKs,4RD4REp6RE2kVZ96Uf1TgB,4lianjyuR1tqf6oUX8kjrZ,Alexander Platz - Live 1988 / Remastered 2020,Franco Battiato,Giubbe Rosse (Deluxe 30th Anniversary Live & Remastered Edition / Remastered 2020),2026-05-12T19:11:59,203640,1,2026-05-12,1.5,4.72
+668,1B8FvAkIElgCkCYgONefqG,4RD4REp6RE2kVZ96Uf1TgB,4lianjyuR1tqf6oUX8kjrZ,Lettera Al Governatore Della Libia - Live 1988 / Remastered 2020,Franco Battiato,Giubbe Rosse (Deluxe 30th Anniversary Live & Remastered Edition / Remastered 2020),2026-05-12T19:11:57,206426,1,2026-05-12,1.5,4.73
+669,4YP9CntDC527d7nncKwUbY,4RD4REp6RE2kVZ96Uf1TgB,4lianjyuR1tqf6oUX8kjrZ,Giubbe Rosse - Remastered 2020,Franco Battiato,Giubbe Rosse (Deluxe 30th Anniversary Live & Remastered Edition / Remastered 2020),2026-05-12T18:56:23,254493,2,2026-05-12,1.5,6.88
+670,2Be2FRwYOryoBs15fWt9FK,2xJFvV7JzoYYMere5rqjVf,4X42BfuhWCAZ2swiVze9O0,The Pin Drop,Steven Wilson,The Raven That Refused to Sing (and Other Stories),2026-05-12T17:15:24,303367,1,2026-05-12,1.5,5.2
+671,6qfovhuEiazhpsIe4UqirU,2xJFvV7JzoYYMere5rqjVf,4X42BfuhWCAZ2swiVze9O0,The Holy Drinker,Steven Wilson,The Raven That Refused to Sing (and Other Stories),2026-05-12T10:59:30,613814,1,2026-05-12,1.5,6.13
+672,4kZbYkUuDHyphD71bPMYL1,2xJFvV7JzoYYMere5rqjVf,4X42BfuhWCAZ2swiVze9O0,Drive Home,Steven Wilson,The Raven That Refused to Sing (and Other Stories),2026-05-12T10:48:46,457250,1,2026-05-12,1.5,5.72
+673,033qZdFc0NDMcC5qgwuUux,2xJFvV7JzoYYMere5rqjVf,4X42BfuhWCAZ2swiVze9O0,Luminol,Steven Wilson,The Raven That Refused to Sing (and Other Stories),2026-05-12T10:41:16,730116,1,2026-05-12,1.5,6.37
+674,0UHUKfXdy2VUfZctR8BRMl,51pz4wvc0BPtjnGCWjxX91,1MD5pgVzlusqGyuSTcTxvu,La carrozza di Hans,Premiata Forneria Marconi,Storia Di Un Minuto,2026-05-12T08:39:41,406626,1,2026-05-12,1.5,5.57
+675,5SBaHBlFaKObATvldqHFFt,6NiJ8vCXUZoeqUIyhUDNZX,45Utoxop3UFq0Qg9YFLhx0,Una Dolcezza Nuova,Le Orme,Uomo Di Pezza,2026-05-12T08:33:11,328826,1,2026-05-12,1.5,5.3
+676,2anxaksNDKJJziakWiDLxq,4dMUtgiuiDgFMVHnb6iYfW,6x919AU6p0wfsUAdWV6M5K,Ho Visto Anche Degli Zingari Felici - Intro; 2006 Digital Remastered,Claudio Lolli,Ho Visto Anche Degli Zingari Felici,2026-05-12T08:27:42,414493,1,2026-05-12,1.5,5.6
+677,4Xnx46oORhi3xt5m23Qzse,08WECxW5Pz0dIcEabHkIzU,1MD5pgVzlusqGyuSTcTxvu,Transumanza jam - Live in Lugano,Premiata Forneria Marconi,The Event - Live in Lugano,2026-05-12T08:20:41,202560,2,2026-05-12,3.0,8.07
+678,2nrZgdMUfhxfOBMaS5WgnP,3Ki82G9PYYeZZuT9apAFn0,02frazNrWgZCxUEf4UTfHt,"Every Bloody Emperor - Live, 2005 Leverkusen",Van Der Graaf Generator,"Live at Rockpalast (Live, 2005 Leverkusen)",2026-05-12T08:13:32,456173,1,2026-05-12,1.5,5.72
+679,27cpEDIohXSh71P2vVoMD3,3Ki82G9PYYeZZuT9apAFn0,02frazNrWgZCxUEf4UTfHt,"Scorched Earth - Live, 2005 Leverkusen",Van Der Graaf Generator,"Live at Rockpalast (Live, 2005 Leverkusen)",2026-05-12T08:05:41,579320,1,2026-05-12,1.5,6.05
+680,4d9ad5C4oDbP2MQpOsgsks,3Ki82G9PYYeZZuT9apAFn0,02frazNrWgZCxUEf4UTfHt,"The Undercover Man - Live, 2005 Leverkusen",Van Der Graaf Generator,"Live at Rockpalast (Live, 2005 Leverkusen)",2026-05-12T07:56:11,427640,1,2026-05-12,1.5,5.65
+681,0lUBWPZWiGQEKNzayTCpxT,4RD4REp6RE2kVZ96Uf1TgB,4lianjyuR1tqf6oUX8kjrZ,Sequenze E Frequenze - Live 1988 / Remastered 2020,Franco Battiato,Giubbe Rosse (Deluxe 30th Anniversary Live & Remastered Edition / Remastered 2020),2026-05-13T13:53:55,425120,5,2026-05-13,7.5,17.9
+682,2WtslakEz6s0PcIgynJpnc,4RD4REp6RE2kVZ96Uf1TgB,4lianjyuR1tqf6oUX8kjrZ,Oceano Di Silenzio - Live 1988 / Remastered 2020,Franco Battiato,Giubbe Rosse (Deluxe 30th Anniversary Live & Remastered Edition / Remastered 2020),2026-05-13T13:46:55,265120,2,2026-05-13,3.0,8.44
+683,2eBSqX24PTZN2OrbQMhUfV,4RD4REp6RE2kVZ96Uf1TgB,4lianjyuR1tqf6oUX8kjrZ,Voglio Vederti Danzare - Live 1988 / Remastered 2020,Franco Battiato,Giubbe Rosse (Deluxe 30th Anniversary Live & Remastered Edition / Remastered 2020),2026-05-13T13:42:25,204640,2,2026-05-13,3.0,8.09
+684,4E8lIpvBpdbrsmLNkqE3pq,2U4JHXMiBxsKH4dnYEQg2g,7AC976RDJzL2asmZuz7qil,Eastern Numbers - Early Version of Awaken,Yes,Going for the One (Deluxe Edition),2026-05-13T13:38:55,736933,1,2026-05-13,1.5,6.38
+685,7DwGeRDMF15VXcqgwXY41b,2U4JHXMiBxsKH4dnYEQg2g,7AC976RDJzL2asmZuz7qil,Turn of the Century - Rehearsal,Yes,Going for the One (Deluxe Edition),2026-05-13T13:26:25,414533,1,2026-05-13,1.5,5.6
+686,2zqp7LQ19ZS8I7wLARzrBc,2U4JHXMiBxsKH4dnYEQg2g,7AC976RDJzL2asmZuz7qil,Parallels - Rehearsal,Yes,Going for the One (Deluxe Edition),2026-05-13T13:19:55,377066,1,2026-05-13,1.5,5.48
+687,3oaK9kAaZXDQsq2umKYq0H,2U4JHXMiBxsKH4dnYEQg2g,7AC976RDJzL2asmZuz7qil,Going for the One - Rehearsal,Yes,Going for the One (Deluxe Edition),2026-05-13T13:13:33,307533,1,2026-05-13,1.5,5.21
+688,554I7Vh0EH0nxlt4zzRNgN,2U4JHXMiBxsKH4dnYEQg2g,7AC976RDJzL2asmZuz7qil,Amazing Grace - 2003 Remaster,Yes,Going for the One (Deluxe Edition),2026-05-13T13:08:33,151533,1,2026-05-13,1.5,4.39
+689,4dbkLjN9IDo10Hr0j1zexs,2U4JHXMiBxsKH4dnYEQg2g,7AC976RDJzL2asmZuz7qil,Vevey (Revisited) - 2003 Remaster,Yes,Going for the One (Deluxe Edition),2026-05-13T13:06:03,282213,1,2026-05-13,1.5,5.11
+690,5TCMwUI5HkTSDB8DxtYosb,2U4JHXMiBxsKH4dnYEQg2g,7AC976RDJzL2asmZuz7qil,Montreux's Theme - 2003 Remaster,Yes,Going for the One (Deluxe Edition),2026-05-13T13:01:03,153586,1,2026-05-13,1.5,4.41
+691,5QzZDAATnQhIEQSyktZFEU,2U4JHXMiBxsKH4dnYEQg2g,7AC976RDJzL2asmZuz7qil,Awaken - 2003 Remaster,Yes,Going for the One (Deluxe Edition),2026-05-13T12:58:33,931146,1,2026-05-13,1.5,6.7
+692,2de98HzQLgj4mN9X68IjAu,2U4JHXMiBxsKH4dnYEQg2g,7AC976RDJzL2asmZuz7qil,Wonderous Stories - 2003 Remaster,Yes,Going for the One (Deluxe Edition),2026-05-13T12:42:57,229160,1,2026-05-13,1.5,4.86
+693,73RVbX3YhvDYTSyrzKguSi,2U4JHXMiBxsKH4dnYEQg2g,7AC976RDJzL2asmZuz7qil,Parallels - 2003 Remaster,Yes,Going for the One (Deluxe Edition),2026-05-13T12:39:32,353906,4,2026-05-13,6.0,14.8
+694,6ghacFqX1Xybok4ADSDq4u,2U4JHXMiBxsKH4dnYEQg2g,7AC976RDJzL2asmZuz7qil,Turn of the Century - 2003 Remaster,Yes,Going for the One (Deluxe Edition),2026-05-13T12:33:33,475480,1,2026-05-13,1.5,5.79
+695,7JTaExKeVhJ7zxONogTgnO,2U4JHXMiBxsKH4dnYEQg2g,7AC976RDJzL2asmZuz7qil,Going for the One - 2003 Remaster,Yes,Going for the One (Deluxe Edition),2026-05-13T11:54:04,331840,1,2026-05-13,1.5,5.32
+696,1fuRnovowt52s2sVXmu9Wv,1gFxD1QvxsUkafEuIeJ0LW,02frazNrWgZCxUEf4UTfHt,Ponker's Theme - Remastered 2021,Van Der Graaf Generator,The Pawn Hearts Sessions,2026-05-13T11:43:34,86876,1,2026-05-13,1.5,3.85
+697,6rjVP61adR53qpIQ8A4B3J,1gFxD1QvxsUkafEuIeJ0LW,02frazNrWgZCxUEf4UTfHt,Angle Of Incidents - Remastered 2021,Van Der Graaf Generator,The Pawn Hearts Sessions,2026-05-13T11:42:04,287356,1,2026-05-13,1.5,5.14
+698,47FdK8tvNarSDnM9uMXhJx,1gFxD1QvxsUkafEuIeJ0LW,02frazNrWgZCxUEf4UTfHt,W - First Version / Remastered 2021,Van Der Graaf Generator,The Pawn Hearts Sessions,2026-05-13T11:37:34,301929,1,2026-05-13,1.5,5.2
+699,4qVjaG8Z0Mh4yRUuEUknty,1gFxD1QvxsUkafEuIeJ0LW,02frazNrWgZCxUEf4UTfHt,Squid/Octopus - Remastered 2021,Van Der Graaf Generator,The Pawn Hearts Sessions,2026-05-13T11:32:34,924596,1,2026-05-13,1.5,6.7
+700,4j3vWrRoMfZY0tQVdd2vTa,1gFxD1QvxsUkafEuIeJ0LW,02frazNrWgZCxUEf4UTfHt,W - Remastered 2021,Van Der Graaf Generator,The Pawn Hearts Sessions,2026-05-13T11:17:04,267302,1,2026-05-13,1.5,5.05
+701,3hXFX6le4RkzF8trx7xUM1,1gFxD1QvxsUkafEuIeJ0LW,02frazNrWgZCxUEf4UTfHt,Theme One - Remastered 2021,Van Der Graaf Generator,The Pawn Hearts Sessions,2026-05-13T11:12:36,176491,1,2026-05-13,1.5,4.55
+702,4WV026a2UJrYUwEp4dVwxY,4ahL5vlNhi3Ob0c6syAMSg,31oFtS8VXHkm8YVypYsw89,"La Montaña, la Ciudad",Mezquita,Califas del Rock,2026-05-13T09:00:06,362893,1,2026-05-13,1.5,5.42
+703,3vhvkzp1rkvBWFpjeXeGbT,4ahL5vlNhi3Ob0c6syAMSg,31oFtS8VXHkm8YVypYsw89,Resaca del Amanecer,Mezquita,Califas del Rock,2026-05-13T08:54:14,240866,1,2026-05-13,1.5,4.92
+704,5pLqf7TEvDr4QvOeLPUBQU,4ahL5vlNhi3Ob0c6syAMSg,31oFtS8VXHkm8YVypYsw89,Cara Sin Cruz,Mezquita,Califas del Rock,2026-05-13T08:50:14,189173,2,2026-05-13,3.0,7.98
+705,0C1zYfc9awIJGuFV1vRrdi,4ahL5vlNhi3Ob0c6syAMSg,31oFtS8VXHkm8YVypYsw89,Mente de Mi Subconsciente,Mezquita,Califas del Rock,2026-05-13T08:47:14,203000,2,2026-05-13,3.0,8.07
+706,04C3eRaNUMdAnt7CAJ01Gi,4ahL5vlNhi3Ob0c6syAMSg,31oFtS8VXHkm8YVypYsw89,La Ultima Juerga,Mezquita,Califas del Rock,2026-05-13T08:43:44,317666,2,2026-05-13,3.0,8.68
+707,0fkiEfMOMVcEJtIHVanPic,4ahL5vlNhi3Ob0c6syAMSg,31oFtS8VXHkm8YVypYsw89,Aguas del Guadalquivir,Mezquita,Califas del Rock,2026-05-13T08:38:14,249493,2,2026-05-13,3.0,8.34
+708,16q0i1YK2y41gMeJrBFXnv,4ahL5vlNhi3Ob0c6syAMSg,31oFtS8VXHkm8YVypYsw89,Así Soy Yo,Mezquita,Califas del Rock,2026-05-13T08:34:14,236240,2,2026-05-13,3.0,8.27
+709,3o4fe9BKgqNE9ZodFat9d7,4ahL5vlNhi3Ob0c6syAMSg,31oFtS8VXHkm8YVypYsw89,Cuentos Arabes,Mezquita,Califas del Rock,2026-05-13T08:30:14,211666,3,2026-05-13,4.5,11.18
+710,58cQfjeWhZtwvnSKffDx8k,0QXX3eaggwqZXkHJ1zwaGC,31oFtS8VXHkm8YVypYsw89,Obertura En Si Bemol - Remasterizado,Mezquita,Recuerdos De Mi Tierra (Remasterizado 2023),2026-05-13T08:26:44,370053,1,2026-05-13,1.5,5.46
+711,37NNGpwuC0OlgOAByK5N0V,0QXX3eaggwqZXkHJ1zwaGC,31oFtS8VXHkm8YVypYsw89,Suicidio - Remasterizado,Mezquita,Recuerdos De Mi Tierra (Remasterizado 2023),2026-05-13T08:20:44,441373,1,2026-05-13,1.5,5.68
+712,6GQAYT0AssRfoGWWrD1UvW,0QXX3eaggwqZXkHJ1zwaGC,31oFtS8VXHkm8YVypYsw89,Ara Buza (Dame Un Beso) - Remasterizado,Mezquita,Recuerdos De Mi Tierra (Remasterizado 2023),2026-05-13T08:13:14,274226,2,2026-05-13,3.0,8.48
+713,34RWVJloaUCdCe9EYMH9ms,0QXX3eaggwqZXkHJ1zwaGC,31oFtS8VXHkm8YVypYsw89,Desde Que Somos Dos - Remasterizado,Mezquita,Recuerdos De Mi Tierra (Remasterizado 2023),2026-05-13T08:08:44,347053,2,2026-05-13,3.0,8.79
+714,19GTGG1v14wOISts5UNUr3,0QXX3eaggwqZXkHJ1zwaGC,31oFtS8VXHkm8YVypYsw89,El Bizco De Los Patios - Remasterizado,Mezquita,Recuerdos De Mi Tierra (Remasterizado 2023),2026-05-13T08:02:44,260519,2,2026-05-13,3.0,8.41
+715,7vYZU6UBqScL7BKFVIYOAk,0QXX3eaggwqZXkHJ1zwaGC,31oFtS8VXHkm8YVypYsw89,Recuerdos De Mi Tierra - Remasterizado,Mezquita,Recuerdos De Mi Tierra (Remasterizado 2023),2026-05-13T07:58:14,466226,2,2026-05-13,3.0,9.21
