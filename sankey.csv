@@ -1,0 +1,24 @@
+from,to,freq
+Kajagoogoo,Kaja,10
+Kajagoogoo,Franco Battiato,3
+Kajagoogoo,New Order,3
+Yes,King Crimson,12
+Yes,Franco Battiato,5
+Yes,Premiata Forneria Marconi,3
+Van Der Graaf Generator,Yes,5
+Van Der Graaf Generator,Premiata Forneria Marconi,3
+Van Der Graaf Generator,King Crimson,3
+Franco Battiato,Premiata Forneria Marconi,7
+Franco Battiato,King Crimson,5
+Franco Battiato,Banco Del Mutuo Soccorso,4
+Premiata Forneria Marconi,Franco Battiato,10
+Premiata Forneria Marconi,Yes,4
+Premiata Forneria Marconi,NEU!,3
+King Crimson,Yes,11
+King Crimson,Premiata Forneria Marconi,5
+King Crimson,Van Der Graaf Generator,3
+Banco Del Mutuo Soccorso,Premiata Forneria Marconi,3
+Banco Del Mutuo Soccorso,Van Der Graaf Generator,3
+Depeche Mode,New Order,3
+Depeche Mode,Kajagoogoo,3
+Mezquita,Yes,3
