@@ -1,0 +1,122 @@
+artist,unique_tracks,unique_days,sum_track_score,sum_dur_min,artist_score
+Van Der Graaf Generator,57,16,1797.82,1024.66,3496.81
+Kajagoogoo,70,14,2319.85,635.24,3454.71
+Yes,51,16,1951.09,751.01,3227.6
+Franco Battiato,60,19,1307.11,432.73,2133.2
+Premiata Forneria Marconi,36,13,1074.5,363.56,1730.84
+King Crimson,40,20,914.3199999999999,409.03,1667.86
+The Dandy Warhols,31,5,579.93,218.63,984.88
+Banco Del Mutuo Soccorso,26,10,421.14,255.13,885.84
+The Rolling Stones,32,10,400.96,156.23,729.3
+Depeche Mode,26,7,332.02,189.79,689.7
+New Order,22,6,277.68,185.47,617.88
+Mezquita,14,5,294.21,122.47,520.92
+NEU!,14,3,176.04,95.13,355.74
+The Beatles,12,8,191.82,56.98,325.29
+Genesis,10,7,148.52,89.56,323.86
+Kaja,11,4,119.33,65.83,252.08
+"Anderson, Squire, Howe",1,3,127.74,74.22,250.07
+Talking Heads,8,7,131.75,50.839999999999996,245.01
+Pink Floyd,2,5,147.65,41.26,228.54
+Curved Air,2,6,133.14,44.79,222.32
+Gary Numan,11,2,105.0,53.1,212.65
+Steven Wilson,6,5,88.48,61.93,208.38
+The Kinks,6,7,116.4,37.81,206.12
+Triana,9,3,83.58,57.85,197.36
+Grateful Dead,7,5,93.17,47.6,193.57
+John Coltrane,7,2,60.82,56.88,166.14
+The Who,2,6,91.82,27.520000000000003,155.1
+Logos,1,3,72.4,45.84,152.16
+Angelo Branduardi,5,4,82.92,31.32,151.9
+Tangerine Dream,3,4,77.73,34.82,147.96
+Camel,4,5,73.01,32.99,145.5
+Pet Shop Boys,4,2,74.08,38.2,145.38
+Traffic,4,5,61.370000000000005,39.51,143.64
+Jimmy Smith,2,4,67.25,30.950000000000003,129.68
+Aphrodite's Child,3,4,69.71,27.759999999999998,129.35
+Area,2,3,66.2,31.099999999999998,125.85
+Thelonious Monk,8,1,55.2,32.63,123.15
+DEVO,6,2,60.86,20.990000000000002,110.34
+CAN,3,3,41.41,34.36,107.95
+Vangelis,2,3,53.36,25.380000000000003,104.43
+Irmin Schmidt,1,4,68.48,13.96,103.42
+Lynyrd Skynyrd,1,3,48.09,27.36,100.13
+Led Zeppelin,3,3,40.81,29.200000000000003,99.61
+Fleetwood Mac,5,4,44.980000000000004,18.77,95.14
+Le Orme,3,4,38.53,24.09,92.66
+Mal Waldron,1,3,46.019999999999996,20.82,88.25
+Ozric Tentacles,4,1,33.27,28.44,86.93
+Focus,3,2,36.44,20.54,79.25
+Talk Talk,4,2,30.83,21.89,77.66
+Bob Dylan,1,3,42.72,13.379999999999999,73.79
+America,1,3,42.269999999999996,12.600000000000001,72.17
+Creedence Clearwater Revival,2,3,40.13,12.190000000000001,71.42
+Los Lobos,5,1,31.9,16.15,69.12
+Frank Zappa,2,3,42.63,8.58,68.5
+La coscienza di Zeno,3,3,23.83,17.97,65.78
+Anouar Brahem,3,2,23.11,16.85,60.39
+R.E.M.,2,2,28.040000000000003,12.25,56.42
+Lucio Battisti,3,3,20.88,12.18,54.15
+Pearl Jam,2,3,26.26,9.83,54.01
+Rabih Abou-Khalil,2,1,17.6,16.68,49.62
+East Of Eden,2,2,16.939999999999998,14.77,49.1
+Jerry Garcia Band,1,2,22.54,11.04,47.1
+Jimmy Giuffre,2,2,24.52,7.66,46.01
+Billy Cobham,1,2,22.22,10.34,45.73
+The Beach Boys,2,2,24.27,7.42,45.4
+The Boomtown Rats,1,2,22.1,10.12,45.28
+Miles Davis,2,2,16.1,12.33,44.6
+Soft Machine,1,1,10.88,19.12,44.56
+Bad Company,1,2,21.82,9.54,44.13
+Ten Years After,2,3,20.3,5.15,41.02
+The Alan Parsons Project,1,2,20.9,7.94,40.81
+Kraan,1,2,20.68,7.62,40.11
+Toufic Farroukh,2,1,15.620000000000001,11.24,39.48
+Avishai Cohen,2,1,15.6,11.2,39.4
+The Pretty Things,1,2,20.28,7.02,38.81
+Violeta Parra,1,2,19.86,6.46,37.55
+Angine de Poitrine,2,1,14.879999999999999,9.8,36.58
+Jethro Tull,2,2,13.55,7.41,34.66
+Jefferson Airplane,1,2,18.6,5.02,34.13
+Eric Clapton,2,2,13.16,6.859999999999999,33.45
+Neil Young,2,2,12.35,5.88,31.17
+Victor Jara,2,1,12.71,6.28,29.13
+Locanda delle fate,1,1,9.22,9.86,29.01
+The The,1,1,9.15,9.58,28.52
+Golden Earring,1,1,9.07,9.27,27.98
+Jimi Hendrix,1,1,8.63,7.79,25.32
+Japan,1,1,8.42,7.15,24.15
+Claudio Lolli,1,1,8.33,6.91,23.7
+Fairport Convention,1,1,7.61,5.17,20.36
+Louis Armstrong,1,1,7.55,5.05,20.12
+The Doors,1,1,7.51,4.98,19.98
+Le Trio Joubran,1,1,7.5,4.95,19.92
+Alberto Radius,1,1,7.24,4.46,18.93
+Ultravox,1,1,7.21,4.41,18.83
+Wang Chung,1,1,7.19,4.38,18.76
+Tigran Hamasyan,1,1,7.14,4.29,18.58
+"Emerson, Lake & Palmer",1,1,7.13,4.27,18.53
+The Stranglers,1,1,7.04,4.12,18.22
+PJ Harvey,1,1,6.98,4.02,18.01
+Porcupine Tree,1,1,6.88,3.86,17.67
+Simple Minds,1,1,6.88,3.86,17.67
+Eurythmics,1,1,6.8,3.75,17.42
+Leonard Cohen,1,1,6.62,3.48,16.84
+The Byrds,1,1,6.52,3.35,16.55
+Eric Burdon & the Animals,1,1,6.5,3.32,16.48
+Pentangle,1,1,6.44,3.24,16.3
+Radiohead,1,1,6.42,3.21,16.24
+Gentle Giant,1,1,6.4,3.19,16.19
+Orchestral Manoeuvres In The Dark,1,1,6.39,3.18,16.16
+Jean-Luc Ponty,1,1,6.36,3.14,16.07
+Dhafer Youssef,1,1,6.31,3.08,15.93
+Charlie Parker,1,1,6.27,3.03,15.82
+The Durutti Column,1,1,6.22,2.97,15.68
+Pixies,1,1,6.18,2.92,15.56
+The Police,1,1,5.73,2.44,14.39
+New Trolls,1,1,5.69,2.4,14.29
+The Trashmen,1,1,5.57,2.29,14.0
+Strawberry Alarm Clock,1,1,5.1,1.9,12.95
+Dizzy Gillespie,1,1,5.09,1.89,12.92
+Red Hot Chili Peppers,1,1,4.96,1.79,12.65
+Andre Francis,1,1,4.02,1.23,10.86
