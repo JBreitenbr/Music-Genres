@@ -1,4 +1,4 @@
-artist,day,ind,daily_score,n_tracks,n_utracks,daily_dur
+group,variable,value,daily_score,n_tracks,n_utracks,daily_dur
 Van Der Graaf Generator,1,0,0,0,0,0
 Franco Battiato,1,1,18,2,2,8.07
 Yes,1,4,46,5,5,29.08
